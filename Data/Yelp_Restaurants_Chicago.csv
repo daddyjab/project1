@@ -1,0 +1,1141 @@
+zip,city,state,name,price,rating,review_count,type,latitude,longitude
+60601,Chicago,IL,Wildberry Pancakes and Cafe,$$,4.5,5854,American (New),41.884668,-87.62288
+60603,Chicago,IL,The Gage,$$,4.0,2629,American (New),41.8810478466356,-87.6245328837886
+60603,Chicago,IL,Cindy's,$$,4.0,1387,American (New),41.8816894031196,-87.6250061730162
+60604,Chicago,IL,Native Foods Cafe,$$,4.0,729,American (New),41.87887,-87.63117
+60605,Chicago,IL,The Bongo Room,$$,4.0,1452,American (New),41.8677,-87.62647
+60607,Chicago,IL,Girl & the Goat,$$$,4.5,7886,American (New),41.8841049992939,-87.6479440725005
+60607,Chicago,IL,The Publican,$$$,4.0,3030,American (New),41.886644,-87.648765
+60608,Chicago,IL,Dusek's Board & Beer,$$,4.0,857,American (New),41.857871,-87.65739
+60608,Chicago,IL,EL Ideas,$$$$,4.5,301,American (New),41.86275,-87.687
+60608,Chicago,IL,S.K.Y.,$$$,4.5,232,American (New),41.8577851,-87.6578749
+60608,Chicago,IL,The Duck Inn,$$$,4.0,398,American (New),41.8444817593219,-87.6601841065537
+60610,Chicago,IL,Velvet Taco,$$,4.0,1229,American (New),41.9022,-87.62858
+60610,Chicago,IL,3rd Coast Cafe,$$,4.0,555,American (New),41.90565,-87.63047
+60611,Chicago,IL,Beatrix Streeterville,$$,4.5,701,American (New),41.8944242,-87.622564
+60611,Chicago,IL,Doc B's Restaurant + Bar,$$,4.5,692,American (New),41.900246,-87.625163
+60611,Chicago,IL,Bandera Restaurant,$$,4.0,1704,American (New),41.8919021875965,-87.6236184577346
+60611,Chicago,IL,The Signature Room at the 95th,$$$,3.5,1758,American (New),41.8987400255629,-87.6228248552254
+60613,Chicago,IL,PR Italian Bistro,$$,4.0,648,American (New),41.953,-87.65477
+60613,Chicago,IL,Southport & Irving SIP,$$,4.0,515,American (New),41.95452,-87.6644318
+60614,Chicago,IL,Alinea,$$$$,4.5,1939,American (New),41.9134194160823,-87.6482384681229
+60614,Chicago,IL,Del Seoul,$,4.5,1928,American (New),41.929444,-87.643016
+60614,Chicago,IL,Boka,$$$,4.5,1258,American (New),41.9135158,-87.6480859
+60615,Chicago,IL,Native Foods Cafe,$$,3.5,227,American (New),41.800402,-87.58823
+60616,Chicago,IL,Acadia,$$$$,4.0,434,American (New),41.859047,-87.625243
+60617,Chicago,IL,Wingz It Iz,$$,4.0,17,American (New),41.7292404174805,-87.5858688354492
+60617,Chicago,IL,Family Den,$,4.0,13,American (New),41.7317248,-87.5856549
+60617,Chicago,IL,C & G Restaurant,$,3.0,7,American (New),41.7281058,-87.5509279
+60618,Chicago,IL,Honey Butter Fried Chicken,$$,4.0,1673,American (New),41.9426302817062,-87.7027218416333
+60618,Chicago,IL,Little Bucharest Bistro,$$,4.5,574,American (New),41.94799,-87.7105
+60618,Chicago,IL,Parachute,$$$,4.0,566,American (New),41.944707,-87.706518
+60619,Chicago,IL,Sizzlin Skillets,$$,3.0,27,American (New),41.7374151590601,-87.6045724377036
+60622,Chicago,IL,The Violet Hour,$$,4.0,2088,American (New),41.909095,-87.677829
+60622,Chicago,IL,The Bongo Room,$$,4.0,1507,American (New),41.90841,-87.67492
+60622,Chicago,IL,Oiistar,$$,4.0,872,American (New),41.9070880100627,-87.6720839738846
+60622,Chicago,IL,Forbidden Root,$$,4.5,377,American (New),41.8962684049794,-87.6713814117853
+60622,Chicago,IL,Umami Burger - Wicker Park,$$,4.0,810,American (New),41.9085899,-87.6752
+60624,Chicago,IL,Inspiration Kitchens,$$,4.5,204,American (New),41.88502,-87.71402
+60625,Chicago,IL,Gather,$$,4.5,752,American (New),41.9643402,-87.6853638
+60625,Chicago,IL,Goosefoot,$$$$,4.5,272,American (New),41.9686849,-87.6960164
+60625,Chicago,IL,Fork,$$,4.0,950,American (New),41.96511,-87.68662
+60625,Chicago,IL,Rockwell's Neighborhood Grill,$$,4.0,388,American (New),41.96587,-87.6939699
+60626,Chicago,IL,R Public House,$$,4.0,193,American (New),42.016348,-87.66857
+60628,Chicago,IL,Jimmy's Best,$$,3.0,4,American (New),41.70737,-87.62853
+60629,Chicago,IL,Top View,$,4.0,77,American (New),41.77816,-87.74048
+60630,Chicago,IL,Jefferson Park Grill,$,4.5,48,American (New),41.9704818725586,-87.7627716064453
+60631,Chicago,IL,The Curragh Irish Pub,$$,4.0,224,American (New),42.00318,-87.81622
+60631,Chicago,IL,Iron Horse Ale House,$$,4.0,190,American (New),41.99336,-87.80131
+60631,Chicago,IL,Bar Louie,$$,3.5,150,American (New),41.9818509309924,-87.8354948759079
+60634,Chicago,IL,A&J Krazy Kitchen,$,4.5,31,American (New),41.95228,-87.81642
+60638,Chicago,IL,Bohica Bar & Grill,$$,3.5,39,American (New),41.79832,-87.74731
+60640,Chicago,IL,Tweet,$$,4.0,1441,American (New),41.973934,-87.6551426
+60640,Chicago,IL,The River Valley Farmer's Table,$$,4.5,320,American (New),41.965285053298,-87.6757046380287
+60640,Chicago,IL,Vincent Restaurant,$$$,4.0,458,American (New),41.9798175448213,-87.6675344363907
+60640,Chicago,IL,Band of Bohemia,$$$,4.0,447,American (New),41.9676094055176,-87.6751098632812
+60640,Chicago,IL,Lady Gregory's,$$,3.5,781,American (New),41.9774908,-87.6685493
+60640,Chicago,IL,Fat Cat,$$,3.5,584,American (New),41.9701070447662,-87.6599332164817
+60641,Chicago,IL,Community Tavern,$$$,4.5,359,American (New),41.9540099,-87.74883
+60641,Chicago,IL,Old Irving Brewing,$$,4.0,340,American (New),41.9606817809204,-87.7393777788835
+60642,Chicago,IL,TWO Restaurant,$$$,4.5,788,American (New),41.89133,-87.65613
+60643,Chicago,IL,Horse Thief Hollow,$$,4.0,361,American (New),41.7037308,-87.6815386
+60646,Chicago,IL,City's Edge Chicago,$$,4.0,67,American (New),41.9975928291085,-87.7612422779202
+60647,Chicago,IL,Lula Cafe,$$,4.5,1798,American (New),41.927668036295,-87.706845233929
+60647,Chicago,IL,Revolution Brewing,$$,4.0,2009,American (New),41.92353,-87.698153
+60647,Chicago,IL,Scofflaw,$$,4.5,699,American (New),41.9173240661621,-87.7071762084961
+60647,Chicago,IL,The Bristol,$$$,4.0,1095,American (New),41.92105,-87.67804
+60647,Chicago,IL,Giant,$$$,4.5,346,American (New),41.9171,-87.70746
+60647,Chicago,IL,Parson's Chicken & Fish,$$,3.5,901,American (New),41.91758764277,-87.7013152429917
+60649,Chicago,IL,Parrot Cage Restaurant,$$,3.5,43,American (New),41.768979,-87.563791
+60649,Chicago,IL,Red Rooster,$$,4.0,9,American (New),41.765646,-87.574539
+60652,Chicago,IL,Dons Drive Inn,$,4.5,4,American (New),41.75198,-87.70283
+60654,Chicago,IL,Beatrix River North,$$,4.0,1664,American (New),41.891477,-87.6308169
+60654,Chicago,IL,Gilt Bar,$$$,4.0,1556,American (New),41.8894,-87.6353199
+60654,Chicago,IL,Siena Tavern,$$$,4.0,1606,American (New),41.8890751,-87.6299699
+60654,Chicago,IL,Hub 51,$$,4.0,1664,American (New),41.8899784766276,-87.6296997070312
+60654,Chicago,IL,Yolk River North,$$,4.0,1156,American (New),41.8962039977196,-87.6339920320032
+60655,Chicago,IL,Gilhooley's,$$,3.0,47,American (New),41.7059006541967,-87.7186015248299
+60657,Chicago,IL,Home Bistro,$$,4.5,908,American (New),41.943935,-87.649505
+60657,Chicago,IL,BIG & little's Restaurant,$,4.0,880,American (New),41.9400472330334,-87.6555045423279
+60657,Chicago,IL,Cheesie's Pub and Grub,$,4.0,1099,American (New),41.9400049,-87.6538139
+60657,Chicago,IL,DryHop Brewers,$$,4.0,703,American (New),41.9392443174878,-87.6442063962951
+60657,Chicago,IL,Native Foods Cafe,$$,4.0,477,American (New),41.9397892506553,-87.655069123534
+60657,Chicago,IL,Mortar & Pestle,$$,4.0,408,American (New),41.93806,-87.64464
+60657,Chicago,IL,Pick Me Up Cafe,$$,4.0,888,American (New),41.9438,-87.65403
+60657,Chicago,IL,Yoshi's Cafe,$$$,4.0,292,American (New),41.9417028,-87.6492322
+60660,Chicago,IL,m.henry,$$,4.0,1628,American (New),41.9856948852539,-87.6688842773438
+60660,Chicago,IL,Nookies Edgewater,$$,4.0,513,American (New),41.98395,-87.65824
+60660,Chicago,IL,Uncommon Ground,$$,3.5,730,American (New),41.9980244460366,-87.6655852796304
+60661,Chicago,IL,Blackbird,$$$,4.0,1471,American (New),41.8842918333133,-87.6435537582028
+60661,Chicago,IL,Carnivale,$$$,4.0,2112,American (New),41.887075681459,-87.646048728271
+60661,Chicago,IL,Oriole,$$$$,5.0,226,American (New),41.8860966,-87.6449481
+60661,Chicago,IL,Sepia,$$$,4.0,1056,American (New),41.883933,-87.6424
+60666,Chicago,IL,Publican Tavern,$$,3.5,305,American (New),41.9766490093115,-87.9009209637348
+60666,Chicago,IL,Gaslight Club,$$$,3.5,78,American (New),41.9779648218459,-87.9051733016968
+60666,Chicago,IL,Wolfgang Puck Express,$$,2.5,240,American (New),41.9770378867243,-87.9072342962174
+60666,Chicago,IL,Goose Island Brewpub,$$,2.0,283,American (New),41.9768015357764,-87.8971948386615
+60666,Chicago,IL,Wolfgang Puck Express,$$,2.5,128,American (New),41.9783237336037,-87.9069435596466
+60666,Chicago,IL,Beaudevin,$$,3.5,36,American (New),41.9783895338752,-87.910250723362
+60630,Chicago,IL,Hala In Restaurant,$$,4.0,267,Arabian,41.9682049,-87.74394
+60603,Chicago,IL,Boleo,$$,4.0,111,Argentine,41.8807491198048,-87.6315721359599
+60607,Chicago,IL,El Che Bar,$$$,4.0,172,Argentine,41.8829851,-87.6491649
+60613,Chicago,IL,Tango Sur,$$,4.0,2196,Argentine,41.9507843879442,-87.6639031774259
+60613,Chicago,IL,FRÍO Gelato - Lakeview / Wrigleyville,$,4.5,48,Argentine,41.9496448,-87.6639119
+60618,Chicago,IL,La Nonna,$$,5.0,243,Argentine,41.9429574,-87.7203016
+60618,Chicago,IL,Ñ,$$,4.0,245,Argentine,41.9356832,-87.6927103
+60622,Chicago,IL,Folklore Argentine Grill,$$,4.0,622,Argentine,41.9034461975098,-87.6799240112305
+60640,Chicago,IL,FRÍO Gelato - Andersonville,$$,5.0,1,Argentine,41.9759727698183,-87.6684518537166
+60641,Chicago,IL,Buenos Aires Deli,$$,4.5,24,Argentine,41.93717,-87.74722
+60647,Chicago,IL,El Nandu Restaurant,$$,4.0,336,Argentine,41.92452,-87.6962099
+60659,Chicago,IL,Evita Argentinian Steakhouse,$$$$,4.0,32,Argentine,41.99298,-87.71219
+60601,Chicago,IL,MingHin Cuisine,$$,4.0,644,Asian Fusion,41.8851133316306,-87.6191340577136
+60601,Chicago,IL,Wow Bao,$,3.5,543,Asian Fusion,41.8859149826022,-87.6282665232788
+60603,Chicago,IL,Brightwok Kitchen,$$,4.5,533,Asian Fusion,41.8794583529234,-87.6270027458668
+60603,Chicago,IL,Ara On,$$,4.0,317,Asian Fusion,41.8795332,-87.6327046
+60603,Chicago,IL,Flat Top Grill,$$,3.5,545,Asian Fusion,41.8811622,-87.6263129
+60603,Chicago,IL,Hot Woks Cool Sushi,$$,3.5,562,Asian Fusion,41.88114,-87.625
+60605,Chicago,IL,Saucy Porka,$,4.5,600,Asian Fusion,41.8765020444174,-87.6331966288361
+60605,Chicago,IL,Asian Outpost,$$,4.0,360,Asian Fusion,41.865437,-87.6255416320581
+60605,Chicago,IL,Niu B,$$,4.0,237,Asian Fusion,41.870627153595,-87.6243124902248
+60606,Chicago,IL,Spotted Monkey,$$,4.5,165,Asian Fusion,41.8772,-87.63477
+60608,Chicago,IL,Joy Yee's Noodle Shop,$$,3.5,615,Asian Fusion,41.8643301355842,-87.6467004576721
+60610,Chicago,IL,Forastero,$,4.5,265,Asian Fusion,41.9108,-87.64045
+60611,Chicago,IL,Niu Japanese Fusion Lounge,$$,3.5,757,Asian Fusion,41.891185141978,-87.618678666509
+60611,Chicago,IL,Wow Bao,$,3.5,580,Asian Fusion,41.8979009401519,-87.6237559318542
+60611,Chicago,IL,Big Bowl,$$,3.5,749,Asian Fusion,41.892629,-87.6261317
+60613,Chicago,IL,Earth's Kitchen,$$,4.0,122,Asian Fusion,41.9495682443371,-87.6493797451258
+60614,Chicago,IL,Del Seoul,$,4.5,1928,Asian Fusion,41.929444,-87.643016
+60614,Chicago,IL,Macku Sushi,$$$,4.0,396,Asian Fusion,41.92255,-87.66521
+60614,Chicago,IL,Nori Sushi Bar - Lakeview,$$,4.0,488,Asian Fusion,41.932718,-87.653535
+60615,Chicago,IL,Chant,$$,3.5,425,Asian Fusion,41.7994154258194,-87.588751312442
+60615,Chicago,IL,Saucy Porka,$$,4.0,40,Asian Fusion,41.79538,-87.59696
+60615,Chicago,IL,Eto'o Modern Asian Cuisine,$$,3.5,49,Asian Fusion,41.7993689,-87.5922029
+60616,Chicago,IL,Go 4 Food,$$,4.0,636,Asian Fusion,41.851085,-87.6326203
+60616,Chicago,IL,Hing Kee Restaurant,$$,3.5,505,Asian Fusion,41.853948,-87.633651
+60616,Chicago,IL,Joy Yee Plus,$$,3.5,323,Asian Fusion,41.853795,-87.634696
+60617,Chicago,IL,New Chop Suey,$,2.5,3,Asian Fusion,41.7294425964355,-87.5508422851562
+60618,Chicago,IL,Friendship Chinese Restaurant,$$,3.5,777,Asian Fusion,41.9324798583984,-87.7135467529297
+60620,Chicago,IL,Ho Ho Restaurant,$,4.0,13,Asian Fusion,41.7504086,-87.6441649
+60622,Chicago,IL,Kai Zan,$$$,4.5,872,Asian Fusion,41.8955051374998,-87.6915407180786
+60622,Chicago,IL,En Hakkore 2.0,$$,4.5,368,Asian Fusion,41.90869,-87.6743
+60622,Chicago,IL,Oiistar,$$,4.0,872,Asian Fusion,41.9070880100627,-87.6720839738846
+60622,Chicago,IL,Mott St,$$,4.0,646,Asian Fusion,41.9071254164458,-87.6673834605751
+60622,Chicago,IL,Silli Kori,$$,4.5,172,Asian Fusion,41.90286,-87.67935
+60622,Chicago,IL,MAK Restaurant,$$,4.0,229,Asian Fusion,41.9032611,-87.6759818
+60625,Chicago,IL,Jibek Jolu,$$,4.0,297,Asian Fusion,41.9732243,-87.6913578
+60625,Chicago,IL,2 Asian Brothers,$,4.0,170,Asian Fusion,41.97599,-87.70962
+60634,Chicago,IL,Li Hing,$,4.0,109,Asian Fusion,41.93878,-87.77103
+60634,Chicago,IL,Ninja Sushi & Thai Restaurant,$$,4.0,95,Asian Fusion,41.952448,-87.7671049
+60637,Chicago,IL,Seoul Taco,$$,4.0,10,Asian Fusion,41.7913981311833,-87.5939189784715
+60638,Chicago,IL,Sarku Japan,$$,1.0,1,Asian Fusion,41.759022,-87.744843
+60639,Chicago,IL,Googoo's Table,$,3.5,43,Asian Fusion,41.917308807373,-87.7361297607422
+60640,Chicago,IL,Pokiology,$$,4.5,185,Asian Fusion,41.965489041314,-87.6613923567586
+60640,Chicago,IL,Dib,$$,3.5,318,Asian Fusion,41.9689463,-87.6556821
+60640,Chicago,IL,Furama Restaurant,$$,3.5,419,Asian Fusion,41.9719356,-87.6599421
+60640,Chicago,IL,Lao Sze Chuan - Uptown,$$,3.5,428,Asian Fusion,41.970021,-87.659915
+60641,Chicago,IL,Manee Thai Restaurant,$$,3.0,281,Asian Fusion,41.94624,-87.7277
+60646,Chicago,IL,King Pho,$,3.5,269,Asian Fusion,41.9974974561978,-87.7644239746759
+60646,Chicago,IL,Chai's Asian Bistro,$$,4.0,81,Asian Fusion,41.9899318367243,-87.7479629963636
+60647,Chicago,IL,Serai,$$,4.5,441,Asian Fusion,41.9206132,-87.6933394
+60647,Chicago,IL,The Bento Box,$$,4.5,225,Asian Fusion,41.91786,-87.68436
+60647,Chicago,IL,RYUU Asian BBQ & Sushi,$$,4.5,162,Asian Fusion,41.9313684850931,-87.7113179862499
+60647,Chicago,IL,Trike,$$,4.0,187,Asian Fusion,41.9276161193848,-87.7045593261719
+60654,Chicago,IL,Three Dots and a Dash,$$,4.0,2739,Asian Fusion,41.8904391303273,-87.6306027367742
+60654,Chicago,IL,Sunda,$$$,4.0,2609,Asian Fusion,41.8909469,-87.6317244
+60654,Chicago,IL,Seoul Taco,$,4.0,539,Asian Fusion,41.8959233394607,-87.6313957501562
+60657,Chicago,IL,BITES,$$,4.0,431,Asian Fusion,41.94221,-87.65209
+60657,Chicago,IL,Rice'N Bread,$,4.5,286,Asian Fusion,41.9446344810848,-87.6540841498032
+60657,Chicago,IL,Pho's Spicier Thai Cuisine,$,4.0,533,Asian Fusion,41.942444,-87.670869
+60657,Chicago,IL,Wakamono,$$,3.5,500,Asian Fusion,41.9423546,-87.6442834
+60657,Chicago,IL,bopNgrill Belmont,$$,4.0,169,Asian Fusion,41.9399377250105,-87.6523802644181
+60657,Chicago,IL,Yellowtail Sushi Bar and Asian Kitchen,$$,4.0,238,Asian Fusion,41.9388197,-87.6444487
+60657,Chicago,IL,Ping Pong,$$,3.5,591,Asian Fusion,41.9424108,-87.6446454
+60657,Chicago,IL,Four Belly,$$,3.5,259,Asian Fusion,41.9406275584628,-87.6510916202377
+60659,Chicago,IL,Yeowoosai,$$,4.0,171,Asian Fusion,41.995304,-87.6997413
+60659,Chicago,IL,Ajwaah Sweets,$,5.0,33,Asian Fusion,41.9975851,-87.6920076
+60659,Chicago,IL,Pho 5lua,$$,3.5,117,Asian Fusion,41.9955733,-87.7127057
+60660,Chicago,IL,Summer,$$,3.5,200,Asian Fusion,41.99427,-87.65937
+60660,Chicago,IL,Rice Thai Asian Kitchen,$$,4.0,73,Asian Fusion,41.9901249,-87.6597621
+60614,Chicago,IL,Cafe Vienna,$,4.0,618,Austrian,41.928489,-87.642033
+60607,Chicago,IL,La Sirena Clandestina,$$,4.0,481,Brazilian,41.887103,-87.651697
+60611,Chicago,IL,Texas de Brazil,$$$,4.0,181,Brazilian,41.891161,-87.622115
+60612,Chicago,IL,Sinha Elegant Cuisine,$$,4.5,132,Brazilian,41.87888,-87.67735
+60615,Chicago,IL,Fabiana's Bakery,$$,4.0,65,Brazilian,41.7997729339275,-87.5842858735428
+60625,Chicago,IL,Brazilian Bowl,$$,4.0,139,Brazilian,41.9686181,-87.7086805
+60647,Chicago,IL,Brasil Legal Cafe,$$,4.0,39,Brazilian,41.92162,-87.68719
+60653,Chicago,IL,Norman's Bistro,$$,3.0,174,Brazilian,41.81667,-87.60146
+60654,Chicago,IL,Fogo de Chão Brazilian Steakhouse,$$$,4.5,1525,Brazilian,41.8942208218562,-87.6323306601503
+60654,Chicago,IL,ZED451,$$$,4.0,1303,Brazilian,41.896111,-87.63102
+60657,Chicago,IL,Brazilian Bowl,$,4.0,446,Brazilian,41.940256,-87.644653
+60660,Chicago,IL,CFA Clubhouse,$$,5.0,4,Brazilian,41.9932767,-87.6703349
+60601,Chicago,IL,Elephant & Castle,$$,3.0,545,British,41.8855099,-87.62603
+60603,Chicago,IL,Elephant & Castle,$$,3.5,507,British,41.879309125108,-87.631175724772
+60603,Chicago,IL,Pub Royale,$$,2.5,3,British,41.8798638284247,-87.6306062936783
+60608,Chicago,IL,Pleasant House Pub,$$,4.5,708,British,41.85357,-87.64621
+60613,Chicago,IL,The Globe Pub,$$,4.0,415,British,41.954487,-87.677776
+60614,Chicago,IL,The Red Lion Pub,$$,4.0,155,British,41.9262503,-87.6502686
+60622,Chicago,IL,Pub Royale,$$,4.0,360,British,41.90286,-87.67916
+60625,Chicago,IL,The Red Lion Lincoln Square,$$,4.0,148,British,41.9679049150299,-87.6937158119112
+60647,Chicago,IL,Owen & Engine,$$,4.0,1035,British,41.93047,-87.68823
+60601,Chicago,IL,New Orleans Kitchen,$,3.5,63,Cajun/Creole,41.884739,-87.63133
+60602,Chicago,IL,Heaven on Seven Wabash,$$,4.0,390,Cajun/Creole,41.88347,-87.62575
+60605,Chicago,IL,Buddy Guy's Legends,$$,4.0,494,Cajun/Creole,41.8730157686049,-87.6262064974468
+60605,Chicago,IL,Lowcountry South Loop,$$,4.0,136,Cajun/Creole,41.8682299,-87.62635
+60607,Chicago,IL,Mad Boiler,$$,4.0,160,Cajun/Creole,41.88137,-87.65381
+60611,Chicago,IL,Bubba Gump Shrimp,$$,3.0,485,Cajun/Creole,41.8914094,-87.6096291
+60613,Chicago,IL,Spoken Cafe,$,4.5,99,Cajun/Creole,41.9616149989358,-87.6750356343155
+60614,Chicago,IL,Local Option,$$,3.5,365,Cajun/Creole,41.921953,-87.656166
+60614,Chicago,IL,Asian Cajun,$$,4.0,225,Cajun/Creole,41.92604,-87.66852
+60614,Chicago,IL,Captain's Catch,$$,4.0,102,Cajun/Creole,41.9321,-87.64435
+60616,Chicago,IL,Chef Luciano,$$,4.0,188,Cajun/Creole,41.8526205,-87.6250488
+60616,Chicago,IL,Asian Cajun PLUS,$$,4.0,59,Cajun/Creole,41.8535118,-87.6269896
+60617,Chicago,IL,Nita's Gumbo,$$,3.5,86,Cajun/Creole,41.7475569722267,-87.586419390213
+60622,Chicago,IL,Fifolet,$$,4.0,194,Cajun/Creole,41.90351,-87.67653
+60622,Chicago,IL,Soule,$$,4.5,122,Cajun/Creole,41.89563,-87.67582
+60622,Chicago,IL,The Angry Crab,$$,3.5,238,Cajun/Creole,41.9054327842223,-87.6699330725035
+60640,Chicago,IL,New Orleans Seafood,$$,4.5,41,Cajun/Creole,41.9733425667309,-87.656897617771
+60644,Chicago,IL,Jerk Taco Man,$,3.5,225,Cajun/Creole,41.87683,-87.72571
+60645,Chicago,IL,Kizin Creole Restaurant,$$,4.0,40,Cajun/Creole,42.01927,-87.688076
+60647,Chicago,IL,The Crab Pad,$$,4.5,374,Cajun/Creole,41.92744,-87.70424
+60653,Chicago,IL,The Cajun Connoisseur,$$,4.0,72,Cajun/Creole,41.8161985809246,-87.606238424778
+60653,Chicago,IL,Norman's Bistro,$$,3.0,174,Cajun/Creole,41.81667,-87.60146
+60657,Chicago,IL,Lowcountry Lakeview,$$,4.5,494,Cajun/Creole,41.942883,-87.6528328
+60659,Chicago,IL,The Angry Crab,$$,4.0,827,Cajun/Creole,41.9845332,-87.6972261
+60659,Chicago,IL,Saigon Bistro,$$,4.0,106,Cajun/Creole,41.995204,-87.699738
+60660,Chicago,IL,Fireside Restaurant,$$,3.5,572,Cajun/Creole,41.9861937390532,-87.6745010637543
+60601,Chicago,IL,Mr. Brown's Lounge,$$,3.5,146,Caribbean,41.8866851,-87.6250099
+60612,Chicago,IL,Mr Brown's Lounge,$$,3.5,348,Caribbean,41.8956672160463,-87.6845125490738
+60614,Chicago,IL,Cocina TARASCAS Mexican Restaurant,$$,3.5,427,Caribbean,41.9299507,-87.6430564
+60614,Chicago,IL,The Wild Hare,$$,4.0,180,Caribbean,41.92951,-87.64918
+60615,Chicago,IL,Ja' Grill Hyde Park,$$,3.5,405,Caribbean,41.8004951,-87.588829
+60615,Chicago,IL,Uncle Joe's Jerk Chicken,$$,3.5,195,Caribbean,41.8022295,-87.589422
+60615,Chicago,IL,Nathan's Chicago Style,$,3.0,58,Caribbean,41.7996249,-87.5922875
+60616,Chicago,IL,14 Parish,$$,4.5,156,Caribbean,41.85008,-87.62326
+60616,Chicago,IL,Jamaican Jerk King,$$,4.0,59,Caribbean,41.8311949,-87.621535
+60616,Chicago,IL,Jamaica Jerk Villa Bar & Grill,$$,2.5,137,Caribbean,41.8524,-87.62429
+60617,Chicago,IL,Jamaican Jerk Palace,$$,3.5,27,Caribbean,41.73895,-87.58595
+60618,Chicago,IL,Cuba 312,$$,4.5,258,Caribbean,41.943481,-87.680633
+60619,Chicago,IL,Tropic Island Chicken,$$,3.5,33,Caribbean,41.75094,-87.61046
+60619,Chicago,IL,Just Jerk Cafe,$$,3.5,15,Caribbean,41.7507781112255,-87.6204819604754
+60620,Chicago,IL,Jamaica Jerk Villa,$$,3.5,82,Caribbean,41.75042,-87.64308
+60625,Chicago,IL,Pupuseria Restaurant Cuscatleco,$,4.0,54,Caribbean,41.9683421098996,-87.7070768441803
+60626,Chicago,IL,Caribbean American Bakery,$,4.0,67,Caribbean,42.01916,-87.6697
+60626,Chicago,IL,Redz Belizean Restaurant,$,4.0,39,Caribbean,42.01963,-87.67271
+60628,Chicago,IL,Jamaican Gates Restaurant,$$,4.0,28,Caribbean,41.707832,-87.643234
+60628,Chicago,IL,Park Island Jerk Chicken Inc,$,4.0,16,Caribbean,41.72132,-87.632
+60629,Chicago,IL,Garifuna Flava,$$,4.5,282,Caribbean,41.77949,-87.68693
+60629,Chicago,IL,Ray's Island Grill,$,3.5,8,Caribbean,41.779201,-87.7024856
+60630,Chicago,IL,Señor Pan Cafe Tapas & Vinos,$$,4.0,136,Caribbean,41.96865,-87.74055
+60637,Chicago,IL,Jamaican Jerk Spice,$,2.5,38,Caribbean,41.776628,-87.606087
+60639,Chicago,IL,3-D's Jerk Chicken,$$,4.0,59,Caribbean,41.909246,-87.75893
+60642,Chicago,IL,Jerk Modern Jamaican Grill,$$,3.5,329,Caribbean,41.8963802,-87.6482277
+60643,Chicago,IL,That Jerk Spot,$,4.0,14,Caribbean,41.6875258192404,-87.6691449433565
+60643,Chicago,IL,Uncle Joe's Jerk,$$,3.0,38,Caribbean,41.7084888,-87.6555749
+60643,Chicago,IL,Island Vibes Jerk Chicken Restaurant,$$,3.0,34,Caribbean,41.7068849,-87.6589387
+60647,Chicago,IL,Caribella,$$,4.0,54,Caribbean,41.92434,-87.711
+60649,Chicago,IL,Royal Caribbean Jerk,$,3.0,41,Caribbean,41.7663849,-87.5729533
+60649,Chicago,IL,Jr's Jamaica Restaurant,$$,4.0,13,Caribbean,41.7518931908665,-87.5706421583891
+60649,Chicago,IL,Tropic Island Jerk Chicken,$,3.5,10,Caribbean,41.7517249,-87.5774992
+60652,Chicago,IL,Caribbean Jerk Palace,$$,4.0,106,Caribbean,41.7497749,-87.7179099
+60657,Chicago,IL,Irie Jerk Bar and Grill,$$,4.0,160,Caribbean,41.9436699519027,-87.6539700105786
+60657,Chicago,IL,Trader Todd's,$$,3.0,335,Caribbean,41.9404521,-87.6543655
+60660,Chicago,IL,Aunty Joy's Jamaican Kitchen,$$,4.5,67,Caribbean,41.9980423,-87.6614142
+60601,Chicago,IL,Wow Bao,$,3.5,543,Chinese,41.8859149826022,-87.6282665232788
+60607,Chicago,IL,Duck Duck Goat,$$$,4.0,1093,Chinese,41.8866557616734,-87.6497170813778
+60607,Chicago,IL,WJ Noodles,$$,4.5,158,Chinese,41.8780711,-87.6477205
+60611,Chicago,IL,Wow Bao,$,3.5,580,Chinese,41.8979009401519,-87.6237559318542
+60611,Chicago,IL,Shanghai Terrace,$$$,4.0,291,Chinese,41.89624,-87.62497
+60611,Chicago,IL,Big Bowl,$$,3.5,749,Chinese,41.892629,-87.6261317
+60613,Chicago,IL,Young's Chinese Restaurant,$$,3.5,268,Chinese,41.95389,-87.66867
+60614,Chicago,IL,Dee's Mandarin & Sushi Lounge,$$,3.5,247,Chinese,41.9183311462402,-87.6560592651367
+60614,Chicago,IL,Mo's Asian Bistro,$$,4.0,148,Chinese,41.9250951,-87.662435
+60616,Chicago,IL,Chi Cafe,$,4.0,1042,Chinese,41.85351,-87.63448
+60616,Chicago,IL,Qing Xiang Yuan Dumplings,$$,4.0,685,Chinese,41.85505,-87.63219
+60616,Chicago,IL,Go 4 Food,$$,4.0,636,Chinese,41.851085,-87.6326203
+60616,Chicago,IL,Little Sheep Mongolian Hot Pot,$$,4.0,319,Chinese,41.8498034592167,-87.6320048336464
+60616,Chicago,IL,MCCB Chicago 时尚食谱,$$,4.5,183,Chinese,41.8539,-87.63365
+60616,Chicago,IL,Han 202,$$,4.0,263,Chinese,41.837927,-87.641755
+60616,Chicago,IL,Hing Kee Restaurant,$$,3.5,505,Chinese,41.853948,-87.633651
+60616,Chicago,IL,Yummy Yummy Noodles,$,4.0,135,Chinese,41.849921,-87.632384
+60617,Chicago,IL,Hua's Open Kitchen,$,3.5,16,Chinese,41.7303799,-87.5506
+60617,Chicago,IL,Chan's Chinese Kitchen,$,3.0,8,Chinese,41.7225949,-87.5770055
+60617,Chicago,IL,New Hot Wok,$,2.5,12,Chinese,41.7024902,-87.5351013
+60617,Chicago,IL,New Little China,$,1.5,17,Chinese,41.722396,-87.5813633
+60618,Chicago,IL,Friendship Chinese Restaurant,$$,3.5,777,Chinese,41.9324798583984,-87.7135467529297
+60618,Chicago,IL,House of Wah Sun,$$,4.0,269,Chinese,41.9601,-87.68253
+60618,Chicago,IL,Hot Woks Cool Sushi,$$,3.5,173,Chinese,41.94348,-87.67984
+60619,Chicago,IL,Kam's Chop Suey,$,4.0,9,Chinese,41.743374,-87.623971
+60619,Chicago,IL,New China Express,$,3.0,9,Chinese,41.7368464697199,-87.606216
+60622,Chicago,IL,MAK Restaurant,$$,4.0,229,Chinese,41.9032611,-87.6759818
+60622,Chicago,IL,Mon Lung,$,3.5,246,Chinese,41.9000324,-87.6672824
+60625,Chicago,IL,Great Sea Chinese Restaurant,$$,4.0,663,Chinese,41.9687,-87.71065
+60625,Chicago,IL,Shanghai Inn,$$,4.0,262,Chinese,41.967647,-87.679002
+60625,Chicago,IL,Peking Mandarin,$,4.0,150,Chinese,41.9682451,-87.7151227
+60625,Chicago,IL,Wok Cuisine,$,3.5,211,Chinese,41.96426,-87.70868
+60628,Chicago,IL,China Garden,$,4.5,7,Chinese,41.6954714,-87.6427112
+60628,Chicago,IL,Tommy's Chinese Restaurant,$,3.5,6,Chinese,41.70696,-87.61901
+60628,Chicago,IL,New Tea Garden Chop Suey,$,4.0,4,Chinese,41.6876678466797,-87.6213226318359
+60628,Chicago,IL,South China Kitchen,$,2.5,9,Chinese,41.68304,-87.6418414
+60630,Chicago,IL,Excelsior Garden,$,3.5,58,Chinese,41.9691432,-87.7616777
+60630,Chicago,IL,Moy Lee Chinese Restaurant,$$,3.5,73,Chinese,41.97771,-87.77007
+60632,Chicago,IL,Chop Suey City,$,4.5,69,Chinese,41.8238,-87.68784
+60632,Chicago,IL,New China Tea,$,3.5,50,Chinese,41.79346,-87.72422
+60633,Chicago,IL,China Garden,$,4.0,14,Chinese,41.65278,-87.54752
+60634,Chicago,IL,Jess Cafe,$,4.0,372,Chinese,41.93825,-87.77216
+60634,Chicago,IL,Li Hing,$,4.0,109,Chinese,41.93878,-87.77103
+60634,Chicago,IL,Asian Town Noodle,$,4.0,37,Chinese,41.94534,-87.81576
+60634,Chicago,IL,Yummy,$$,3.0,63,Chinese,41.947545,-87.806587
+60638,Chicago,IL,Harmony Restaurant,$$,3.5,113,Chinese,41.79221,-87.7852973
+60638,Chicago,IL,1st Chop Suey,$,3.5,42,Chinese,41.79563030121,-87.761728335105
+60638,Chicago,IL,The Original Big 4's Chop Suey,$,3.5,66,Chinese,41.7935563,-87.801347
+60638,Chicago,IL,Wing Wah,$,4.0,23,Chinese,41.7777749,-87.7833211
+60639,Chicago,IL,Tony's Chinese & American Restaurant,$,4.5,79,Chinese,41.92213,-87.78477
+60639,Chicago,IL,Hong Huah,$,4.0,81,Chinese,41.9241333007812,-87.7743301391602
+60639,Chicago,IL,China Express,$$,4.0,26,Chinese,41.9188804626465,-87.7680587768555
+60640,Chicago,IL,Sun Wah Bar-B-Que,$$,4.0,1461,Chinese,41.97396,-87.65919
+60640,Chicago,IL,Hon Kee Restaurant,$,4.0,211,Chinese,41.97349,-87.65826
+60640,Chicago,IL,Dong Ky Chinese & Vietnamese Restaurant,$,4.0,166,Chinese,41.97061,-87.65882
+60640,Chicago,IL,Lao Sze Chuan - Uptown,$$,3.5,428,Chinese,41.970021,-87.659915
+60641,Chicago,IL,Hot Woks Cool Sushi,$$,3.5,348,Chinese,41.9528312683105,-87.7278366088867
+60641,Chicago,IL,Hong Kong House,$,4.0,62,Chinese,41.95175,-87.7473849
+60643,Chicago,IL,Panda Express,$$,4.0,8,Chinese,41.6775490343571,-87.663191780448
+60643,Chicago,IL,See Thru Chinese Kitchen,$,2.5,15,Chinese,41.6944812,-87.6810558
+60646,Chicago,IL,Mee Mah Restaurant,$$,3.5,128,Chinese,41.990407,-87.730254
+60647,Chicago,IL,Fat Rice,$$,4.0,908,Chinese,41.9319451,-87.7017382
+60647,Chicago,IL,Cheng Chopsticks,$,3.5,129,Chinese,41.91716,-87.704205
+60647,Chicago,IL,China Fast Wok,$,3.5,141,Chinese,41.9181022644043,-87.6976470947266
+60647,Chicago,IL,Lee's Chop Suey,$,3.5,164,Chinese,41.93201,-87.68877
+60649,Chicago,IL,House of Bing,$,3.5,40,Chinese,41.7689,-87.56703
+60652,Chicago,IL,Fon Fon Chinese Cuisine,$$,4.0,12,Chinese,41.74279,-87.70184
+60655,Chicago,IL,Jiang's Kitchen,$$,3.5,15,Chinese,41.6918249,-87.6901166
+60656,Chicago,IL,China Kitchen,$,3.5,64,Chinese,41.9761114,-87.8367449
+60656,Chicago,IL,Fried Rice Express,$,3.5,56,Chinese,41.9809646606445,-87.8050918579102
+60657,Chicago,IL,Yummy Yummy Asian Cuisine,$,4.0,581,Chinese,41.9351256288396,-87.6440628857616
+60657,Chicago,IL,Ping Pong,$$,3.5,591,Chinese,41.9424108,-87.6446454
+60657,Chicago,IL,Chen's Chinese and Cuisine,$$,3.5,327,Chinese,41.9456488,-87.6554725
+60657,Chicago,IL,Little Wok,$$,3.5,173,Chinese,41.939,-87.64465
+60659,Chicago,IL,Hoanh Long,$$,4.0,309,Chinese,41.9937279,-87.7133513
+60666,Chicago,IL,Manchu Wok,$,1.5,155,Chinese,41.9750011323497,-87.9001781256866
+60602,Chicago,IL,Cafecito,$,4.5,467,Cuban,41.8823605,-87.6337765
+60603,Chicago,IL,TriBecca Cubano,$$,2.5,3,Cuban,41.87979,-87.63051
+60605,Chicago,IL,Cafecito,$,4.5,1468,Cuban,41.875725,-87.626566
+60609,Chicago,IL,Cafeteria Yesenia,$,4.5,51,Cuban,41.816395,-87.665543
+60613,Chicago,IL,Bayan Ko,$$,4.5,29,Cuban,41.96169,-87.67492
+60618,Chicago,IL,90 Miles Cuban Café,$,4.0,733,Cuban,41.9380569458008,-87.6858062744141
+60618,Chicago,IL,Cuba 312,$$,4.5,258,Cuban,41.943481,-87.680633
+60618,Chicago,IL,Kerelys Cuban Cafe & Pizzeria,$,4.0,84,Cuban,41.9346478,-87.7168702
+60630,Chicago,IL,Señor Pan Cafe Tapas & Vinos,$$,4.0,136,Cuban,41.96865,-87.74055
+60639,Chicago,IL,Señor Pan Cafe,$,4.0,460,Cuban,41.9244149,-87.7423467
+60639,Chicago,IL,El Cubanito,$,4.5,290,Cuban,41.9278468763324,-87.7265240997076
+60639,Chicago,IL,D'Cuba Restaurant,$$,3.5,109,Cuban,41.9236640930176,-87.7680358886719
+60639,Chicago,IL,Cafeteria Marianao,$,4.0,28,Cuban,41.9167547335194,-87.7471506780101
+60639,Chicago,IL,Señor Pan Café,$,4.5,22,Cuban,41.9313151,-87.7529374
+60641,Chicago,IL,Bia's Café Marianao,$,4.5,63,Cuban,41.946,-87.73617
+60642,Chicago,IL,Habana Libre Restaurant,$$,4.0,440,Cuban,41.8962642,-87.6640126
+60647,Chicago,IL,90 Miles Cuban Café,$$,4.0,1791,Cuban,41.9176864624023,-87.6918029785156
+60647,Chicago,IL,Paladar,$$,4.0,305,Cuban,41.9231462,-87.6879753
+60647,Chicago,IL,1492 Cuban Fusion,$,4.5,122,Cuban,41.909976,-87.692779
+60647,Chicago,IL,Tropicuba,$,3.5,131,Cuban,41.92261,-87.7024
+60647,Chicago,IL,Taste of Havana,$$,4.5,38,Cuban,41.92744,-87.70424
+60654,Chicago,IL,Havana,$$,4.0,719,Cuban,41.88967,-87.6314
+60654,Chicago,IL,Nacional 27,$$$,3.5,838,Cuban,41.89489726738,-87.637452219798
+60656,Chicago,IL,Congas,$$,2.5,58,Cuban,41.9801907898559,-87.8032832220197
+60660,Chicago,IL,La Unica Food Mart,$,4.0,204,Cuban,41.998011511669,-87.6683912
+60608,Chicago,IL,Aloha Wagon,$,5.0,97,Filipino,41.865308,-87.685784
+60613,Chicago,IL,Bayan Ko,$$,4.5,29,Filipino,41.96169,-87.67492
+60618,Chicago,IL,Ruby's Fast Food,$,4.5,221,Filipino,41.96126,-87.72215
+60622,Chicago,IL,Uncle Mike's Place,$$,4.0,589,Filipino,41.89117,-87.66986
+60625,Chicago,IL,Isla Pilipina,$$,4.0,721,Filipino,41.9682525,-87.6916001116394
+60625,Chicago,IL,Merla's Kitchen,$,4.0,102,Filipino,41.9758575617891,-87.7134847486592
+60625,Chicago,IL,SUBO Filipino Kitchen,$$,5.0,21,Filipino,41.96704,-87.71358
+60625,Chicago,IL,Kapatid Oriental Store,$,4.0,7,Filipino,41.9684849,-87.7175107
+60625,Chicago,IL,Hiromi's Oriental Restaurant,$$,3.5,10,Filipino,41.9680824279785,-87.7187194824219
+60630,Chicago,IL,Kawayan,$$,4.0,87,Filipino,41.96931,-87.760906
+60630,Chicago,IL,Jollibee,$,3.0,70,Filipino,41.972733464562,-87.7459015937519
+60630,Chicago,IL,Grill City,$,3.0,30,Filipino,41.9728355407715,-87.7455368041992
+60630,Chicago,IL,Crispy Town,$,2.5,13,Filipino,41.9728355407715,-87.7455368041992
+60634,Chicago,IL,Oscar's Foods,$,4.5,12,Filipino,41.93814,-87.7798
+60646,Chicago,IL,Pampanga's Cuisine Filipino,$$$,2.5,20,Filipino,41.99771,-87.76687
+60657,Chicago,IL,Kubo Chicago,$$,4.5,78,Filipino,41.94008,-87.66026
+60659,Chicago,IL,Bacolod Chicken Haus,$$,3.5,92,Filipino,41.9961842,-87.7171328
+60659,Chicago,IL,Little Quiapo Restaurant,$$,3.0,167,Filipino,41.995677,-87.712272
+60659,Chicago,IL,Simple Delights,$,3.0,29,Filipino,41.9951124,-87.7134164
+60603,Chicago,IL,Cochon Volant Brasserie,$$,4.0,627,French,41.8807911918252,-87.6310143247247
+60605,Chicago,IL,Everest,$$$$,4.0,341,French,41.8756347,-87.6330489012234
+60607,Chicago,IL,Maude's Liquor Bar,$$$,4.0,961,French,41.88466,-87.64908
+60607,Chicago,IL,Chez Joel Bistro,$$$,4.5,346,French,41.86921,-87.65507
+60607,Chicago,IL,RM Champagne,$$$,4.0,609,French,41.8835832,-87.6487261
+60607,Chicago,IL,Nellcôte,$$$,3.5,846,French,41.8842029218415,-87.6491502961838
+60607,Chicago,IL,La Sardine,$$$,4.0,327,French,41.8833789,-87.6530362
+60610,Chicago,IL,Kiki's Bistro,$$$,4.0,322,French,41.899092359325,-87.6359399376335
+60611,Chicago,IL,Le Colonial,$$$,4.0,1130,French,41.900218963623,-87.6269302368164
+60611,Chicago,IL,Les Nomades,$$$$,4.5,238,French,41.89367,-87.62172
+60611,Chicago,IL,Bistronomic,$$$,4.0,523,French,41.8979072566376,-87.6272430870994
+60611,Chicago,IL,Fig & Olive - Chicago,$$$,3.5,734,French,41.901044,-87.625532
+60611,Chicago,IL,Cafe des Architectes,$$$,4.0,331,French,41.89872,-87.62728
+60611,Chicago,IL,Cité,$$$$,3.0,578,French,41.89153,-87.61272
+60614,Chicago,IL,Mon Ami Gabi,$$$,4.0,676,French,41.924093,-87.636974
+60614,Chicago,IL,Chez Moi,$$,4.0,346,French,41.920093536377,-87.6487808227539
+60615,Chicago,IL,La Petite Folie,$$$,3.5,79,French,41.7955854864573,-87.5886446066071
+60618,Chicago,IL,Le Sud,$$,4.5,55,French,41.94285,-87.68587
+60622,Chicago,IL,Café Marie Jeanne,$$,4.0,195,French,41.89942,-87.6964
+60625,Chicago,IL,Bistro Campagne,$$$,4.0,648,French,41.96356,-87.68563
+60631,Chicago,IL,Café Touché,$$,4.0,261,French,42.0034584752048,-87.8170144557953
+60640,Chicago,IL,Pasteur,$$,4.0,271,French,41.9823035306453,-87.6596975326538
+60640,Chicago,IL,Chez Simo Bistro,$$,4.0,174,French,41.9688949,-87.6788058
+60640,Chicago,IL,Edgewater Beach Cafe,$$,4.0,55,French,41.9826938,-87.6551598
+60647,Chicago,IL,Le Bouchon,$$$,4.0,502,French,41.91756,-87.67792
+60654,Chicago,IL,Troquet River North,$$,4.0,277,French,41.8946376,-87.6313526
+60654,Chicago,IL,Brindille,$$$$,4.0,133,French,41.8918830972695,-87.631331928921
+60657,Chicago,IL,La Crêperie,$$,4.0,651,French,41.934059,-87.645708
+60657,Chicago,IL,Maison Parisienne,$$,4.5,144,French,41.94209,-87.65199
+60661,Chicago,IL,Avec,$$$,4.5,2011,French,41.884290441849,-87.6433979433133
+60603,Chicago,IL,The Berghoff Restaurant,$$,3.5,961,German,41.8793326,-87.6286679
+60610,Chicago,IL,The Glunz Tavern,$$,4.0,116,German,41.90408,-87.63477
+60614,Chicago,IL,Prost,$$,3.5,367,German,41.9284362792969,-87.6533889770508
+60618,Chicago,IL,Laschet's Inn,$$,4.5,455,German,41.95381,-87.68198
+60618,Chicago,IL,Resi's Bierstube Restaurant,$$,4.0,235,German,41.954304,-87.680193
+60618,Chicago,IL,DMen Tap,$$,4.5,61,German,41.93911,-87.69973
+60618,Chicago,IL,DönerMen,$,3.5,66,German,41.9391676,-87.699739
+60622,Chicago,IL,Funkenhausen,$$,4.5,82,German,41.89571,-87.67022
+60625,Chicago,IL,Himmel's,$$,4.0,140,German,41.96838,-87.686096
+60625,Chicago,IL,German American Fest,$$,3.5,24,German,41.9667532678044,-87.6874906
+60647,Chicago,IL,The Radler,$$,4.0,360,German,41.9243702937911,-87.6996474284774
+60666,Chicago,IL,Berghoff Cafe O'Hare,$$,3.5,277,German,41.980586,-87.909963
+60605,Chicago,IL,Pita Heaven Restaurant,$$,3.5,324,Greek,41.8660469055176,-87.6242828369141
+60606,Chicago,IL,Greek Kitchen,$,3.0,190,Greek,41.883041,-87.634366
+60606,Chicago,IL,Piggie Smalls,$$,4.5,21,Greek,41.88658,-87.63433
+60607,Chicago,IL,Zeus Restaurant,$,4.0,156,Greek,41.87815,-87.64773
+60607,Chicago,IL,Santorini,$$,3.5,345,Greek,41.879308,-87.647579
+60613,Chicago,IL,Windy City Gyros,$,3.5,201,Greek,41.9535085,-87.6500045
+60614,Chicago,IL,Athenian Room,$$,4.0,678,Greek,41.9217435,-87.6490466
+60615,Chicago,IL,Antoni 1 Grill & Catering,$,4.5,38,Greek,41.7996149,-87.5946571
+60618,Chicago,IL,Outdoor Grill,$,4.5,109,Greek,41.9405364990234,-87.7256546020508
+60618,Chicago,IL,Big Boy Gyros,$,3.5,106,Greek,41.94612,-87.68783
+60619,Chicago,IL,Best Gyro,$$,2.5,2,Greek,41.74705,-87.60516
+60620,Chicago,IL,King Gyros,$$,5.0,4,Greek,41.7506227,-87.6344222
+60620,Chicago,IL,Jb Gyros,$,1.0,1,Greek,41.7504996,-87.6431334
+60622,Chicago,IL,Taxim,$$$,4.0,428,Greek,41.9098026,-87.6767066
+60622,Chicago,IL,Greek Corner,$,3.5,161,Greek,41.8994436015486,-87.6773046628389
+60625,Chicago,IL,Barba Yianni Grecian Taverna,$$,3.5,282,Greek,41.9684353,-87.688226
+60625,Chicago,IL,Hub's Restaurant,$,3.5,207,Greek,41.98204,-87.69387
+60626,Chicago,IL,SP Kebab,$,4.5,357,Greek,42.005643,-87.660959
+60629,Chicago,IL,Pegasus on the Fly,$$,2.5,10,Greek,41.7882800740126,-87.7390928822383
+60630,Chicago,IL,King's Gyros 2,$,3.5,145,Greek,41.9755325317383,-87.767204284668
+60631,Chicago,IL,Nick's Drive-In,$,4.0,88,Greek,42.0121704,-87.8067649
+60631,Chicago,IL,Brandy's Gyros,$,3.0,129,Greek,41.9951402015491,-87.8071518136879
+60632,Chicago,IL,The Hut,$,4.0,18,Greek,41.8281211853027,-87.6944122314453
+60633,Chicago,IL,Chicago Pita Kitchen,$,4.0,42,Greek,41.65498,-87.55391
+60634,Chicago,IL,Central Gyros,$$,4.0,215,Greek,41.9376,-87.76611
+60634,Chicago,IL,Chicago's Pita Grill,$,4.0,138,Greek,41.93653,-87.7660779
+60634,Chicago,IL,Franksville,$,3.5,84,Greek,41.9449952,-87.8071802
+60634,Chicago,IL,Mr Zee's,$,3.5,89,Greek,41.9524187,-87.7866982
+60634,Chicago,IL,Veranda Inn,$$,3.0,90,Greek,41.953456,-87.769683
+60634,Chicago,IL,Tom & Jerry's,$,3.0,76,Greek,41.9598324597632,-87.7865601174852
+60639,Chicago,IL,Mr. Gee's,$,4.0,66,Greek,41.9246826171875,-87.7380599975586
+60640,Chicago,IL,Andies Restaurant,$$,3.5,490,Greek,41.9775873,-87.6681818
+60640,Chicago,IL,It's Greek 2 U Grill,$$,4.0,70,Greek,41.98129,-87.66804
+60641,Chicago,IL,Bread Basket,$,3.0,107,Greek,41.9387950341512,-87.7453918761358
+60642,Chicago,IL,Olive Mediterranean Grill,$,4.0,232,Greek,41.9106011593253,-87.6532985692348
+60646,Chicago,IL,Papa Chris' Place,$,4.5,101,Greek,42.01169,-87.78335
+60646,Chicago,IL,Backyard Grill,$,3.5,125,Greek,41.997026238705,-87.7285904809931
+60646,Chicago,IL,East of Eden Carry-Outs,$,3.5,94,Greek,41.996785,-87.7484649
+60647,Chicago,IL,George's Hot Dogs,$,4.0,195,Greek,41.91604,-87.67789
+60647,Chicago,IL,Nick's On North,$,4.5,64,Greek,41.909719,-87.710463
+60655,Chicago,IL,Golden Fish,$$,5.0,1,Greek,41.7067212,-87.6497537
+60657,Chicago,IL,Gyro-Mena,$,4.0,232,Greek,41.93966,-87.65183
+60660,Chicago,IL,Milo's Pita,$,4.0,48,Greek,41.993518,-87.659774
+60661,Chicago,IL,Greek Islands Restaurant,$$,4.0,1694,Greek,41.87896,-87.64763
+60661,Chicago,IL,Athena Greek Restaurant,$$,3.5,646,Greek,41.87864,-87.64762
+60661,Chicago,IL,Mr Greek Gyros,$,3.5,322,Greek,41.8781661987305,-87.6474990844727
+60661,Chicago,IL,9 Muses,$$,3.5,131,Greek,41.8777101,-87.6470951
+60661,Chicago,IL,Spectrum Bar and Grill,$$,3.5,96,Greek,41.8782577514648,-87.6470336914062
+60666,Chicago,IL,Skybridge Restaurant & Bar,$$,3.5,80,Greek,41.973654548547,-87.9060655142639
+60603,Chicago,IL,Poke Bar,$,4.5,15,Hawaiian,41.88146,-87.63259
+60605,Chicago,IL,Poke Burrito,$,4.5,50,Hawaiian,41.876299,-87.6290489
+60608,Chicago,IL,Aloha Wagon,$,5.0,97,Hawaiian,41.865308,-87.685784
+60610,Chicago,IL,Aloha Poke,$$,4.0,29,Hawaiian,41.9110151,-87.63405
+60611,Chicago,IL,Island Party Hut,$$,3.5,89,Hawaiian,41.8880460476892,-87.6185882930542
+60614,Chicago,IL,Aloha Eats,$,4.0,896,Hawaiian,41.9287526,-87.6425448
+60614,Chicago,IL,Sublime Sushi,$$,3.0,21,Hawaiian,41.9226200905846,-87.6450405334532
+60618,Chicago,IL,Poke Burrito,$$,4.5,81,Hawaiian,41.959774,-87.682362
+60657,Chicago,IL,Aloha Poke,$$,4.0,253,Hawaiian,41.9398699921574,-87.6510490633663
+60661,Chicago,IL,Aloha Poke,$$,4.0,345,Hawaiian,41.8840768,-87.6408517
+60605,Chicago,IL,Nepal House Indian & Nepalese,$$,4.0,457,Himalayan/Nepalese,41.8656524,-87.623901
+60605,Chicago,IL,Chicago Curry House,$$,3.5,597,Himalayan/Nepalese,41.87086,-87.62846
+60605,Chicago,IL,Himalayan Restaurant,$$,4.0,155,Himalayan/Nepalese,41.874164,-87.6261049
+60622,Chicago,IL,Cumin,$$,4.0,868,Himalayan/Nepalese,41.9074789,-87.6732148
+60646,Chicago,IL,Himshikar,$$,4.0,182,Himalayan/Nepalese,41.99094,-87.74794
+60647,Chicago,IL,Chiya Chai Cafe,$$,4.5,287,Himalayan/Nepalese,41.9314223820557,-87.7114093648563
+60659,Chicago,IL,Nepal House,$$,4.0,99,Himalayan/Nepalese,41.9975194,-87.6949478
+60605,Chicago,IL,Nepal House Indian & Nepalese,$$,4.0,457,Indian,41.8656524,-87.623901
+60605,Chicago,IL,Chicago Curry House,$$,3.5,597,Indian,41.87086,-87.62846
+60605,Chicago,IL,Himalayan Restaurant,$$,4.0,155,Indian,41.874164,-87.6261049
+60606,Chicago,IL,Bombay Wraps,$,4.0,407,Indian,41.8839797555164,-87.6341509183647
+60606,Chicago,IL,Naansense,$,4.0,429,Indian,41.8852573615387,-87.6336954232788
+60606,Chicago,IL,Baba's Village,$,3.5,155,Indian,41.877242,-87.640456
+60607,Chicago,IL,Curry on Fire,$$,4.0,73,Indian,41.86972,-87.65239
+60611,Chicago,IL,The Indian Garden,$$,3.5,698,Indian,41.8932472,-87.6209043
+60611,Chicago,IL,Bombay Wraps,$,4.0,262,Indian,41.8927337,-87.619067
+60611,Chicago,IL,Gaylord Fine Indian Cuisine,$$,3.5,414,Indian,41.900337,-87.62527
+60613,Chicago,IL,Curry Point,$$,3.5,207,Indian,41.9531831,-87.6543651
+60613,Chicago,IL,Indian Clay Pot,$$,4.5,99,Indian,41.9543349,-87.6744228
+60614,Chicago,IL,Tandoor Char House,$$,4.0,722,Indian,41.9306399,-87.64928
+60614,Chicago,IL,Mild 2 Spicy,$$,4.5,182,Indian,41.9328649,-87.64739
+60614,Chicago,IL,Hakka Bakka Indian Kati Rolls,$,4.0,244,Indian,41.9250951,-87.660277
+60614,Chicago,IL,Raj Darbar,$$,3.5,351,Indian,41.9309,-87.6493
+60615,Chicago,IL,Rajun Cajun,$,3.5,347,Indian,41.79923,-87.58935
+60616,Chicago,IL,Chef Luciano,$$,4.0,188,Indian,41.8526205,-87.6250488
+60622,Chicago,IL,Cumin,$$,4.0,868,Indian,41.9074789,-87.6732148
+60622,Chicago,IL,Pub Royale,$$,4.0,360,Indian,41.90286,-87.67916
+60625,Chicago,IL,Paprika,$$,3.5,260,Indian,41.9683151245117,-87.6932220458984
+60625,Chicago,IL,Essence of India,$$,3.5,342,Indian,41.96517,-87.6859
+60625,Chicago,IL,Indo-Pak Grill,$,4.5,51,Indian,41.9683849,-87.7264277
+60626,Chicago,IL,Luzzat,$$,4.0,221,Indian,42.0158901,-87.6686027
+60637,Chicago,IL,Hutchinson Commons,$$,3.0,4,Indian,41.7911835,-87.5982285
+60637,Chicago,IL,Curried Food Truck,$$,5.0,1,Indian,41.7898788452148,-87.6012420654297
+60640,Chicago,IL,Shan Restaurant,$,4.0,235,Indian,41.9750372,-87.6551149
+60645,Chicago,IL,JK Kabab House,$$,4.5,149,Indian,41.9979372,-87.6948849
+60646,Chicago,IL,Himshikar,$$,4.0,182,Indian,41.99094,-87.74794
+60647,Chicago,IL,Chiya Chai Cafe,$$,4.5,287,Indian,41.9314223820557,-87.7114093648563
+60647,Chicago,IL,Rangoli,$$,4.0,590,Indian,41.910198,-87.68809
+60647,Chicago,IL,The Spice Room,$$,4.0,211,Indian,41.91777,-87.69972
+60654,Chicago,IL,India House Restaurant,$$,3.5,1284,Indian,41.8914851,-87.6301826
+60654,Chicago,IL,Vermilion,$$$,3.0,659,Indian,41.8901732672856,-87.6284838567184
+60657,Chicago,IL,Khyber Pass,$$,4.0,124,Indian,41.93826,-87.64896
+60657,Chicago,IL,Royal Indian Grill,$$,3.5,109,Indian,41.940781,-87.6507869
+60659,Chicago,IL,Ghareeb Nawaz,$,4.0,738,Indian,41.997979,-87.681612
+60659,Chicago,IL,Uru Swati,$,3.5,531,Indian,41.99736,-87.69573
+60659,Chicago,IL,Bundoo Khan -Chicago,$$,4.0,199,Indian,41.9975505,-87.6939106
+60659,Chicago,IL,Anmol Barbecue Restaurant,$$,4.0,234,Indian,41.99779,-87.70191
+60659,Chicago,IL,Karahi Corner,$$,4.0,179,Indian,41.99787,-87.6969
+60659,Chicago,IL,Udupi Palace Restaurant,$$,3.5,350,Indian,41.99739,-87.69398
+60659,Chicago,IL,Nepal House,$$,4.0,99,Indian,41.9975194,-87.6949478
+60659,Chicago,IL,Tiffin,$$,3.5,335,Indian,41.9977664,-87.6938693
+60659,Chicago,IL,Annapurna,$,3.5,180,Indian,41.9978981018066,-87.6951599121094
+60659,Chicago,IL,Hema's Kitchen,$$,3.0,422,Indian,41.99744,-87.69154
+60659,Chicago,IL,Khan BBQ,$$,3.5,218,Indian,41.9974746704102,-87.6902923583984
+60659,Chicago,IL,Mysore Woodlands,$$,3.5,276,Indian,41.99792,-87.6943299
+60659,Chicago,IL,Arya Bhavan,$$,3.5,215,Indian,41.9979362487793,-87.6928024291992
+60660,Chicago,IL,Mango Pickle,$$,4.0,140,Indian,41.9883,-87.66062
+60660,Chicago,IL,The Little India,$$,3.5,249,Indian,41.9834136962891,-87.6584548950195
+60661,Chicago,IL,Naansense,$,4.0,93,Indian,41.8802641,-87.6409205
+60601,Chicago,IL,Giordano's,$$,3.5,2192,Italian,41.885165,-87.623753
+60602,Chicago,IL,Trattoria No. 10,$$$,4.0,555,Italian,41.8824272155762,-87.6296997070312
+60605,Chicago,IL,Lou Malnati's Pizzeria,$$,4.0,2186,Italian,41.871487,-87.6273372
+60606,Chicago,IL,Giordano's - Jackson,$$,3.5,1013,Italian,41.8779751,-87.6344499
+60607,Chicago,IL,Davanti Enoteca,$$,4.0,1155,Italian,41.86911,-87.66147
+60607,Chicago,IL,Bar Siena,$$,4.0,1140,Italian,41.8845841437224,-87.6489488181068
+60607,Chicago,IL,Monteverde,$$$,4.5,646,Italian,41.88191,-87.65302
+60607,Chicago,IL,Viaggio Ristorante & Lounge,$$,4.5,657,Italian,41.88179,-87.6609
+60607,Chicago,IL,Francesca's on Taylor,$$,4.0,456,Italian,41.869426,-87.6617842
+60608,Chicago,IL,Ignotz Ristorante,$$,4.5,263,Italian,41.8478012084961,-87.6827697753906
+60610,Chicago,IL,Lou Malnati's Pizzeria,$$,4.0,1309,Italian,41.90259525277,-87.6286705209015
+60610,Chicago,IL,Topo Gigio Ristorante,$$,4.0,811,Italian,41.9096594975818,-87.6348415912861
+60611,Chicago,IL,Eataly,$$,4.0,3221,Italian,41.892335432963,-87.6262607945148
+60611,Chicago,IL,Volare Ristorante Italiano,$$,4.0,1766,Italian,41.8915901798304,-87.6225186472213
+60611,Chicago,IL,Gino's East - Magnificent Mile,$$,3.5,2115,Italian,41.89603,-87.62307
+60611,Chicago,IL,Giordano's,$$,3.5,2423,Italian,41.8958755,-87.625643
+60611,Chicago,IL,DiSotto Enoteca,$$,4.5,225,Italian,41.89871,-87.62142
+60611,Chicago,IL,Rosebud Steakhouse,$$$,4.0,356,Italian,41.9000993,-87.6220543
+60613,Chicago,IL,PR Italian Bistro,$$,4.0,648,Italian,41.953,-87.65477
+60613,Chicago,IL,Zia's Lago Vista,$$,4.0,440,Italian,41.9513,-87.66847
+60614,Chicago,IL,Sapori Trattoria,$$,4.5,1960,Italian,41.93166,-87.64859
+60614,Chicago,IL,Chicago Pizza And Oven Grinder Company,$$,4.0,2260,Italian,41.92084,-87.63721
+60614,Chicago,IL,Pasta Palazzo,$$,4.0,550,Italian,41.9179153442383,-87.6488494873047
+60614,Chicago,IL,The Pasta Bowl,$$,4.0,824,Italian,41.92638,-87.641448
+60614,Chicago,IL,Lou Malnati's Pizzeria,$$,4.0,722,Italian,41.9291500907879,-87.6535692116174
+60614,Chicago,IL,Stella Barra Pizzeria,$$,4.0,458,Italian,41.917657,-87.648684
+60614,Chicago,IL,Bacino's of Lincoln Park,$$,4.0,365,Italian,41.9220898692102,-87.6441773455396
+60615,Chicago,IL,Nella Pizza e Pasta,$$,4.0,101,Italian,41.794959,-87.598314
+60616,Chicago,IL,Ricobene's,$,4.0,714,Italian,41.84575,-87.63389
+60616,Chicago,IL,Gio's Cafe and Deli,$$,4.5,234,Italian,41.84366,-87.64312
+60616,Chicago,IL,Franco's Ristorante,$$,4.5,152,Italian,41.83843,-87.6343
+60616,Chicago,IL,Connie's Pizza,$$,3.5,572,Italian,41.849488,-87.641036
+60617,Chicago,IL,Pucci's Restaurant & Pizzeria,$$,4.0,24,Italian,41.7121,-87.53493
+60617,Chicago,IL,Roma's Village Bar and Grill,$$,3.5,3,Italian,41.7272945,-87.5509739
+60617,Chicago,IL,Pizza Hut,$,1.5,9,Italian,41.7336975176557,-87.5848789927131
+60618,Chicago,IL,La Nonna,$$,5.0,243,Italian,41.9429574,-87.7203016
+60618,Chicago,IL,Turquoise Restaurant,$$,4.0,636,Italian,41.94289,-87.68265
+60618,Chicago,IL,Angelo's Wine Bar,$$,4.0,252,Italian,41.9613729151644,-87.7043616771698
+60622,Chicago,IL,Nando Milano Trattoria,$$,4.0,383,Italian,41.90344,-87.68041
+60622,Chicago,IL,A Tavola,$$$,4.5,348,Italian,41.8960999,-87.68141
+60622,Chicago,IL,Enoteca Roma Ristorante,$$,4.0,462,Italian,41.903222,-87.6816573
+60623,Chicago,IL,Lou Malnati's Pizzeria,$$,4.0,116,Italian,41.8518097,-87.7220691
+60625,Chicago,IL,Due Lire Vino & Cucina,$$,4.0,225,Italian,41.96368,-87.68571
+60626,Chicago,IL,J B Alberto's Pizza,$,3.5,451,Italian,42.00826,-87.66484
+60628,Chicago,IL,Damenzo's Pizza & Restaurant,$,3.5,29,Italian,41.6894379287725,-87.6427682883615
+60629,Chicago,IL,Palermo's Italian Restaurant,$$,4.0,159,Italian,41.77845,-87.71754
+60629,Chicago,IL,Tony's Italian Beef,$,4.0,100,Italian,41.76561,-87.72206
+60630,Chicago,IL,Sicilia Bakery,$,4.5,98,Italian,41.9674061,-87.7765287
+60631,Chicago,IL,Zia's Trattoria,$$,4.5,328,Italian,42.00286,-87.81577
+60631,Chicago,IL,Tony's Italian Deli & Subs,$,4.5,208,Italian,42.00292,-87.816551
+60631,Chicago,IL,Nonno Pino's,$$,4.0,220,Italian,42.0031363517046,-87.8168186545372
+60631,Chicago,IL,Sapori Napoletani,$$,4.0,135,Italian,41.9910277806832,-87.7974086319466
+60634,Chicago,IL,Forno Rosso Pizzeria Napoletana,$$,4.5,496,Italian,41.94767,-87.80672
+60634,Chicago,IL,BarTucci,$$,4.5,222,Italian,41.9423838,-87.806911
+60634,Chicago,IL,Trattoria Porretta Ristorante,$$,4.0,174,Italian,41.94753,-87.76715
+60634,Chicago,IL,Legno Chicago,$$,4.0,310,Italian,41.958257,-87.767503
+60634,Chicago,IL,Caponies Trattoria,$$,3.5,178,Italian,41.95238,-87.81304
+60637,Chicago,IL,Piccolo Mondo,$$,3.5,162,Italian,41.79376,-87.58453
+60638,Chicago,IL,Giordano's,$$,3.5,386,Italian,41.7778719103997,-87.742697722154
+60638,Chicago,IL,Lou Malnati's Pizzeria,$$,3.5,146,Italian,41.77493,-87.74261
+60638,Chicago,IL,Villa Rosa Pizza,$$,3.5,95,Italian,41.79668,-87.758
+60638,Chicago,IL,D'anardo's Pizza,$,3.5,32,Italian,41.7774851,-87.78514
+60640,Chicago,IL,Spacca Napoli,$$,4.0,1372,Italian,41.963286,-87.673801
+60640,Chicago,IL,Calo Ristorante,$$,4.0,932,Italian,41.97934,-87.66793
+60640,Chicago,IL,Bar Roma,$$,4.5,220,Italian,41.9745114390209,-87.668036185205
+60640,Chicago,IL,Caro Mio,$$,4.0,572,Italian,41.9651506,-87.6758369
+60640,Chicago,IL,Anteprima,$$$,4.0,481,Italian,41.978573511319,-87.6684763732404
+60641,Chicago,IL,La Villa Restaurant,$$,4.0,549,Italian,41.94754,-87.72775
+60642,Chicago,IL,Piccolo Sogno,$$$,4.0,1095,Italian,41.8908673494353,-87.6477823122675
+60643,Chicago,IL,Calabria Imports,$,4.5,59,Italian,41.7064514,-87.6694031
+60643,Chicago,IL,Buona Restaurant & Catering,$,4.0,91,Italian,41.69964,-87.68101
+60643,Chicago,IL,Franconello's,$$,3.5,60,Italian,41.707409,-87.682058
+60643,Chicago,IL,Bella's,$$,3.0,38,Italian,41.7208,-87.66782
+60645,Chicago,IL,Gullivers Pizza and Pub,$$,3.5,344,Italian,42.019394,-87.698325
+60646,Chicago,IL,Pasta D'Arte Trattoria Italiana,$$,4.5,303,Italian,41.99563,-87.78578
+60646,Chicago,IL,Phil's Pizza D'Oro,$$,4.0,118,Italian,41.98671,-87.77825
+60646,Chicago,IL,Villa Rosa Pizza Kitchen,$$,4.0,69,Italian,41.9972032,-87.7628036
+60647,Chicago,IL,Buona Terra,$$,4.5,599,Italian,41.92788,-87.69722
+60647,Chicago,IL,Osteria Langhe,$$$,4.0,323,Italian,41.91763,-87.6983279
+60647,Chicago,IL,Antico,$$$,4.5,205,Italian,41.91746,-87.68281
+60647,Chicago,IL,Dante's Pizzeria,$$,4.0,327,Italian,41.9174418,-87.7034462
+60649,Chicago,IL,Italian Fiesta Pizzeria,$$,2.5,84,Italian,41.76592,-87.57776
+60652,Chicago,IL,Vito & Nick's Pizzeria,$$,4.0,752,Italian,41.7392361,-87.7213971
+60654,Chicago,IL,Lou Malnati's Pizzeria,$$,4.0,5198,Italian,41.890357,-87.633704
+60654,Chicago,IL,Quartino Ristorante,$$,4.0,4299,Italian,41.8934479679332,-87.6283662020996
+60654,Chicago,IL,RPM Italian,$$$,4.0,2779,Italian,41.8909608540557,-87.6300418625656
+60654,Chicago,IL,Siena Tavern,$$$,4.0,1606,Italian,41.8890751,-87.6299699
+60654,Chicago,IL,Prosecco,$$$,4.0,617,Italian,41.8952140808105,-87.6345138549805
+60654,Chicago,IL,Osteria Via Stato,$$,4.0,776,Italian,41.893095,-87.6282449
+60655,Chicago,IL,Joseph's,$$,4.0,69,Italian,41.69133,-87.69933
+60655,Chicago,IL,Pop's Italian Beef,$,4.0,61,Italian,41.7049237,-87.7011751
+60657,Chicago,IL,Dimo's Pizza,$,4.0,891,Italian,41.94521,-87.65467
+60657,Chicago,IL,The Art of Pizza,$,4.0,1119,Italian,41.9371221,-87.6683814
+60657,Chicago,IL,Mia Francesca,$$,4.0,632,Italian,41.9420064,-87.6523323
+60657,Chicago,IL,Angelina Ristorante,$$,4.0,685,Italian,41.947146362475,-87.6469336269836
+60657,Chicago,IL,La Gondola,$$,4.0,700,Italian,41.9345793,-87.6686589
+60657,Chicago,IL,Frasca Pizzeria and Wine Bar,$$,4.0,652,Italian,41.9430502,-87.6713149
+60660,Chicago,IL,Francesca's Bryn Mawr,$$,4.0,313,Italian,41.98356502918,-87.656778688821
+60666,Chicago,IL,Romano's Macaroni Grill,$$,2.5,281,Italian,41.9756181609535,-87.9004924958481
+60666,Chicago,IL,Stefani's Tuscany Café,$$,2.5,254,Italian,41.981285,-87.906054
+60605,Chicago,IL,Kai Sushi,$$,4.0,572,Japanese,41.865935633459,-87.6271085681229
+60605,Chicago,IL,Umai,$$,4.0,769,Japanese,41.8722769939333,-87.6310924282417
+60605,Chicago,IL,Osaka Sushi Express & Fresh Fruit Smoothies,$,4.0,433,Japanese,41.876943,-87.624532
+60607,Chicago,IL,Momotaro,$$$,4.0,869,Japanese,41.8858362394937,-87.6485168502935
+60607,Chicago,IL,Sushi Dokku,$$,4.0,348,Japanese,41.8841513653687,-87.6484478840348
+60610,Chicago,IL,Kamehachi,$$,3.5,539,Japanese,41.910041809082,-87.6342239379883
+60611,Chicago,IL,Gyu-Kaku Japanese BBQ,$$,4.0,1475,Japanese,41.89281,-87.62223
+60611,Chicago,IL,Niu Japanese Fusion Lounge,$$,3.5,757,Japanese,41.891185141978,-87.618678666509
+60613,Chicago,IL,Jai-Yen,$$,3.5,428,Japanese,41.9501546409325,-87.649023475927
+60614,Chicago,IL,Green Tea Japanese Restaurant,$$,4.0,326,Japanese,41.9223934,-87.6387248
+60614,Chicago,IL,Juno,$$$,4.0,335,Japanese,41.9297369,-87.6552049
+60614,Chicago,IL,Sushi Mon,$$,4.0,361,Japanese,41.9267026,-87.64097
+60614,Chicago,IL,Macku Sushi,$$$,4.0,396,Japanese,41.92255,-87.66521
+60615,Chicago,IL,Shinju Sushi,$$,3.0,276,Japanese,41.7992599,-87.59219
+60615,Chicago,IL,Kikuya Japanese Restaurant,$$,3.5,100,Japanese,41.795104018948,-87.586589483148
+60616,Chicago,IL,South Coast Sushi,$$,4.0,495,Japanese,41.8589015950675,-87.6242748306885
+60618,Chicago,IL,Raisu Japanese Fine Dining,$$$,4.5,109,Japanese,41.95426,-87.70278
+60618,Chicago,IL,Poke Burrito,$$,4.5,81,Japanese,41.959774,-87.682362
+60622,Chicago,IL,Kai Zan,$$$,4.5,872,Japanese,41.8955051374998,-87.6915407180786
+60622,Chicago,IL,Yuzu Sushi & Robata Grill,$$,4.0,1430,Japanese,41.8956886,-87.6717159
+60622,Chicago,IL,Sushi Taku,$$,4.5,415,Japanese,41.90351,-87.67512
+60622,Chicago,IL,ARAMI,$$$,4.0,608,Japanese,41.8960345011502,-87.6733909357176
+60622,Chicago,IL,Mirai Sushi - Wicker Park,$$$,4.0,502,Japanese,41.9034767150879,-87.67822265625
+60625,Chicago,IL,Sushi Joon,$$,5.0,181,Japanese,41.9815602,-87.6925329
+60625,Chicago,IL,Rolls N Bowls,$$,4.0,381,Japanese,41.965995,-87.6866153
+60625,Chicago,IL,Sushi Tokoro,$$,4.0,360,Japanese,41.9683599,-87.68925
+60625,Chicago,IL,Miku Sushi Restaurant,$$,4.0,179,Japanese,41.9634971618652,-87.6855926513672
+60625,Chicago,IL,Chicago Kalbi,$$,4.0,287,Japanese,41.9685599,-87.72277
+60626,Chicago,IL,Asahi Roll,$$,4.5,105,Japanese,42.0057404,-87.6607668
+60634,Chicago,IL,Hands On Thai & Sushi,$$,4.0,299,Japanese,41.945235,-87.803986
+60634,Chicago,IL,Yummy,$$,3.0,63,Japanese,41.947545,-87.806587
+60638,Chicago,IL,Sarku Japan,$$,1.0,1,Japanese,41.759022,-87.744843
+60640,Chicago,IL,Ora,$$,4.5,446,Japanese,41.975647,-87.668127
+60640,Chicago,IL,Agami,$$,4.0,437,Japanese,41.9674681,-87.6588103
+60640,Chicago,IL,Tanoshii,$$$,4.0,388,Japanese,41.9831199645996,-87.6683349609375
+60642,Chicago,IL,Seadog Sushi Bar,$$,4.0,516,Japanese,41.9034363603087,-87.6652242288361
+60646,Chicago,IL,Ruk Sushi & Thai Edgebrook,$,4.5,39,Japanese,41.9971473185556,-87.7647010448492
+60647,Chicago,IL,Hachi's Kitchen,$$,4.0,384,Japanese,41.9273071289062,-87.6971435546875
+60647,Chicago,IL,Runa Japanese,$$,4.0,293,Japanese,41.9103182940484,-87.6847123075727
+60647,Chicago,IL,Sakura,$$,4.0,251,Japanese,41.9247277893337,-87.6903283596039
+60654,Chicago,IL,Sunda,$$$,4.0,2609,Japanese,41.8909469,-87.6317244
+60654,Chicago,IL,Roka Akor - Chicago,$$$,4.0,1063,Japanese,41.8905877769375,-87.6312957381504
+60654,Chicago,IL,Union Sushi + Barbeque Bar,$$,4.0,1080,Japanese,41.8940757,-87.6354284
+60654,Chicago,IL,Slurping Turtle,$$,3.5,1362,Japanese,41.89009,-87.631935
+60656,Chicago,IL,Royal Sushi,$$,4.0,180,Japanese,41.9746548,-87.808646
+60656,Chicago,IL,Umami Sushi,$$,3.5,287,Japanese,41.9638063112241,-87.8369734060822
+60657,Chicago,IL,BITES,$$,4.0,431,Japanese,41.94221,-87.65209
+60657,Chicago,IL,Rollapalooza,$$,4.5,413,Japanese,41.94314,-87.64972
+60657,Chicago,IL,Yoshi's Cafe,$$$,4.0,292,Japanese,41.9417028,-87.6492322
+60657,Chicago,IL,Sumo Sushi and Hibachi,$$,4.5,253,Japanese,41.9359375,-87.6444353
+60657,Chicago,IL,Ukai Japanese Restaurant,$$,4.0,383,Japanese,41.9396951,-87.6561638
+60659,Chicago,IL,Pride Sushi and Thai,$$,4.5,177,Japanese,41.9907128,-87.6973539
+60659,Chicago,IL,Midori Japanese Restaurant,$$,4.0,209,Japanese,41.9831782,-87.7117334
+60660,Chicago,IL,Indie Cafe,$$,4.0,699,Japanese,41.9904999627679,-87.6600041637543
+60601,Chicago,IL,City Rock Korean Kitchen,$$,4.5,38,Korean,41.88494,-87.63168
+60602,Chicago,IL,Green Apple PHOever,$,4.0,203,Korean,41.8818416049609,-87.6311031728983
+60604,Chicago,IL,Bibibop Asian Grill,$,4.0,84,Korean,41.8782721561378,-87.6267873501505
+60607,Chicago,IL,Kohan Japanese Restaurant,$$,3.5,218,Korean,41.86502,-87.64632
+60607,Chicago,IL,SoJu BBQ,$$,4.5,59,Korean,41.8803115441906,-87.6669892108769
+60608,Chicago,IL,Kimski,$$,4.0,118,Korean,41.8381469806253,-87.6510047934505
+60608,Chicago,IL,Do Eat,$$,4.0,108,Korean,41.83683,-87.6459
+60610,Chicago,IL,Forastero,$,4.5,265,Korean,41.9108,-87.64045
+60614,Chicago,IL,Del Seoul,$,4.5,1928,Korean,41.929444,-87.643016
+60614,Chicago,IL,Kabuki Japanese Restaurant,$$,3.5,174,Korean,41.9275587,-87.6414668
+60615,Chicago,IL,Cafe Corea,$$,3.5,120,Korean,41.7950651,-87.5857734
+60616,Chicago,IL,Daebak Korean BBQ,$$,4.0,344,Korean,41.85477,-87.63257
+60616,Chicago,IL,Ahjoomah's Apron,$$,3.5,470,Korean,41.8531265258789,-87.6323623657227
+60616,Chicago,IL,Bonchon - Chinatown Chicago,$$,3.5,280,Korean,41.8536631865071,-87.6348391547799
+60618,Chicago,IL,Parachute,$$$,4.0,566,Korean,41.944707,-87.706518
+60618,Chicago,IL,Cho Sun Ok Restaurant,$$,3.5,1024,Korean,41.95797,-87.68178
+60622,Chicago,IL,Kimchi Pop,$$,4.5,77,Korean,41.8991,-87.66698
+60625,Chicago,IL,Da Rae Jung,$$,4.5,408,Korean,41.97653,-87.69269
+60625,Chicago,IL,Sushi Joon,$$,5.0,181,Korean,41.9815602,-87.6925329
+60625,Chicago,IL,San Soo Gab San,$$,3.5,1245,Korean,41.9775897881067,-87.6887278533035
+60625,Chicago,IL,Han Bat Restaurant,$,4.5,135,Korean,41.9684051,-87.6972314
+60625,Chicago,IL,Ban Po Jung,$$,4.0,209,Korean,41.9758049,-87.7155724
+60625,Chicago,IL,Chicago Kalbi,$$,4.0,287,Korean,41.9685599,-87.72277
+60626,Chicago,IL,bopNGrill,$$,4.0,786,Korean,42.002840213503,-87.661120406701
+60626,Chicago,IL,Susie's Noon Hour Grill,$,4.5,266,Korean,42.0075552249299,-87.6662723055139
+60630,Chicago,IL,Ssyal Ginseng House,$$,4.0,137,Korean,41.968425,-87.732829
+60634,Chicago,IL,Jess Cafe,$,4.0,372,Korean,41.93825,-87.77216
+60634,Chicago,IL,Bop Bar,$$,3.0,8,Korean,41.9559439652406,-87.7670259467741
+60637,Chicago,IL,Seoul Taco,$$,4.0,10,Korean,41.7913981311833,-87.5939189784715
+60640,Chicago,IL,Jin Ju,$$,4.0,320,Korean,41.9764,-87.66803
+60640,Chicago,IL,Bibim Town,$,5.0,73,Korean,41.97982,-87.6595
+60642,Chicago,IL,Sushi X,$$,4.0,468,Korean,41.896362,-87.656584
+60646,Chicago,IL,Amitabul,$$,4.5,390,Korean,41.99416,-87.78439
+60647,Chicago,IL,En Hakkore,$$,4.5,661,Korean,41.9150939,-87.6777957
+60647,Chicago,IL,RYUU Asian BBQ & Sushi,$$,4.5,162,Korean,41.9313684850931,-87.7113179862499
+60647,Chicago,IL,Gosu,$$,4.0,193,Korean,41.92717,-87.69711
+60654,Chicago,IL,Seoul Taco,$,4.0,539,Korean,41.8959233394607,-87.6313957501562
+60657,Chicago,IL,Crisp,$$,4.5,2851,Korean,41.9361214592879,-87.6444210345452
+60657,Chicago,IL,Rice'N Bread,$,4.5,286,Korean,41.9446344810848,-87.6540841498032
+60659,Chicago,IL,Gogi,$$,4.0,271,Korean,41.995146,-87.699895
+60659,Chicago,IL,Woo Chon Restaurant,$$,4.0,145,Korean,41.9862647,-87.6994549
+60659,Chicago,IL,Yeowoosai,$$,4.0,171,Korean,41.995304,-87.6997413
+60660,Chicago,IL,Dak,$$,4.5,436,Korean,41.9946798,-87.6586452
+60661,Chicago,IL,Hmart,$$,4.0,135,Korean,41.87774,-87.64471
+60602,Chicago,IL,Latinicity,$$,3.0,566,Latin American,41.883737829018,-87.6286784939178
+60607,Chicago,IL,La Sirena Clandestina,$$,4.0,481,Latin American,41.887103,-87.651697
+60607,Chicago,IL,Bar Takito,$$,4.0,454,Latin American,41.8857,-87.6519851
+60607,Chicago,IL,La Lagartija Taqueria,$$,4.0,240,Latin American,41.8793561,-87.6669304
+60612,Chicago,IL,Jarabe- Mexican Street Food,$,4.5,150,Latin American,41.86886,-87.68334
+60613,Chicago,IL,Tango Sur,$$,4.0,2196,Latin American,41.9507843879442,-87.6639031774259
+60614,Chicago,IL,CRĪO Bar and Restaurant,$$,4.5,324,Latin American,41.927002,-87.6722383
+60618,Chicago,IL,Brasa Roja,$,4.0,260,Latin American,41.9613992330456,-87.7067254776816
+60618,Chicago,IL,Altiro Latin Fusion - Roscoe,$$,4.5,136,Latin American,41.94339,-87.68165
+60618,Chicago,IL,Cafe Urbano,$,4.0,164,Latin American,41.956659,-87.723814
+60622,Chicago,IL,Takito Kitchen,$$,4.0,494,Latin American,41.90289,-87.67784
+60622,Chicago,IL,Las Palmas,$$,4.0,653,Latin American,41.910266,-87.673935
+60622,Chicago,IL,Papa's Cache Sabroso,$,4.0,480,Latin American,41.90268,-87.6902
+60623,Chicago,IL,Sora Temakeria,$,5.0,17,Latin American,41.84457,-87.71283
+60625,Chicago,IL,Rojo Gusano,$$,4.0,202,Latin American,41.9684136,-87.7246131
+60626,Chicago,IL,South Of The Border Restaurant,$$,4.5,40,Latin American,42.00823,-87.6667
+60629,Chicago,IL,Garifuna Flava,$$,4.5,282,Latin American,41.77949,-87.68693
+60629,Chicago,IL,The Sandwich Break,$,4.5,58,Latin American,41.7788518097438,-87.7053842693567
+60630,Chicago,IL,Mayfair Restaurant,$,4.0,58,Latin American,41.967934,-87.740293
+60632,Chicago,IL,D' Nuez,$$,4.0,88,Latin American,41.81845,-87.69651
+60634,Chicago,IL,La Parrilla Colombian Steakhouse,$$,4.0,233,Latin American,41.9527664169932,-87.7878438810709
+60638,Chicago,IL,Healthy Substance,$$,4.5,20,Latin American,41.79239,-87.79364
+60641,Chicago,IL,La Humita,$$,4.0,77,Latin American,41.94468,-87.72768
+60642,Chicago,IL,Flo,$$,4.0,907,Latin American,41.8963899,-87.66383
+60647,Chicago,IL,Irazú Costa Rican Restaurant,$$,4.0,1972,Latin American,41.9154815714051,-87.6850729673014
+60647,Chicago,IL,Cafe con Leche,$$,4.0,899,Latin American,41.9305879,-87.710207
+60647,Chicago,IL,Casa Yari,$$,4.5,136,Latin American,41.92497,-87.71019
+60647,Chicago,IL,El Nandu Restaurant,$$,4.0,336,Latin American,41.92452,-87.6962099
+60647,Chicago,IL,Mi Tocaya Antojeria,$$,4.0,260,Latin American,41.9289,-87.6977
+60651,Chicago,IL,La Palma Puerto Rican Restaurant,$,4.0,158,Latin American,41.9057371,-87.7119217
+60654,Chicago,IL,Havana,$$,4.0,719,Latin American,41.88967,-87.6314
+60654,Chicago,IL,Vermilion,$$$,3.0,659,Latin American,41.8901732672856,-87.6284838567184
+60659,Chicago,IL,El Carrito,$,4.0,346,Latin American,41.9907368061156,-87.7076021281604
+60661,Chicago,IL,Carnivale,$$$,4.0,2112,Latin American,41.887075681459,-87.646048728271
+60661,Chicago,IL,Ronero,$$,4.0,176,Latin American,41.88483,-87.647216
+60640,Chicago,IL,Bingo Tea Malaysian Cafe,$$,4.5,13,Malaysian,41.9733143014338,-87.6590300931719
+60647,Chicago,IL,Serai,$$,4.5,441,Malaysian,41.9206132,-87.6933394
+60659,Chicago,IL,The Family House- CLOSED,$,4.0,28,Malaysian,41.99751,-87.68767
+60602,Chicago,IL,Oasis Cafe,$,4.0,403,Mediterranean,41.882755,-87.6260309
+60602,Chicago,IL,Roti Modern Mediterranean,$,4.0,348,Mediterranean,41.88273,-87.62906
+60605,Chicago,IL,Kurah Mediterranean,$$,4.0,390,Mediterranean,41.8641894688991,-87.6238789171966
+60605,Chicago,IL,Pita Heaven Restaurant,$$,3.5,324,Mediterranean,41.8660469055176,-87.6242828369141
+60606,Chicago,IL,Taza Cafe,$,4.5,533,Mediterranean,41.88528255359,-87.635568761842
+60606,Chicago,IL,Roti Modern Mediterranean,$,4.0,253,Mediterranean,41.88165,-87.6388749
+60607,Chicago,IL,Aba,$$$,4.5,280,Mediterranean,41.8869441,-87.6487949
+60607,Chicago,IL,Crave Kabob,$$,4.5,136,Mediterranean,41.8813351,-87.66563
+60607,Chicago,IL,Galata Turkish Restaurant,$$,4.5,120,Mediterranean,41.86457,-87.64574
+60607,Chicago,IL,Nia,$$,3.5,478,Mediterranean,41.8842587674927,-87.647677094592
+60608,Chicago,IL,Zaytune Mediterranean Grill,$,4.0,404,Mediterranean,41.8370666503906,-87.6508560180664
+60610,Chicago,IL,3 Arts Club Cafe,$$,4.5,885,Mediterranean,41.9058,-87.63047
+60611,Chicago,IL,The Purple Pig,$$,4.0,6487,Mediterranean,41.89101954311,-87.6245617816512
+60611,Chicago,IL,Fig & Olive - Chicago,$$$,3.5,734,Mediterranean,41.901044,-87.625532
+60614,Chicago,IL,Dawali Mediterranean Kitchen,$$,4.0,494,Mediterranean,41.9117,-87.64793
+60614,Chicago,IL,Athenian Room,$$,4.0,678,Mediterranean,41.9217435,-87.6490466
+60614,Chicago,IL,Cairo Kebab,$,4.5,227,Mediterranean,41.92543,-87.66681
+60614,Chicago,IL,Sultan's Market,$,4.0,522,Mediterranean,41.9284272,-87.6420285
+60614,Chicago,IL,Pars Cove Restaurant,$$,4.0,437,Mediterranean,41.932758,-87.640861
+60615,Chicago,IL,Cedars Mediterranean Kitchen,$$,3.5,265,Mediterranean,41.7999084410129,-87.5962261272235
+60615,Chicago,IL,Antoni 1 Grill & Catering,$,4.5,38,Mediterranean,41.7996149,-87.5946571
+60615,Chicago,IL,Roti Modern Mediterranean,$,4.0,67,Mediterranean,41.7996949,-87.587982
+60618,Chicago,IL,Little Bucharest Bistro,$$,4.5,574,Mediterranean,41.94799,-87.7105
+60618,Chicago,IL,Pi-Hi Cafe,$,4.5,282,Mediterranean,41.9460656925374,-87.6877528213354
+60619,Chicago,IL,Best Gyro,$$,2.5,2,Mediterranean,41.74705,-87.60516
+60622,Chicago,IL,Taxim,$$$,4.0,428,Mediterranean,41.9098026,-87.6767066
+60622,Chicago,IL,Shawarma Garden,$,4.0,155,Mediterranean,41.9030684,-87.6768271
+60625,Chicago,IL,Noon O Kabab,$$,4.0,925,Mediterranean,41.9669816,-87.7081594
+60625,Chicago,IL,Kabobi Grill,$$,4.5,501,Mediterranean,41.9680551997115,-87.7086880803108
+60625,Chicago,IL,Restaurant Sarajevo,$$,4.5,275,Mediterranean,41.96835,-87.69668
+60625,Chicago,IL,Salam Restaurant,$,4.0,539,Mediterranean,41.9657874,-87.708574
+60625,Chicago,IL,Tiba Restaurant Chicago,$,4.5,74,Mediterranean,41.96828,-87.6971
+60634,Chicago,IL,Chicago's Pita Grill,$,4.0,138,Mediterranean,41.93653,-87.7660779
+60634,Chicago,IL,Jerusalem Grill,$$,4.5,41,Mediterranean,41.9377062691616,-87.7860939502716
+60640,Chicago,IL,Reza's Restaurant,$$,3.5,664,Mediterranean,41.9778895664059,-87.6681118034762
+60640,Chicago,IL,Andies Restaurant,$$,3.5,490,Mediterranean,41.9775873,-87.6681818
+60641,Chicago,IL,Zebda,$,4.0,188,Mediterranean,41.959698,-87.728001
+60645,Chicago,IL,Bina's Cafe,$,4.5,34,Mediterranean,42.0086241,-87.6904625
+60645,Chicago,IL,Larsa's Mediterranean Restaurant,$,5.0,38,Mediterranean,42.01212,-87.70883
+60645,Chicago,IL,Mr. Falafel,$,4.5,62,Mediterranean,41.997748,-87.6998236
+60646,Chicago,IL,Papa Chris' Place,$,4.5,101,Mediterranean,42.01169,-87.78335
+60649,Chicago,IL,Magal Restaurant,$,4.0,4,Mediterranean,41.7659248,-87.5673057
+60654,Chicago,IL,Ēma,$$,4.5,662,Mediterranean,41.8909649,-87.6306233
+60657,Chicago,IL,Zizi's Cafe,$$,4.5,529,Mediterranean,41.9333149343307,-87.6537242180222
+60657,Chicago,IL,The Gundis,$$,4.5,316,Mediterranean,41.9350992,-87.646744
+60657,Chicago,IL,Pera Turkish Kitchen & Bar,$$,4.5,150,Mediterranean,41.93382,-87.6443
+60657,Chicago,IL,Ella Elli,$$,4.5,211,Mediterranean,41.9451151,-87.6630233
+60657,Chicago,IL,Troy Mediterranean Grill,$$,4.5,204,Mediterranean,41.935216,-87.644337
+60657,Chicago,IL,Zachi Express,$,4.5,137,Mediterranean,41.9402482,-87.6446729
+60661,Chicago,IL,Avec,$$$,4.5,2011,Mediterranean,41.884290441849,-87.6433979433133
+60661,Chicago,IL,Greek Islands Restaurant,$$,4.0,1694,Mediterranean,41.87896,-87.64763
+60661,Chicago,IL,Athena Greek Restaurant,$$,3.5,646,Mediterranean,41.87864,-87.64762
+60666,Chicago,IL,Skybridge Restaurant & Bar,$$,3.5,80,Mediterranean,41.973654548547,-87.9060655142639
+60666,Chicago,IL,La Tapenade Mediterranean Cafe,$$,2.5,87,Mediterranean,41.978227,-87.906727
+60601,Chicago,IL,Broken English Taco Pub - The Loop,$$,3.5,557,Mexican,41.885722438168,-87.6250369825827
+60602,Chicago,IL,Frontera Fresco,$,4.0,353,Mexican,41.88421,-87.62738
+60605,Chicago,IL,Flaco's Tacos,$,3.5,751,Mexican,41.8728063,-87.6289506
+60607,Chicago,IL,Chilango Mexican Street Food,$,4.5,432,Mexican,41.869141,-87.663129
+60607,Chicago,IL,Leña Brava,$$$,4.0,387,Mexican,41.88465,-87.65007
+60607,Chicago,IL,Ricano's Restaurant,$$,4.0,292,Mexican,41.87793,-87.66707
+60608,Chicago,IL,Carnitas Uruapan Restaurant,$,4.5,321,Mexican,41.857612801225,-87.669703625051
+60608,Chicago,IL,Pollo Express,$,4.5,321,Mexican,41.85764,-87.65954
+60608,Chicago,IL,Canton Regio,$$,4.0,423,Mexican,41.858017,-87.6642617
+60608,Chicago,IL,El Taco Azteca,$,4.5,160,Mexican,41.85185,-87.68029
+60608,Chicago,IL,5 Rabanitos Restaurante and Taqueria,$$,4.0,342,Mexican,41.857970649612,-87.6709524169564
+60608,Chicago,IL,El Milagro Tortilla,$,4.0,314,Mexican,41.8551733,-87.6631926
+60608,Chicago,IL,Aloha Wagon,$,5.0,97,Mexican,41.865308,-87.685784
+60608,Chicago,IL,Del Toro,$$,4.0,322,Mexican,41.85324,-87.6462
+60608,Chicago,IL,Taqueria Los Comales 3,$,4.0,327,Mexican,41.85795,-87.66553
+60608,Chicago,IL,Yvolina's Tamales,$,4.5,122,Mexican,41.85831,-87.64727
+60611,Chicago,IL,Foodlife,$$,3.5,492,Mexican,41.898204,-87.623811
+60612,Chicago,IL,Jarabe- Mexican Street Food,$,4.5,150,Mexican,41.86886,-87.68334
+60613,Chicago,IL,Azteca Grill,$,4.0,415,Mexican,41.949852,-87.658374
+60613,Chicago,IL,El Mariachi Tequila Bar & Grill,$$,3.5,539,Mexican,41.95309,-87.65002
+60614,Chicago,IL,Taco Joint,$$,4.0,859,Mexican,41.91791,-87.648371
+60614,Chicago,IL,Mayan Palace Mexican Cuisine,$$,4.0,539,Mexican,41.93173,-87.6486
+60614,Chicago,IL,Taco & Burrito Palace #2,$,4.5,215,Mexican,41.9272003173828,-87.6484680175781
+60614,Chicago,IL,Allende Restaurant,$,4.0,353,Mexican,41.9257122,-87.6493817
+60616,Chicago,IL,Carbon,$,3.5,489,Mexican,41.84561,-87.63487
+60616,Chicago,IL,Pancho Pistolas,$$,3.5,440,Mexican,41.8382999,-87.64402
+60616,Chicago,IL,La Cantina Grill,$$,3.5,505,Mexican,41.85627,-87.62344
+60617,Chicago,IL,Birrieria Ocotlan,$,4.5,26,Mexican,41.702471,-87.526611
+60617,Chicago,IL,Cocula Restaurant,$$,3.5,74,Mexican,41.7339822,-87.5511616
+60617,Chicago,IL,El Charro San Francisco,$,4.0,42,Mexican,41.70243,-87.53432
+60617,Chicago,IL,Taco Mex,$$,4.0,26,Mexican,41.701588,-87.5597349
+60617,Chicago,IL,Tacos Nietos,$$,3.5,17,Mexican,41.722373,-87.554385
+60617,Chicago,IL,Macias Produce,$,4.0,9,Mexican,41.7327129484274,-87.5511386774109
+60617,Chicago,IL,El Jacalito,$,4.0,9,Mexican,41.7417914,-87.5513651
+60617,Chicago,IL,La Cienega Taqueria,$,4.0,8,Mexican,41.6996803,-87.5356293
+60617,Chicago,IL,Gomez Taco's,$,3.0,17,Mexican,41.73037,-87.5505
+60618,Chicago,IL,Taqueria El Asadero,$,4.0,530,Mexican,41.9612451,-87.6842599
+60618,Chicago,IL,Ixcateco Grill,$$,4.5,160,Mexican,41.9614,-87.71341
+60618,Chicago,IL,Altiro Latin Fusion - Roscoe,$$,4.5,136,Mexican,41.94339,-87.68165
+60618,Chicago,IL,Taqueria Mazamitla,$,4.5,119,Mexican,41.939289,-87.717996
+60622,Chicago,IL,Big Star,$$,3.5,3088,Mexican,41.9093,-87.67718
+60622,Chicago,IL,Antique Taco,$$,4.0,1159,Mexican,41.9063606,-87.6716766
+60622,Chicago,IL,Takito Kitchen,$$,4.0,494,Mexican,41.90289,-87.67784
+60622,Chicago,IL,Las Palmas,$$,4.0,653,Mexican,41.910266,-87.673935
+60622,Chicago,IL,Sabroso! Mexican Grill,$$,4.5,186,Mexican,41.8988214105907,-87.6769693891957
+60622,Chicago,IL,Taqueria Traspasada,$,4.0,361,Mexican,41.89633,-87.66705
+60622,Chicago,IL,Alegrias Seafood Chicago,$$,4.0,552,Mexican,41.90046,-87.66776
+60622,Chicago,IL,El Barco,$$,3.5,762,Mexican,41.9007453918457,-87.6670761108398
+60622,Chicago,IL,Bullhead Cantina,$$,4.0,257,Mexican,41.9022902121953,-87.6964375079613
+60623,Chicago,IL,La Catedral Cafe & Restaurant,$$,4.5,281,Mexican,41.846148,-87.709083
+60623,Chicago,IL,Taquerias Atotonilco,$,4.0,177,Mexican,41.84452,-87.72286
+60623,Chicago,IL,Taqueria El Milagro,$,4.0,187,Mexican,41.844868,-87.702187
+60625,Chicago,IL,Garcia's Restaurant,$$,3.5,1192,Mexican,41.9680265354179,-87.6884323571472
+60625,Chicago,IL,Torteria San Lenchito,$,5.0,63,Mexican,41.9686651,-87.7171894
+60625,Chicago,IL,Rojo Gusano,$$,4.0,202,Mexican,41.9684136,-87.7246131
+60625,Chicago,IL,Restaurante El Mogote,$,4.0,109,Mexican,41.971435,-87.7083697
+60626,Chicago,IL,Restaurant Cuetzala Gro,$$,4.5,125,Mexican,42.0154899358749,-87.6751604676247
+60626,Chicago,IL,El Famous Burrito,$,4.0,166,Mexican,42.01044,-87.67395
+60626,Chicago,IL,El Pulpo Loco,$$,4.5,64,Mexican,42.0022888183594,-87.6716842651367
+60626,Chicago,IL,Taqueria & Restaurant Cd. Hidalgo,$,4.0,87,Mexican,42.0116188,-87.6746529
+60626,Chicago,IL,Tamales Lo Mejor de Guerrero,$,4.0,85,Mexican,42.00976,-87.67452
+60628,Chicago,IL,Manny's Tacos & Burritos,$,3.5,19,Mexican,41.684074,-87.620399
+60628,Chicago,IL,Damenzo's Pizza & Restaurant,$,3.5,29,Mexican,41.6894379287725,-87.6427682883615
+60629,Chicago,IL,El Solazo,$$,3.5,221,Mexican,41.791249,-87.7233569
+60629,Chicago,IL,Paco's Tacos 2,$,4.0,96,Mexican,41.7831,-87.723266
+60629,Chicago,IL,Indio 2,$,4.0,82,Mexican,41.7789497375488,-87.7215957641602
+60629,Chicago,IL,Zacatacos,$,3.5,202,Mexican,41.785156,-87.722572
+60629,Chicago,IL,Burritos Juarez,$,4.5,35,Mexican,41.7847595,-87.7227325
+60629,Chicago,IL,Gorditas Santiago,$$,4.5,35,Mexican,41.7784423828125,-87.7188415527344
+60629,Chicago,IL,Valentina Restaurant,$$,4.0,109,Mexican,41.7786487,-87.7354016
+60631,Chicago,IL,Don Juan Restaurante,$$,3.0,240,Mexican,42.00317,-87.817314
+60632,Chicago,IL,Birrieria Zaragoza,$$,4.5,404,Mexican,41.80447,-87.72385
+60632,Chicago,IL,Carnitas Don Rafa,$$,4.5,54,Mexican,41.8097693,-87.7108409
+60633,Chicago,IL,Los Cantaritos,$,4.0,16,Mexican,41.6523895263672,-87.5467834472656
+60634,Chicago,IL,Pueblo Nuevo,$,4.5,380,Mexican,41.960272,-87.76744
+60634,Chicago,IL,El Gordo Restaurant,$$,4.0,236,Mexican,41.9386493,-87.7707808
+60634,Chicago,IL,Cochinita Taco Co.,$$,3.5,217,Mexican,41.9524847,-87.7672264
+60634,Chicago,IL,Meson Del Taco,$,4.0,78,Mexican,41.9377168,-87.7860947
+60634,Chicago,IL,A&J Krazy Kitchen,$,4.5,31,Mexican,41.95228,-87.81642
+60634,Chicago,IL,El Taconazo La Fiesta,$,4.0,76,Mexican,41.9310188293457,-87.8059234619141
+60638,Chicago,IL,Pupuseria Cafe,$,4.5,62,Mexican,41.777448,-87.784992
+60638,Chicago,IL,Tequila CJ Cantina Grill,$$,3.5,107,Mexican,41.7970301,-87.7554398
+60639,Chicago,IL,Tacotlan,$,5.0,40,Mexican,41.92469,-87.73466
+60640,Chicago,IL,Tiztal Cafe,$$,4.5,501,Mexican,41.96621,-87.66657
+60640,Chicago,IL,La Ciudad,$$,4.0,446,Mexican,41.9640599191189,-87.6546938717365
+60640,Chicago,IL,Primo Chuki's,$,4.5,217,Mexican,41.9689688745856,-87.6714098857877
+60640,Chicago,IL,Kie-Gol-Lanee,$$,4.5,89,Mexican,41.9735169,-87.6551255
+60640,Chicago,IL,Carmela's Taqueria,$,4.0,226,Mexican,41.9691463,-87.6599407
+60641,Chicago,IL,El Taco Feliz Taqueria,$,4.5,150,Mexican,41.94566,-87.76335
+60641,Chicago,IL,Sol de Mexico,$$,4.0,243,Mexican,41.93588,-87.74717
+60641,Chicago,IL,La Oaxaqueña,$$,4.0,205,Mexican,41.9426653,-87.7299573
+60642,Chicago,IL,Uncle Julio's,$$,3.0,1163,Mexican,41.91058,-87.65028
+60643,Chicago,IL,Americanos,$$,4.0,73,Mexican,41.692174,-87.6813528
+60643,Chicago,IL,Taqueria Valparaiso,$,4.0,30,Mexican,41.70261,-87.6819
+60645,Chicago,IL,El Garcia,$$,4.5,71,Mexican,42.017979,-87.689809
+60646,Chicago,IL,Mom's Old Recipe Mexican Restaurant,$$,4.0,281,Mexican,41.9860877990723,-87.7777099609375
+60647,Chicago,IL,El Habanero,$,4.5,406,Mexican,41.92496,-87.71099
+60647,Chicago,IL,Taqueria Moran,$,4.0,449,Mexican,41.9225235,-87.6975327
+60647,Chicago,IL,Dos Urban Cantina,$$$,4.5,301,Mexican,41.91725,-87.69841
+60647,Chicago,IL,Masa Azul,$$,4.5,313,Mexican,41.9318778,-87.7002477
+60647,Chicago,IL,Estrella Negra,$$,4.0,515,Mexican,41.925175,-87.68706
+60647,Chicago,IL,Quesadilla La Reyna del Sur,$,4.0,421,Mexican,41.92273,-87.68724
+60647,Chicago,IL,Quiote,$$,4.0,224,Mexican,41.9265,-87.6978
+60649,Chicago,IL,Flash Taco South Shore,$,2.5,56,Mexican,41.76598,-87.56929
+60654,Chicago,IL,Xoco,$$,4.0,3455,Mexican,41.890969,-87.630776
+60654,Chicago,IL,Frontera Grill,$$$,4.0,2125,Mexican,41.8905699,-87.63079
+60654,Chicago,IL,Mercadito,$$$,3.5,2021,Mexican,41.8894499,-87.63162
+60654,Chicago,IL,Seoul Taco,$,4.0,539,Mexican,41.8959233394607,-87.6313957501562
+60654,Chicago,IL,Cantina Laredo,$$,3.5,1300,Mexican,41.89110716029,-87.6282251997283
+60654,Chicago,IL,Topolobampo,$$$$,3.5,950,Mexican,41.890585,-87.630905
+60654,Chicago,IL,Barrio,$$$,4.0,440,Mexican,41.8890751,-87.6302265
+60655,Chicago,IL,La Fiesta Mexican Restaurant,$$,3.0,79,Mexican,41.691251,-87.704245
+60656,Chicago,IL,Maria's Mexican Restaurant,$$,3.5,417,Mexican,41.9734065,-87.8630522
+60657,Chicago,IL,El Nuevo Mexicano,$$,4.0,710,Mexican,41.9352732,-87.6470639
+60657,Chicago,IL,Esencia Urban Kitchen,$$,4.5,233,Mexican,41.9432065013836,-87.6445358158359
+60657,Chicago,IL,Buena Vista,$,4.0,311,Mexican,41.9389519,-87.6441962
+60657,Chicago,IL,Cafe El Tapatio,$$,4.0,726,Mexican,41.94357,-87.66913
+60657,Chicago,IL,Chilam Balam,$$,3.5,672,Mexican,41.93722,-87.64401
+60659,Chicago,IL,El Carrito,$,4.0,346,Mexican,41.9907368061156,-87.7076021281604
+60660,Chicago,IL,Mas Alla Del Sol,$$,4.5,263,Mexican,41.9884118474889,-87.6604411700977
+60660,Chicago,IL,Edgewater Tacos,$$,5.0,136,Mexican,41.9844,-87.6602748
+60660,Chicago,IL,Huaraches Dona Chio,$,4.0,146,Mexican,41.991189379274,-87.669437226622
+60660,Chicago,IL,Diamante Azul,$,4.0,166,Mexican,41.9851703,-87.6688417
+60666,Chicago,IL,Tortas Frontera,$$,4.0,1185,Mexican,41.9800263338152,-87.9066793839226
+60666,Chicago,IL,Tortas Frontera,$$,4.0,1214,Mexican,41.975438,-87.900137
+60601,Chicago,IL,Pierogi Wagon,$$$$,4.0,21,Polish,41.88615,-87.61819
+60606,Chicago,IL,Pierogi Heaven,$,4.5,661,Polish,41.8848892663734,-87.633853211969
+60606,Chicago,IL,The Chow Brothers,$$,4.5,24,Polish,41.88658,-87.63433
+60607,Chicago,IL,Express Grill,$,4.5,76,Polish,41.8652546439745,-87.6451800763607
+60608,Chicago,IL,Kimski,$$,4.0,118,Polish,41.8381469806253,-87.6510047934505
+60612,Chicago,IL,Al's Under the L,$,4.0,21,Polish,41.884281,-87.6993112
+60618,Chicago,IL,Staropolska Restaurant,$$,4.5,446,Polish,41.936365,-87.719246
+60618,Chicago,IL,Red Apple Buffet,$$,3.5,262,Polish,41.93783,-87.72119
+60618,Chicago,IL,Milano's Restaurant & Bar,$,4.0,23,Polish,41.94109,-87.7262499
+60618,Chicago,IL,Bristol Lounge,$,3.5,6,Polish,41.9370231628418,-87.7210006713867
+60624,Chicago,IL,Original Maxwell Street,$,4.0,25,Polish,41.8733851,-87.7206587
+60630,Chicago,IL,Smakosz Restaurant,$$,4.5,59,Polish,41.9675,-87.7683799
+60631,Chicago,IL,Red Apple Restaurant,$$,3.5,190,Polish,41.99889,-87.78986
+60632,Chicago,IL,Polish Highlander Alliance of North America,$$,4.5,7,Polish,41.80623,-87.71762
+60634,Chicago,IL,Jolly Inn Restaurant & Banquet,$$,4.0,131,Polish,41.9527351,-87.78918
+60634,Chicago,IL,Cafe Prague,$$,4.0,73,Polish,41.93845,-87.79385
+60634,Chicago,IL,Barbakan Restaurant,$,4.0,49,Polish,41.9380645751953,-87.7661285400391
+60634,Chicago,IL,Tasty Polish Food,$,4.5,19,Polish,41.937031,-87.766792
+60634,Chicago,IL,Polish Bistro,$$,3.5,20,Polish,41.9520866,-87.8344067
+60634,Chicago,IL,Polish House Polska Chata,$$,5.0,20,Polish,41.938415435245,-87.7708915892158
+60634,Chicago,IL,Krokodile,$$,3.5,16,Polish,41.9387054443359,-87.7765655517578
+60634,Chicago,IL,Olivia's Taste,$$,3.5,12,Polish,41.9378951,-87.8058998
+60638,Chicago,IL,Karolinka Club,$,4.5,26,Polish,41.78151,-87.7622
+60638,Chicago,IL,Stan's Corner & Helen's Kitchen,$$,4.5,23,Polish,41.79557,-87.76511
+60638,Chicago,IL,New Warsaw,$$,3.0,36,Polish,41.7778609,-87.7780954
+60638,Chicago,IL,Orion Restaurant,$$,5.0,6,Polish,41.79676,-87.75734
+60641,Chicago,IL,Lutnia Restaurant,$$$,3.5,26,Polish,41.93885,-87.76543
+60642,Chicago,IL,Podhalanka,$$,4.0,421,Polish,41.9031971642231,-87.6670556213551
+60646,Chicago,IL,Smak-Tak Restaurant,$$,4.5,233,Polish,41.989533,-87.777086
+60656,Chicago,IL,Alibaba Retro Restaurant,$$,3.5,13,Polish,41.97593,-87.80673
+60661,Chicago,IL,Pierogi Crib,$$,4.0,1,Polish,41.8841370769886,-87.6409730315208
+60601,Chicago,IL,Nando's PERi-PERi,$$,3.5,125,Portuguese,41.885547,-87.624253
+60603,Chicago,IL,Nando's PERi-PERi,$$,4.0,341,Portuguese,41.8812209,-87.6263332
+60605,Chicago,IL,Nando's PERi-PERi,$$,4.0,170,Portuguese,41.8695655542612,-87.6324513949254
+60607,Chicago,IL,Nando's PERi-PERi,$$,4.0,509,Portuguese,41.8840715,-87.6513439
+60607,Chicago,IL,Porto's Peri Peri,$$,4.0,19,Portuguese,41.86909,-87.66242
+60610,Chicago,IL,Nando's PERi-PERi,$$,3.5,120,Portuguese,41.9082411,-87.646727
+60611,Chicago,IL,Nando's PERi-PERi,$$,4.0,183,Portuguese,41.8931121826172,-87.6216278076172
+60614,Chicago,IL,Nando's PERi-PERi,$$,4.0,231,Portuguese,41.93303,-87.64639
+60615,Chicago,IL,Nando's PERi-PERi,$$,3.5,125,Portuguese,41.79922,-87.58992
+60647,Chicago,IL,Fat Rice,$$,4.0,908,Portuguese,41.9319451,-87.7017382
+60603,Chicago,IL,Russian Tea Time,$$$,4.0,554,Russian,41.8793955,-87.6252218
+60610,Chicago,IL,EuroAsia Restaurant,$$,4.5,3,Russian,41.9003551,-87.6376374
+60618,Chicago,IL,Chayhana,$$,4.0,41,Russian,41.95376,-87.68545
+60622,Chicago,IL,Red Square Cafe And Lounge,$$,4.0,26,Russian,41.90352,-87.67551
+60625,Chicago,IL,Jibek Jolu,$$,4.0,297,Russian,41.9732243,-87.6913578
+60603,Chicago,IL,Hot Woks Cool Sushi,$$,3.5,562,Thai,41.88114,-87.625
+60605,Chicago,IL,Thai Spoon & Sushi,$$,3.5,168,Thai,41.87425,-87.62548
+60605,Chicago,IL,Amarit Thai & Sushi,$$,3.5,323,Thai,41.87403,-87.62944
+60606,Chicago,IL,Opart Thai House,$$,4.0,863,Thai,41.8563894,-87.6272949
+60606,Chicago,IL,Siam Rice,$$,3.5,500,Thai,41.8836361,-87.633697
+60606,Chicago,IL,Hot Woks Cool Sushi,$$,3.5,172,Thai,41.8795049,-87.6361169
+60607,Chicago,IL,Talay Chicago,$$,4.0,214,Thai,41.8819675,-87.6578818
+60607,Chicago,IL,Thai Bowl,$,3.5,370,Thai,41.8692207336426,-87.6530456542969
+60607,Chicago,IL,Butterfly Sushi Bar & Thai Cuisine,$$,3.5,305,Thai,41.881476,-87.65557
+60607,Chicago,IL,Yummy Thai,$,3.5,249,Thai,41.8695869445801,-87.6624374389648
+60608,Chicago,IL,Blue Frog Thai,$,4.0,68,Thai,41.84068,-87.65938
+60611,Chicago,IL,Star of Siam,$$,3.5,1039,Thai,41.8906364440918,-87.62744140625
+60611,Chicago,IL,Big Bowl,$$,3.5,749,Thai,41.892629,-87.6261317
+60611,Chicago,IL,Dao Thai,$$,3.0,581,Thai,41.8927292530664,-87.6213921496716
+60613,Chicago,IL,Siam Noodle and Rice,$,4.0,409,Thai,41.958162,-87.65311
+60613,Chicago,IL,Tac Quick,$$,4.0,524,Thai,41.9543649401989,-87.6550871455236
+60614,Chicago,IL,Noodles In the Pot,$$,4.0,646,Thai,41.9269149578037,-87.6487970352173
+60614,Chicago,IL,Vegan Plate,$$,4.5,211,Thai,41.9254188537598,-87.6677169799805
+60614,Chicago,IL,Rock Wrap & Roll,$$,4.0,197,Thai,41.921382,-87.66362
+60615,Chicago,IL,Chant,$$,3.5,425,Thai,41.7994154258194,-87.588751312442
+60615,Chicago,IL,The Snail Thai Cuisine,$$,3.5,238,Thai,41.7951091813566,-87.5847875008758
+60615,Chicago,IL,Siam Thai,$,3.0,137,Thai,41.795092,-87.585023
+60615,Chicago,IL,Thai 55 Restaurant,$,3.0,209,Thai,41.7950651,-87.5857276
+60616,Chicago,IL,Legend Tasty House,$,4.0,221,Thai,41.85161,-87.63228
+60616,Chicago,IL,Bodhi Thai,$$,4.0,138,Thai,41.85751,-87.64214
+60618,Chicago,IL,Sticky Rice,$$,4.0,811,Thai,41.95467,-87.68883
+60618,Chicago,IL,Royal Thai Restaurant,$,4.0,273,Thai,41.9612451,-87.684196
+60618,Chicago,IL,Arun's Thai Restaurant,$$$$,4.0,226,Thai,41.95744,-87.70846
+60622,Chicago,IL,JJ Thai Street Food,$$,4.0,289,Thai,41.8958251,-87.6703764
+60622,Chicago,IL,Silli Kori,$$,4.5,172,Thai,41.90286,-87.67935
+60625,Chicago,IL,Aroy Thai Restaurant,$$,4.0,383,Thai,41.966782,-87.679292
+60625,Chicago,IL,Me Dee Cafe,$$,4.0,235,Thai,41.9688785,-87.6790028
+60625,Chicago,IL,Yes Thai,$$,4.0,306,Thai,41.9762906430927,-87.6791959770599
+60625,Chicago,IL,Rosded Restaurant,$,4.0,189,Thai,41.96695,-87.687582
+60625,Chicago,IL,Spoon Thai,$,3.5,330,Thai,41.9651799,-87.68914
+60630,Chicago,IL,Ruk Sushi & Thai,$$,3.5,249,Thai,41.9616898510748,-87.7553279774385
+60630,Chicago,IL,Taste of Thai Town,$$,3.5,140,Thai,41.9627151489258,-87.7275085449219
+60631,Chicago,IL,Bangkok Belly,$$,3.5,142,Thai,41.993404,-87.800206
+60631,Chicago,IL,Siam Treasure Thai Restaurant,$,4.0,140,Thai,42.01142,-87.80697
+60634,Chicago,IL,Hands On Thai & Sushi,$$,4.0,299,Thai,41.945235,-87.803986
+60634,Chicago,IL,Jess Cafe,$,4.0,372,Thai,41.93825,-87.77216
+60634,Chicago,IL,Ninja Sushi & Thai Restaurant,$$,4.0,95,Thai,41.952448,-87.7671049
+60634,Chicago,IL,Jasmine Rice,$,3.5,68,Thai,41.936710357666,-87.7855224609375
+60638,Chicago,IL,Bree Thai Restaurant,$$,4.0,296,Thai,41.7961464,-87.7625275
+60638,Chicago,IL,Harmony Restaurant,$$,3.5,113,Thai,41.79221,-87.7852973
+60640,Chicago,IL,Herb,$$$,4.5,224,Thai,41.980728,-87.660392
+60640,Chicago,IL,Immm Rice and Beyond,$$,4.0,173,Thai,41.9730250932696,-87.6594068482518
+60640,Chicago,IL,Thai Pastry & Restaurant,$$,4.0,298,Thai,41.97229,-87.6591399
+60640,Chicago,IL,Dib,$$,3.5,318,Thai,41.9689463,-87.6556821
+60640,Chicago,IL,Jin Thai,$$,4.0,215,Thai,41.98163,-87.66042
+60640,Chicago,IL,Cafe Hoang,$,4.0,161,Thai,41.97352,-87.6566
+60641,Chicago,IL,Thai Aree House,$$,4.5,175,Thai,41.9459,-87.73551
+60641,Chicago,IL,Hands On Thai & Sushi,$$,4.0,210,Thai,41.9535022139636,-87.7543795108795
+60642,Chicago,IL,Butterfly Sushi Bar & Thai Cuisine,$$,4.0,1009,Thai,41.89091,-87.6562
+60642,Chicago,IL,Opart Thai House,$$,4.0,231,Thai,41.895924159886,-87.6621551066637
+60642,Chicago,IL,Kin Sushi & Thai Cuisine,$$,4.0,224,Thai,41.90213,-87.6651
+60646,Chicago,IL,The Elephant Thai Cuisine,$$,4.0,158,Thai,41.9974565281615,-87.7632134717895
+60646,Chicago,IL,Ruk Sushi & Thai Edgebrook,$,4.5,39,Thai,41.9971473185556,-87.7647010448492
+60646,Chicago,IL,Chai's Asian Bistro,$$,4.0,81,Thai,41.9899318367243,-87.7479629963636
+60647,Chicago,IL,Silom 12,$$,4.0,400,Thai,41.91487,-87.68488
+60647,Chicago,IL,Trike,$$,4.0,187,Thai,41.9276161193848,-87.7045593261719
+60647,Chicago,IL,Dena Kitchen,$,4.0,132,Thai,41.92497,-87.71115
+60647,Chicago,IL,O'Cha Thai Cuisine,$$,4.0,208,Thai,41.9195335,-87.6778243
+60647,Chicago,IL,Thai Lagoon,$,3.5,375,Thai,41.9106,-87.68575
+60657,Chicago,IL,Cozy Noodles & Rice,$,4.0,1015,Thai,41.9452487,-87.654386
+60657,Chicago,IL,Joy's Noodles & Rice,$,4.0,877,Thai,41.941753,-87.644134
+60657,Chicago,IL,Pho's Spicier Thai Cuisine,$,4.0,533,Thai,41.942444,-87.670869
+60657,Chicago,IL,Krung Thep Thai Cuisine,$$,4.0,215,Thai,41.9401536,-87.6490613
+60657,Chicago,IL,Andy's Thai Kitchen,$$,3.5,369,Thai,41.9363994270676,-87.6534727784813
+60657,Chicago,IL,Ping Pong,$$,3.5,591,Thai,41.9424108,-87.6446454
+60657,Chicago,IL,P.S. Bangkok,$$,3.5,269,Thai,41.94302,-87.65275
+60657,Chicago,IL,Tom Yum Cafe,$,4.0,130,Thai,41.9380112,-87.6447601
+60659,Chicago,IL,Pride Sushi and Thai,$$,4.5,177,Thai,41.9907128,-87.6973539
+60659,Chicago,IL,Bangkok Thai Cuisine,$$,4.0,99,Thai,41.99349,-87.71302
+60660,Chicago,IL,Indie Cafe,$$,4.0,699,Thai,41.9904999627679,-87.6600041637543
+60660,Chicago,IL,Ben's Noodles and Rice,$,4.0,365,Thai,41.9835028,-87.6593878
+60666,Chicago,IL,Big Bowl,$$,1.5,23,Thai,41.9751027554679,-87.8913503446548
+60602,Chicago,IL,Green Apple PHOever,$,4.0,203,Vietnamese,41.8818416049609,-87.6311031728983
+60605,Chicago,IL,Chicago Lunchbox,$,5.0,20,Vietnamese,41.8767111,-87.6332149
+60607,Chicago,IL,Lotus Cafe & Bánh Mì Sandwiches,$,4.5,427,Vietnamese,41.86457,-87.64583
+60608,Chicago,IL,HaiSous Vietnamese Kitchen,$$,4.0,269,Vietnamese,41.857905464288,-87.653351765299
+60608,Chicago,IL,Ca Phe Da Vietnamese Cafe,$$,4.0,106,Vietnamese,41.85787,-87.6535
+60611,Chicago,IL,Le Colonial,$$$,4.0,1130,Vietnamese,41.900218963623,-87.6269302368164
+60611,Chicago,IL,Saigon Sisters,$$,3.0,100,Vietnamese,41.894459,-87.62222
+60614,Chicago,IL,Simply It,$$,4.0,907,Vietnamese,41.923501,-87.6457
+60615,Chicago,IL,Pho 55,$$,3.5,150,Vietnamese,41.7950651,-87.5856817
+60615,Chicago,IL,Thai 55 Restaurant,$,3.0,209,Vietnamese,41.7950651,-87.5857276
+60616,Chicago,IL,The Noodle Vietnamese Cuisine,$,3.0,305,Vietnamese,41.8497742,-87.6321189
+60616,Chicago,IL,Pho Cafe,$$,4.0,64,Vietnamese,41.8529971507501,-87.6330266520381
+60625,Chicago,IL,Nhu Lan Saigon Subs,$,4.5,784,Vietnamese,41.9687048,-87.6944151
+60625,Chicago,IL,LD Pho,$$,4.5,148,Vietnamese,41.9672852,-87.7086269
+60625,Chicago,IL,LC Pho,$,4.5,110,Vietnamese,41.96828,-87.69783
+60625,Chicago,IL,2 Asian Brothers,$,4.0,170,Vietnamese,41.97599,-87.70962
+60630,Chicago,IL,Pho No.1,$,4.0,208,Vietnamese,41.9679385904684,-87.7754132153047
+60631,Chicago,IL,Lotus Garden,$$,3.0,14,Vietnamese,42.01194,-87.8087199
+60640,Chicago,IL,Tank Noodle,$$,4.0,1663,Vietnamese,41.9731100981603,-87.65954048683
+60640,Chicago,IL,Ba Le Sandwich,$,4.0,781,Vietnamese,41.9732,-87.66024
+60640,Chicago,IL,Nha Hang Viet Nam,$,4.5,262,Vietnamese,41.9734154,-87.6560364
+60640,Chicago,IL,Little Vietnam,$,4.5,304,Vietnamese,41.9837803,-87.6593784
+60640,Chicago,IL,Uptown Pho,$,4.5,267,Vietnamese,41.973389,-87.655519
+60640,Chicago,IL,Pho 777,$,4.0,499,Vietnamese,41.973307,-87.657436
+60640,Chicago,IL,Little Saigon Baguette,$,4.5,121,Vietnamese,41.9776251512777,-87.6590552635344
+60640,Chicago,IL,Hai Yen Restaurant,$$,4.0,375,Vietnamese,41.9731281,-87.6567601
+60640,Chicago,IL,Pho 888,$,4.0,324,Vietnamese,41.9731099,-87.6589163
+60640,Chicago,IL,Miss Saigon Restaurant,$$,4.5,124,Vietnamese,41.97302,-87.659
+60640,Chicago,IL,Co Co Vietnamese Sandwiches & Pho,$,4.5,131,Vietnamese,41.9686496203165,-87.6702262007485
+60640,Chicago,IL,Cafe Hoang,$,4.0,161,Vietnamese,41.97352,-87.6566
+60640,Chicago,IL,Dong Ky Chinese & Vietnamese Restaurant,$,4.0,166,Vietnamese,41.97061,-87.65882
+60646,Chicago,IL,King Pho,$,3.5,269,Vietnamese,41.9974974561978,-87.7644239746759
+60647,Chicago,IL,Bon Bon Sandwiches,$,3.5,505,Vietnamese,41.91007,-87.68621
+60657,Chicago,IL,Banh Mi,$,4.0,293,Vietnamese,41.9388662,-87.6441619
+60659,Chicago,IL,Sunset Pho Caffe,$$,4.5,180,Vietnamese,41.98579,-87.68989
+60659,Chicago,IL,Hoanh Long,$$,4.0,309,Vietnamese,41.9937279,-87.7133513
+60661,Chicago,IL,Saigon Sisters,$$,3.5,435,Vietnamese,41.885619554755,-87.642292864209
+60661,Chicago,IL,Saigon Sisters,$,3.0,174,Vietnamese,41.8839476,-87.6410751
+60605,Chicago,IL,Himalayan Restaurant,$$,4.0,155,Pakistani,41.874164,-87.6261049
+60606,Chicago,IL,Baba's Village,$,3.5,155,Pakistani,41.877242,-87.640456
+60608,Chicago,IL,Ghareeb Nawaz Express,$,3.0,236,Pakistani,41.8669,-87.64733
+60610,Chicago,IL,Tabaq Restaurant,$,4.0,149,Pakistani,41.904781,-87.640654
+60610,Chicago,IL,Original Pakiza Restaurant,$$,3.5,29,Pakistani,41.9008866,-87.6371847
+60614,Chicago,IL,Tandoor Char House,$$,4.0,722,Pakistani,41.9306399,-87.64928
+60625,Chicago,IL,Indo-Pak Grill,$,4.5,51,Pakistani,41.9683849,-87.7264277
+60626,Chicago,IL,Luzzat,$$,4.0,221,Pakistani,42.0158901,-87.6686027
+60640,Chicago,IL,Shan Restaurant,$,4.0,235,Pakistani,41.9750372,-87.6551149
+60645,Chicago,IL,JK Kabab House,$$,4.5,149,Pakistani,41.9979372,-87.6948849
+60657,Chicago,IL,Khyber Pass,$$,4.0,124,Pakistani,41.93826,-87.64896
+60659,Chicago,IL,Ghareeb Nawaz,$,4.0,738,Pakistani,41.997979,-87.681612
+60659,Chicago,IL,Sabri Nihari Restaurant,$$,3.5,722,Pakistani,41.9978027,-87.692538
+60659,Chicago,IL,Bundoo Khan -Chicago,$$,4.0,199,Pakistani,41.9975505,-87.6939106
+60659,Chicago,IL,Anmol Barbecue Restaurant,$$,4.0,234,Pakistani,41.99779,-87.70191
+60659,Chicago,IL,Karahi Corner,$$,4.0,179,Pakistani,41.99787,-87.6969
+60659,Chicago,IL,Khan BBQ,$$,3.5,218,Pakistani,41.9974746704102,-87.6902923583984
+60659,Chicago,IL,Tahoora Sweets & Bakery,$,3.5,216,Pakistani,41.9974746704102,-87.6892547607422
+60659,Chicago,IL,Bismillah Restaurant,$$,4.0,43,Pakistani,41.99794,-87.69288
+60659,Chicago,IL,King Sweets,$,3.5,77,Pakistani,41.998,-87.6879
+60660,Chicago,IL,The Little India,$$,3.5,249,Pakistani,41.9834136962891,-87.6584548950195
+60661,Chicago,IL,Kabob Corner,$$,2.5,5,Pakistani,41.8780849,-87.646465
+60686,Chicago,IL,Flaming Wok 'n Grill,$,3.5,123,Pakistani,41.8988305,-87.6476882
