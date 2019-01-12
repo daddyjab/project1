@@ -1,0 +1,981 @@
+zip,city,state,name,price,rating,review_count,type,latitude,longitude
+10001,New York,NY,Porteno Restaurant,$$$,4.0,350,Argentine,40.750499,-74.002525
+10001,New York,NY,Nuchas,$,3.5,52,Argentine,40.7484811055465,-73.9883382415947
+10001,New York,NY,Nuchas Food Truck,$,4.0,35,Argentine,40.750804901123,-73.9966430664062
+10002,New York,NY,Balvanera,$$$,4.5,199,Argentine,40.72063,-73.98539
+10009,New York,NY,Buenos Aires,$$$,4.0,469,Argentine,40.7253150939941,-73.983039855957
+10013,New York,NY,Estancia 460,$$,3.5,118,Argentine,40.72379,-74.0097399
+10036,New York,NY,Chimichurri Grill,$$$,4.0,313,Argentine,40.7592856237038,-73.9921118644058
+10036,New York,NY,Nuchas,$,3.5,253,Argentine,40.7590051546416,-73.98521099151
+10036,New York,NY,Nuchos Artisan Empinadas,$,3.5,2,Argentine,40.7579007525022,-73.9852961355761
+10128,New York,NY,Libertador,$$,3.5,413,Argentine,40.77998,-73.95043
+10009,New York,NY,Esperanto,$$,3.5,661,Brazilian,40.725474,-73.978054
+10009,New York,NY,Gomi Korean Wine Bar,$$,4.5,103,Brazilian,40.72886,-73.9813
+10011,New York,NY,Mr Skewer & Co,$$,2.0,3,Brazilian,40.7169132,-74.0037184
+10012,New York,NY,Favela Cubana,$$,4.0,843,Brazilian,40.7284702112794,-73.9979839324952
+10014,New York,NY,Berimbau Do Brasil,$$,4.0,390,Brazilian,40.730055,-74.0036162
+10014,New York,NY,Casa Restaurant,$$$,3.5,233,Brazilian,40.7314969,-74.0048608
+10019,New York,NY,Churrascaria Plataforma,$$$$,4.0,1262,Brazilian,40.76202,-73.98765
+10019,New York,NY,Fogo de Chão Brazilian Steakhouse,$$$,4.0,976,Brazilian,40.761085,-73.978067
+10019,New York,NY,Rice N Beans,$$,4.0,221,Brazilian,40.76352,-73.98852
+10029,New York,NY,Paladar Brazilian BBQ & Pizzeria,$,5.0,40,Brazilian,40.79352,-73.93768
+10029,New York,NY,Paladar,$$,5.0,5,Brazilian,40.79352,-73.93768
+10036,New York,NY,Ipanema Restaurant,$$,4.0,1126,Brazilian,40.757072217349,-73.9807795529175
+10036,New York,NY,Samba Kitchen,$$,4.5,348,Brazilian,40.76095,-73.99115
+10036,New York,NY,Emporium Brasil,$$,4.0,217,Brazilian,40.75653,-73.97989
+10036,New York,NY,Brazil Brazil,$$,3.5,370,Brazilian,40.760086,-73.989191
+10036,New York,NY,Via Brasil Restaurant,$$,4.0,159,Brazilian,40.75665,-73.98072
+10038,New York,NY,Cafe Patoro,$,4.5,134,Brazilian,40.7072720974983,-74.0023160353303
+10002,New York,NY,The Fat Radish,$$$,3.5,526,British,40.715293924183,-73.9917185036817
+10003,New York,NY,The Winslow,$$,4.5,460,British,40.7327766418457,-73.9852142333984
+10003,New York,NY,Lillie's Victorian Establishment,$$,3.5,1011,British,40.737661,-73.991113
+10010,New York,NY,The Clocktower,$$$,4.0,312,British,40.74133,-73.98747
+10011,New York,NY,Tea & Sympathy,$$,3.5,798,British,40.738175114449,-74.001898149974
+10012,New York,NY,GMT Tavern,$$,3.5,195,British,40.7280325954126,-73.999104554426
+10014,New York,NY,Oscar's Place,$$,4.5,175,British,40.7318649,-74.0064011
+10016,New York,NY,The Shakespeare,$$,4.0,333,British,40.7506062,-73.9801755
+10016,New York,NY,The Churchill Tavern,$$,3.5,219,British,40.7435888,-73.9844841
+10018,New York,NY,Carragher's Pub & Restaurant,$$,4.0,190,British,40.7544,-73.9895415
+10019,New York,NY,Bluebird London NYC,$$,3.5,116,British,40.76847,-73.983092
+10036,New York,NY,Cock & Bull,$$,4.0,479,British,40.7560908823673,-73.9804858350908
+10036,New York,NY,Channel 4 Restaurant,$$,2.0,2,British,40.7581071254435,-73.9803779125214
+10065,New York,NY,The Spotted Dog,$$,4.0,95,British,40.7623521711694,-73.9597779041227
+10128,New York,NY,The Milton,$$,4.0,356,British,40.78123,-73.94893
+10002,New York,NY,Mehanata,$$,3.5,381,Bulgarian,40.71949,-73.98892
+10001,New York,NY,CajunSea & Oyster Bar,$$,4.0,1023,Cajun/Creole,40.7483352,-73.9867701
+10001,New York,NY,Cajun Cafe,$$,4.0,1,Cajun/Creole,40.74939,-73.98911
+10002,New York,NY,The Boil,$$,4.5,1719,Cajun/Creole,40.71974,-73.99339
+10002,New York,NY,Claw Daddy's,$$,4.0,1277,Cajun/Creole,40.722071,-73.98847
+10002,New York,NY,My Noodle Station,$$,4.5,34,Cajun/Creole,40.715,-73.99369
+10002,New York,NY,Bad Bunny,$$,3.0,2,Cajun/Creole,40.72057,-73.98887
+10003,New York,NY,The Boil,$$,4.0,605,Cajun/Creole,40.7302644713689,-73.9943788112708
+10003,New York,NY,Ducks Eatery,$$,4.0,581,Cajun/Creole,40.7306252,-73.9846268
+10003,New York,NY,Le Sia,$$,4.0,163,Cajun/Creole,40.728886,-73.989841
+10007,New York,NY,1803,$$,4.0,172,Cajun/Creole,40.715498,-74.007178
+10011,New York,NY,Hot N Juicy Crawfish,$$,4.5,320,Cajun/Creole,40.7395099255823,-74.0016006497376
+10022,New York,NY,Le Bilboquet,$$$,3.5,123,Cajun/Creole,40.76381,-73.97058
+10022,New York,NY,The Juicy Seafood,$$,4.0,40,Cajun/Creole,40.7582499,-73.96633
+10025,New York,NY,Shaking Crab - Upper West Side,$$,3.5,228,Cajun/Creole,40.80522,-73.96639
+10027,New York,NY,Loui Loui,$$,4.0,92,Cajun/Creole,40.81431,-73.9598
+10036,New York,NY,Bourbon Street Bar & Grille,$$,3.5,804,Cajun/Creole,40.7603187561035,-73.9897842407227
+10036,New York,NY,Bubba Gump Shrimp Co.,$$,3.5,930,Cajun/Creole,40.757194,-73.9864036
+10038,New York,NY,Cajun Cafe,$$,3.0,1,Cajun/Creole,40.706348,-74.003838
+10038,New York,NY,Cajun Cafe - Food Court In South Street Seaport,$$,3.0,1,Cajun/Creole,40.70701,-74.00356
+10128,New York,NY,Infirmary,$$,4.0,477,Cajun/Creole,40.7799512,-73.9498632
+10001,New York,NY,B&B Restaurant Corporation,$,4.5,125,Caribbean,40.7459112,-73.9936086
+10009,New York,NY,Miss Lily's 7A,$$,4.0,539,Caribbean,40.726019,-73.9837551
+10012,New York,NY,Negril Village,$$,3.5,1116,Caribbean,40.729352,-73.9983558
+10012,New York,NY,Miss Lily's,$$,3.5,980,Caribbean,40.7279368007065,-74.0015595607808
+10017,New York,NY,Jerk Pan,$,4.0,106,Caribbean,40.7558856007975,-73.9747852555893
+10025,New York,NY,Freda's Caribbean & Soul Cuisine,$$,4.0,486,Caribbean,40.80095,-73.96141
+10025,New York,NY,Tropical Sensation,$$,3.5,123,Caribbean,40.800816,-73.965018
+10026,New York,NY,Kingston,$$,4.0,99,Caribbean,40.8033638000488,-73.9535980224609
+10027,New York,NY,Angel of Harlem,$$,3.5,376,Caribbean,40.807978,-73.952365
+10027,New York,NY,Solomon and Kuff,$$,3.5,316,Caribbean,40.82005,-73.9586099
+10029,New York,NY,Elma's,$,4.5,20,Caribbean,40.7973484,-73.944994
+10030,New York,NY,Jerkyz,$,4.0,96,Caribbean,40.818443,-73.941917
+10031,New York,NY,Wat's On Your Plate,$,4.0,55,Caribbean,40.8258666992188,-73.9483795166016
+10031,New York,NY,One Stop Patty Shop,$,4.0,31,Caribbean,40.82498,-73.94802
+10032,New York,NY,Blue Mountain Heights Cafe & Bar,$$,4.5,28,Caribbean,40.83346,-73.94116
+10032,New York,NY,Empanadas Monumental,$,3.5,54,Caribbean,40.8445,-73.9391
+10034,New York,NY,Pick & Eat,$$,3.5,70,Caribbean,40.8675339818001,-73.9215114712715
+10034,New York,NY,El Lina Restaurant,$$,4.5,21,Caribbean,40.8642807006836,-73.91943359375
+10035,New York,NY,Sisters' Caribbean Cuisine,$$,4.0,128,Caribbean,40.80503,-73.94082
+10040,New York,NY,809 Sangria Bar & Grill,$$,4.0,204,Caribbean,40.86196,-73.9252
+10040,New York,NY,Cañave,$$,4.5,38,Caribbean,40.864528,-73.9289005151705
+10040,New York,NY,Dyckman Express Restaurant,$,3.0,86,Caribbean,40.86184,-73.92468
+10002,New York,NY,99 Favor Taste,$$,4.0,1512,Chinese,40.7176199,-73.99249
+10002,New York,NY,Wah Fung No 1 Fast Food,$,4.5,1092,Chinese,40.71735,-73.99457
+10002,New York,NY,Vanessa's Dumpling House,$,4.0,2385,Chinese,40.71839,-73.9917399
+10002,New York,NY,Shu Jiao Fu Zhou Cuisine Restaurant,$,4.5,600,Chinese,40.7184290357839,-73.9916928979573
+10002,New York,NY,Super Taste,$,4.0,495,Chinese,40.71511,-73.99332
+10002,New York,NY,Spicy Village,$,4.0,561,Chinese,40.71695,-73.99327
+10002,New York,NY,Sun Hing Lung Co,$,4.5,157,Chinese,40.71275,-73.99508
+10002,New York,NY,Ling Kee Beef Jerky,$,4.5,153,Chinese,40.71466,-73.99148
+10002,New York,NY,China North Dumpling,$,4.0,280,Chinese,40.7158,-73.9898
+10003,New York,NY,Xi'an Famous Foods,$,4.0,1543,Chinese,40.7279,-73.98541
+10003,New York,NY,BaoHaus,$,3.5,1844,Chinese,40.7324690923782,-73.9857136011124
+10003,New York,NY,The Bao,$$,3.5,991,Chinese,40.72939,-73.9889199
+10003,New York,NY,99 Favor Taste,$$,4.0,376,Chinese,40.728833,-73.988094
+10003,New York,NY,Clay Pot NYC,$$,4.5,195,Chinese,40.7279880270274,-73.9865907985248
+10003,New York,NY,Mimi Cheng's Dumplings,$$,3.5,598,Chinese,40.7305254,-73.986285
+10003,New York,NY,Vanessa's Dumpling House,$,3.5,1011,Chinese,40.73277,-73.98636
+10009,New York,NY,Tuome,$$$,4.5,368,Chinese,40.72412482724,-73.9828906263924
+10009,New York,NY,MáLà Project,$$,4.0,492,Chinese,40.72713,-73.98542
+10009,New York,NY,Dian Kitchen,$$,5.0,116,Chinese,40.72762,-73.9832799
+10010,New York,NY,Burp Bowl Cafe,$,4.5,176,Chinese,40.74183,-73.98271
+10011,New York,NY,Buddakan,$$$,4.0,3660,Chinese,40.7422762672197,-74.0048000961542
+10011,New York,NY,Very Fresh Noodles,$$,4.0,681,Chinese,40.7423387008486,-74.00625
+10011,New York,NY,Calle Dao - Chelsea,$$,4.5,362,Chinese,40.7476515,-74.0037312
+10012,New York,NY,Chow House,$$,4.5,175,Chinese,40.72915,-74.00072
+10012,New York,NY,Uncle Ted's Modern Chinese Cuisine,$$,4.0,414,Chinese,40.72882,-73.999961
+10013,New York,NY,88 Lan Zhou Handmade Noodles,$,4.0,1591,Chinese,40.7155,-73.99675
+10013,New York,NY,Nyonya,$$,4.0,1907,Chinese,40.7190148,-73.9968228
+10013,New York,NY,Tasty Hand-Pulled Noodles,$,4.0,1466,Chinese,40.7142,-73.99787
+10013,New York,NY,Big Wong,$,3.5,1344,Chinese,40.71624,-73.99842
+10013,New York,NY,Original Buddha Bodai Kosher Vegetarian Restaurant,$$,4.0,896,Chinese,40.7138543,-73.9989484
+10013,New York,NY,Noodle Village,$,4.0,897,Chinese,40.714167,-73.998803
+10013,New York,NY,Wo Hop,$$,3.5,1269,Chinese,40.7142239034582,-73.9988691693115
+10013,New York,NY,Xi'an Famous Foods,$,4.0,902,Chinese,40.715082,-73.997342
+10013,New York,NY,Wok Wok,$$,4.0,668,Chinese,40.71406,-73.99883
+10013,New York,NY,Macao trading Co,$$$,4.0,695,Chinese,40.71962,-74.00391
+10013,New York,NY,Bo Ky Restaurant,$,3.5,675,Chinese,40.71579,-73.99867
+10014,New York,NY,Decoy,$$$,4.0,353,Chinese,40.734196,-74.006519
+10014,New York,NY,Niu Noodle House,$$,4.0,631,Chinese,40.734352,-74.000082
+10014,New York,NY,Hao Noodle and Tea By Madam Zhu's Kitchen,$$,4.0,499,Chinese,40.7334863190479,-73.9998929006093
+10016,New York,NY,Spice Symphony,$$,4.0,531,Chinese,40.744722,-73.981202
+10016,New York,NY,Xian Famous Foods,$,4.0,620,Chinese,40.747844,-73.983901
+10019,New York,NY,Kung Fu Little Steamed Buns Ramen,$$,3.5,876,Chinese,40.7616286634162,-73.9868181646996
+10019,New York,NY,Radiance Tea House and Books,$$,4.0,806,Chinese,40.7639799,-73.98065
+10019,New York,NY,Chong Qing Xiao Mian,$$,4.0,260,Chinese,40.76513,-73.98753
+10019,New York,NY,Xi'an Famous Foods,$$,4.0,369,Chinese,40.7620999,-73.97732
+10022,New York,NY,Spice Symphony,$$,4.5,308,Chinese,40.7558937072754,-73.9715347290039
+10022,New York,NY,Pa Pa Thai Cuisine,$,4.5,144,Chinese,40.7593778206059,-73.9624154842934
+10024,New York,NY,Flor De Mayo,$$,4.0,1096,Chinese,40.78609,-73.97658
+10025,New York,NY,Flor de Mayo,$$,4.0,503,Chinese,40.797832,-73.969948
+10025,New York,NY,Xi'an Famous Foods,$,4.0,340,Chinese,40.79847,-73.96934
+10025,New York,NY,Junzi Kitchen,$$,4.0,137,Chinese,40.8057641877461,-73.9652019005902
+10027,New York,NY,La Salle Dumpling Room,$$,4.0,190,Chinese,40.81403,-73.95983
+10028,New York,NY,Peng's Noodle Folk,$$,4.5,338,Chinese,40.77726,-73.94932
+10028,New York,NY,Wa Jeal Sichuan Chili House,$$,3.5,382,Chinese,40.77536,-73.95317
+10028,New York,NY,Pig Heaven,$$,4.0,245,Chinese,40.77544,-73.95686
+10031,New York,NY,The Handpulled Noodle,$$,4.0,590,Chinese,40.828323,-73.9485879
+10032,New York,NY,Jade Garden,$,3.5,71,Chinese,40.8418951405518,-73.9389026440374
+10033,New York,NY,No 1 Chinese Restaurant,$,3.5,114,Chinese,40.8513816,-73.9394706
+10033,New York,NY,New Golden Star,$$,3.5,72,Chinese,40.8498685,-73.9362273
+10034,New York,NY,Amy's Restaurant,$$,3.5,101,Chinese,40.86701,-73.92097
+10034,New York,NY,Lotus Express,$,4.0,50,Chinese,40.86627,-73.9246
+10034,New York,NY,Hang Lee Chinese,$,4.0,24,Chinese,40.867262242948,-73.9233304385214
+10034,New York,NY,U Like Chinese Take Out,$,3.0,68,Chinese,40.8674342,-73.9215025
+10036,New York,NY,Xi'an Famous Foods,$,4.0,1448,Chinese,40.75585,-73.98078
+10036,New York,NY,Hakkasan,$$$$,3.5,824,Chinese,40.758619,-73.989961
+10036,New York,NY,China Xiang,$$,4.0,354,Chinese,40.7582902125633,-73.9925113993899
+10038,New York,NY,Fishmarket Restaurant,$$,4.5,477,Chinese,40.70717,-74.00192
+10065,New York,NY,Philippe By Philippe Chow,$$$,3.5,603,Chinese,40.76409,-73.97039
+10075,New York,NY,Xi'an Famous Foods,$,4.0,436,Chinese,40.77197,-73.95452
+10128,New York,NY,Wok 88,$$,3.5,240,Chinese,40.78042,-73.95322
+10003,New York,NY,Asia de Cuba,$$$,3.5,220,Cuban,40.72856,-73.99233
+10004,New York,NY,BlackTail,$$$,4.5,228,Cuban,40.7044769199104,-74.0174372308775
+10004,New York,NY,Sophie's Cuban Cuisine,$$,3.5,401,Cuban,40.7056891,-74.0124735
+10007,New York,NY,Sophie's Cuban Cuisine,$$,3.5,220,Cuban,40.714576,-74.007659
+10009,New York,NY,Cafe Cortadito,$$,3.0,847,Cuban,40.722483112365,-73.982784589542
+10010,New York,NY,Sophie's Cuban Cuisine,$$,3.5,264,Cuban,40.740617380142,-73.987803582502
+10011,New York,NY,Coppelia,$$,4.0,1176,Cuban,40.73897,-73.99995
+10011,New York,NY,Calle Dao - Chelsea,$$,4.5,362,Cuban,40.7476515,-74.0037312
+10012,New York,NY,Cafe Habana,$$,4.0,3072,Cuban,40.722998,-73.994171
+10012,New York,NY,Cuba Restaurant and Rum Bar,$$,4.0,1432,Cuban,40.729084,-73.998832
+10012,New York,NY,Favela Cubana,$$,4.0,843,Cuban,40.7284702112794,-73.9979839324952
+10012,New York,NY,Habana To-Go,$,4.0,260,Cuban,40.72292,-73.99418
+10016,New York,NY,Tina's Cuban Cuisine,$,3.5,267,Cuban,40.74738,-73.98288
+10017,New York,NY,Sophie's Cuban Cuisine,$$,3.5,287,Cuban,40.7504731,-73.9767061
+10018,New York,NY,Calle Dao - Bryant Park,$$,4.0,1384,Cuban,40.752155,-73.984223
+10018,New York,NY,Havana NY,$$,4.0,192,Cuban,40.75189,-73.98517
+10019,New York,NY,Victor's Cafe,$$$,4.0,1315,Cuban,40.7629499,-73.98403
+10019,New York,NY,Guantanamera,$$,3.5,833,Cuban,40.7658919619653,-73.9837475423279
+10019,New York,NY,Tina's Cuban Cuisine,$$,4.0,565,Cuban,40.76306,-73.9757
+10023,New York,NY,La Dinastia,$$,3.5,151,Cuban,40.77833,-73.98022
+10024,New York,NY,Calle Ocho,$$,4.0,2414,Cuban,40.7831208393736,-73.9737190394484
+10024,New York,NY,La Caridad 78,$$,3.5,217,Cuban,40.7832592,-73.9807337
+10027,New York,NY,Harlem's Floridita,$$,3.5,183,Cuban,40.8180046081543,-73.9609680175781
+10029,New York,NY,Amor Cubano,$$,4.0,431,Cuban,40.794776,-73.942703
+10032,New York,NY,La Dinastia II,$$,3.5,57,Cuban,40.8431911,-73.9393521
+10033,New York,NY,El Floridita,$,3.5,98,Cuban,40.8471171674521,-73.9378327131271
+10034,New York,NY,Brown Sugar Restaurant,$$,3.5,139,Cuban,40.869926,-73.915466
+10034,New York,NY,El Floridita Restaurant,$,3.0,29,Cuban,40.86395,-73.91953
+10036,New York,NY,Havana Central,$$,4.0,1884,Cuban,40.75831,-73.98416
+10036,New York,NY,Margon,$,4.0,687,Cuban,40.75787,-73.98398
+10036,New York,NY,Sophie's Cuban Cuisine,$$,4.0,397,Cuban,40.75605,-73.98041
+10038,New York,NY,Sophies Cuban Cuisine,$$,3.5,151,Cuban,40.708967,-74.005521
+10065,New York,NY,Sophie's Cuban Cuisine,$$,3.0,154,Cuban,40.765559,-73.957411
+10002,New York,NY,Pig and Khao,$$,4.0,1384,Filipino,40.71926,-73.98475
+10002,New York,NY,Kuma Inn,$$,3.5,384,Filipino,40.71949,-73.98892
+10002,New York,NY,Froggy's Place,$,4.5,23,Filipino,40.720539,-73.984699
+10003,New York,NY,Maharlika,$$,4.0,1414,Filipino,40.72695,-73.98611
+10003,New York,NY,Jeepney,$$,4.0,973,Filipino,40.730294,-73.9835395
+10003,New York,NY,Ugly Kitchen,$$,4.0,566,Filipino,40.7266856651479,-73.9862178981476
+10009,New York,NY,Mama Fina's - New York,$$,4.0,103,Filipino,40.72829,-73.98226
+10010,New York,NY,Grill 21,$$,4.0,480,Filipino,40.7356760912996,-73.9799634876969
+10014,New York,NY,Flip Sigi,$$,4.0,599,Filipino,40.73405,-74.00642
+10018,New York,NY,Jollibee,$$,4.0,113,Filipino,40.75576,-73.99109
+10128,New York,NY,Flip Sigi,$$,4.0,162,Filipino,40.781271760627,-73.9490755374929
+10001,New York,NY,The NoMad Restaurant,$$$,4.0,1376,French,40.7449,-73.988482
+10001,New York,NY,OCabanon,$$,4.0,379,French,40.7486725,-73.9945145
+10002,New York,NY,Jadis,$$,4.0,474,French,40.7210234741789,-73.9910054106201
+10002,New York,NY,Les Enfants de Boheme,$$,4.5,170,French,40.7136187,-73.9888503
+10003,New York,NY,ABC Kitchen,$$$,4.0,2807,French,40.738085,-73.989472
+10003,New York,NY,Boucherie Union Square,$$$,4.5,395,French,40.73715,-73.98789
+10003,New York,NY,Ducks Eatery,$$,4.0,581,French,40.7306252,-73.9846268
+10003,New York,NY,Tocqueville Restaurant,$$$$,4.0,339,French,40.73662,-73.99272
+10003,New York,NY,Lafayette,$$$,3.5,819,French,40.727617,-73.993464
+10009,New York,NY,Raclette,$$,4.0,1082,French,40.7289298,-73.980601
+10009,New York,NY,PMF Pardon My French,$$,4.0,823,French,40.72473,-73.98115
+10010,New York,NY,Eleven Madison Park,$$$$,4.5,1956,French,40.7416907417333,-73.9872074872255
+10010,New York,NY,Almond,$$,4.0,959,French,40.7400817871094,-73.9887542724609
+10011,New York,NY,Amélie,$$,4.5,2309,French,40.7327,-73.99766
+10011,New York,NY,Le Grainne Cafe,$$,4.0,591,French,40.7454064780449,-74.0024026704959
+10012,New York,NY,Minetta Tavern,$$$,4.0,2049,French,40.7300047976758,-74.0006073834151
+10012,New York,NY,Balthazar Restaurant,$$$,4.0,2851,French,40.722730394629,-73.998330776327
+10012,New York,NY,Raoul's Restaurant,$$$,4.0,429,French,40.72615,-74.00216
+10012,New York,NY,BoCaphe,$$,4.0,1004,French,40.7220786,-73.9975506
+10012,New York,NY,Mercer Kitchen,$$$,3.5,1488,French,40.72481,-73.99876
+10012,New York,NY,Café Gitane,$$,4.0,700,French,40.7231802723335,-73.9946175625656
+10012,New York,NY,Vin et Fleurs,$$,4.0,372,French,40.72448,-74.00327
+10012,New York,NY,Bistro Les Amis,$$,4.0,340,French,40.724678,-74.002624
+10013,New York,NY,La Sirene,$$$,4.5,1537,French,40.7243642217227,-74.005708694458
+10013,New York,NY,Taureau,$$$,4.5,559,French,40.72452,-74.00569
+10013,New York,NY,Le Coucou,$$$$,4.0,429,French,40.71909,-74.00013
+10013,New York,NY,The Odeon,$$$,4.0,583,French,40.71692,-74.00792
+10014,New York,NY,Buvette,$$,4.0,1564,French,40.732704,-74.004317
+10014,New York,NY,Boucherie West Village,$$$,4.5,875,French,40.733063,-74.0028772
+10014,New York,NY,Perry St,$$$,4.0,889,French,40.73442,-74.00971
+10014,New York,NY,Aux Merveilleux De Fred,$$,4.5,298,French,40.738362,-74.004134
+10014,New York,NY,Joseph Leonard,$$,4.0,622,French,40.7336021670705,-74.001675412843
+10014,New York,NY,Fig & Olive Meatpacking,$$$,3.5,1279,French,40.7406284811719,-74.0068594359003
+10014,New York,NY,Tartine,$$,4.0,931,French,40.73635,-74.00346
+10014,New York,NY,Delice & Sarrasin,$$,4.5,317,French,40.73377,-74.00065
+10014,New York,NY,Cafe Cluny,$$,4.0,676,French,40.737385,-74.003966
+10016,New York,NY,Le Parisien,$$,4.0,886,French,40.7454079308793,-73.9791478306885
+10016,New York,NY,La Tarte Flambee,$$,4.5,322,French,40.7454955900215,-73.9795761190491
+10016,New York,NY,Ratatouille,$$,4.0,241,French,40.7489198,-73.9763381
+10018,New York,NY,Ai Fiori,$$$$,4.0,1152,French,40.7500752,-73.9837835
+10019,New York,NY,Per Se,$$$$,4.5,1496,French,40.7681528889558,-73.9827629623657
+10019,New York,NY,Le Bernardin,$$$$,4.5,2315,French,40.761557,-73.981763
+10019,New York,NY,Bouchon Bakery & Cafe,$$,4.0,1318,French,40.768538,-73.982923
+10019,New York,NY,La Bergamote,$$,4.0,339,French,40.7663868,-73.9915846
+10019,New York,NY,The Bar Room,$$$,4.0,451,French,40.7610309319265,-73.9765593703613
+10021,New York,NY,Cafe Boulud,$$$$,4.0,641,French,40.77444,-73.96396
+10022,New York,NY,Fig & Olive Fifth Ave,$$$,3.5,1075,French,40.7594108995958,-73.9755487419944
+10022,New York,NY,La Grenouille,$$$$,4.0,399,French,40.75972,-73.97555
+10022,New York,NY,Le Relais De Venise L'Entrecôte,$$,3.5,722,French,40.7577089110773,-73.9717626571655
+10022,New York,NY,Le Bateau Ivre,$$$,4.0,378,French,40.7558,-73.96905
+10023,New York,NY,Jean-Georges,$$$$,4.5,1779,French,40.7691122743293,-73.9814290717583
+10023,New York,NY,Nougatine at Jean-Georges,$$$,4.0,1047,French,40.76891,-73.98176
+10023,New York,NY,Le Pif,$$,4.0,264,French,40.7774844970442,-73.9817932784042
+10023,New York,NY,Bar Boulud,$$$,3.5,806,French,40.7718443592464,-73.9818808860381
+10023,New York,NY,Cafe Luxembourg,$$$,4.0,447,French,40.77741,-73.98312
+10024,New York,NY,Amelie,$$$,4.5,99,French,40.78875,-73.97464
+10025,New York,NY,Crepes on Columbus,$$,3.5,510,French,40.80104,-73.96178
+10025,New York,NY,Cafe Du Soleil,$$,3.5,349,French,40.8000739,-73.9682123
+10026,New York,NY,RDV Rendezvous,$$,4.5,127,French,40.802040664408,-73.956772898909
+10027,New York,NY,Maison Harlem,$$,3.5,422,French,40.8121862892803,-73.9516100875101
+10027,New York,NY,Chez Lucienne,$$,3.5,425,French,40.8079409,-73.9448598
+10028,New York,NY,The Simone,$$$$,4.5,83,French,40.7769089,-73.9569016
+10029,New York,NY,Tastings Social Presents Mountain Bird,$$$,4.5,141,French,40.793503292003,-73.9409723342072
+10029,New York,NY,La Tropezienne Bakery,$,4.5,105,French,40.792079,-73.938629
+10030,New York,NY,Ponty Bistro,$$,4.0,345,French,40.8175925,-73.9412695
+10030,New York,NY,Yatenga French Bistro & Bar,$$,4.0,230,French,40.8142691169743,-73.9441050339131
+10033,New York,NY,The Pandering Pig,$$,4.0,96,French,40.855144,-73.937599
+10036,New York,NY,Gabriel Kreuther,$$$$,4.5,329,French,40.754546,-73.982556
+10036,New York,NY,Marseille,$$$,4.0,806,French,40.759806,-73.991378
+10036,New York,NY,Chez Josephine,$$$,4.0,428,French,40.7586191118417,-73.9934134483337
+10036,New York,NY,DB Bistro Moderne,$$$,3.5,641,French,40.75594,-73.98211
+10036,New York,NY,Le Rivage,$$$,3.5,370,French,40.76023,-73.98957
+10038,New York,NY,La Parisienne,$$,4.5,234,French,40.70961,-74.0093799
+10065,New York,NY,Daniel,$$$$,4.5,1480,French,40.7667736797858,-73.967607
+10075,New York,NY,Le Moulin a Cafe,$$,4.0,308,French,40.7697981,-73.9518043
+10111,New York,NY,Bouchon Bakery,$$,4.0,719,French,40.7582232250109,-73.9788105906568
+10128,New York,NY,Cafe D'Alsace,$$,4.0,1107,French,40.77916,-73.95104
+10128,New York,NY,Table d'Hôte,$$,4.0,140,French,40.78447,-73.95581
+10002,New York,NY,Cafe Katja,$$,4.5,732,German,40.7177673,-73.990589
+10002,New York,NY,Loreley Beer Garden,$$,3.5,615,German,40.72122,-73.99287
+10002,New York,NY,GRÜNHAUS,$$,3.5,27,German,40.71997,-73.98824
+10004,New York,NY,Bavaria Bier Haus,$$,3.5,158,German,40.7043573,-74.0103186
+10009,New York,NY,Zum Schneider,$$,4.0,571,German,40.72421,-73.978862
+10009,New York,NY,Edi & the Wolf,$$$,4.0,402,German,40.72384,-73.97869
+10010,New York,NY,Rolf's Bar & Restaurant,$$,2.5,792,German,40.738,-73.98353
+10011,New York,NY,Berlin Currywurst,$$,3.5,84,German,40.74222,-74.00466
+10014,New York,NY,"The Biergarten at The Standard, High Line",$$,3.5,836,German,40.741057,-74.008017
+10014,New York,NY,Lederhosen,$$,4.0,309,German,40.73295,-74.00454
+10014,New York,NY,Wallse,$$$,4.0,247,German,40.7354552762594,-74.0082208400924
+10014,New York,NY,Doma Na Rohu,$$,4.0,187,German,40.7310771807999,-74.0044628153253
+10016,New York,NY,La Tarte Flambee,$$,4.5,322,German,40.7454955900215,-73.9795761190491
+10017,New York,NY,Bierhaus NYC,$$,3.5,632,German,40.75255,-73.97338
+10018,New York,NY,Reichenbach Hall,$$,4.0,662,German,40.7508,-73.98401
+10026,New York,NY,Bier International,$$,3.5,306,German,40.80279,-73.95696
+10028,New York,NY,Heidelberg Restaurant,$$,4.0,636,German,40.77742,-73.95172
+10028,New York,NY,Cafe Sabarsky,$$,4.0,466,German,40.7813294606411,-73.9603686332703
+10028,New York,NY,Schaller's Stube Sausage Bar,$,4.5,162,German,40.777544,-73.951607
+10028,New York,NY,Café Fledermaus,$$,3.5,26,German,40.781242,-73.96025
+10001,New York,NY,Death Ave,$$,4.0,414,Greek,40.75112,-74.00208
+10001,New York,NY,Mykonos Blue,$$$,3.5,146,Greek,40.74679,-73.99172
+10002,New York,NY,Kiki's,$$,4.5,481,Greek,40.7144971858255,-73.9918553931336
+10002,New York,NY,Souvlaki GR,$$,4.0,813,Greek,40.72122,-73.98711
+10003,New York,NY,Barbounia,$$$,3.5,1155,Greek,40.7382,-73.98804
+10003,New York,NY,Village Taverna,$$,3.5,276,Greek,40.73339,-73.99306
+10005,New York,NY,Pita Press,$,3.5,164,Greek,40.7070857,-74.0080807
+10005,New York,NY,11 Hanover Greek,$$$,4.0,89,Greek,40.705264,-74.008854
+10009,New York,NY,Pylos,$$$,4.5,1069,Greek,40.72608,-73.98415
+10009,New York,NY,Taverna Kyclades - East Village,$$,4.0,744,Greek,40.7310782469639,-73.9825163036585
+10009,New York,NY,Odessa Restaurant,$,3.5,332,Greek,40.7263299864,-73.9834847979
+10011,New York,NY,Periyali,$$$,4.0,243,Greek,40.7406298582957,-73.9929678154494
+10013,New York,NY,Nish Nush,$$,4.5,650,Greek,40.715688,-74.007695
+10013,New York,NY,Greecologies,$$,4.5,389,Greek,40.7202330882667,-73.9964868578209
+10013,New York,NY,Pi Bakerie,$$,4.5,223,Greek,40.72361,-74.00329
+10013,New York,NY,The Greek,$$$,4.5,461,Greek,40.7237145,-74.0096166
+10013,New York,NY,Thalassa Restaurant,$$$,4.0,368,Greek,40.7193085,-74.0095971
+10013,New York,NY,Antique Garage Tribeca,$$$,4.5,72,Greek,40.71972,-74.00397
+10014,New York,NY,Extra Virgin,$$,3.5,1191,Greek,40.7353962496717,-74.0031888223197
+10014,New York,NY,Snack Taverna,$$,4.0,308,Greek,40.731033,-74.004814
+10014,New York,NY,NISI,$$,4.0,219,Greek,40.7325,-74.00386
+10014,New York,NY,Voula,$$,4.5,56,Greek,40.73235,-74.00222
+10016,New York,NY,EONS Greek Food for Life,$$,4.0,279,Greek,40.74528,-73.97588
+10017,New York,NY,Avra Estiatorio,$$$,4.0,791,Greek,40.75513,-73.97245
+10018,New York,NY,Crisp,$$,4.0,376,Greek,40.753698,-73.985967
+10019,New York,NY,Estiatorio Milos,$$$$,4.0,798,Greek,40.76368,-73.97922
+10019,New York,NY,The Greek Kitchen,$$,4.0,445,Greek,40.7697614,-73.9881055
+10019,New York,NY,Souvlaki GR,$$,4.0,507,Greek,40.76465,-73.98029
+10019,New York,NY,Loi Estiatorio,$$$,4.5,289,Greek,40.765385,-73.978002
+10019,New York,NY,Molyvos,$$$,4.0,456,Greek,40.7644338,-73.9806394
+10019,New York,NY,Ousia,$$$,4.0,172,Greek,40.7707946574904,-73.992433445755
+10019,New York,NY,Uncle Nick's Greek Cuisine,$$,3.5,466,Greek,40.763934,-73.988889
+10022,New York,NY,Nerai,$$$,4.5,411,Greek,40.7602,-73.97308
+10022,New York,NY,Amali,$$$,4.0,350,Greek,40.7633557384716,-73.9686296877489
+10022,New York,NY,Under The Bridge,$$,4.0,160,Greek,40.7596400253254,-73.9623098820448
+10022,New York,NY,Ethos Gallery 51st,$$$,3.5,412,Greek,40.7545262,-73.9660484
+10022,New York,NY,Avra Madison,$$$$,4.0,195,Greek,40.7644,-73.97166
+10022,New York,NY,Anassa Taverna,$$$,3.5,270,Greek,40.762037,-73.9660633
+10023,New York,NY,Viand Café,$$,3.5,224,Greek,40.78066,-73.98112
+10023,New York,NY,Seven Hills Mediterranean Grill,$$,3.5,200,Greek,40.7780303955078,-73.9809875488281
+10025,New York,NY,Tom's Restaurant,$$,2.5,693,Greek,40.80545,-73.9654599
+10025,New York,NY,Symposium Greek Restaurant,$$,3.5,173,Greek,40.805419921875,-73.9643325805664
+10033,New York,NY,Chicken Ranch,$$,4.5,63,Greek,40.84839,-73.9324
+10036,New York,NY,Dafni Greek Taverna,$$,4.0,885,Greek,40.75788,-73.99092
+10036,New York,NY,Kellari Taverna,$$$,3.5,552,Greek,40.7555313110352,-73.980827331543
+10038,New York,NY,GRK Fresh Greek - Financial District,$$,3.5,442,Greek,40.709995,-74.006883484631
+10038,New York,NY,Zeytin Mediterranean,$$,4.5,58,Greek,40.708573,-74.007024
+10040,New York,NY,Broadway Souvlaki NYC,$,5.0,26,Greek,40.8586591704726,-73.9316824590407
+10065,New York,NY,Greek Eats,$$,4.0,317,Greek,40.7644212205497,-73.9587869
+10075,New York,NY,Yefsi Estiatorio,$$$,4.0,272,Greek,40.7710007,-73.9509195
+10128,New York,NY,Korali Estiatorio,$$$,4.0,170,Greek,40.78349,-73.95098
+10154,New York,NY,Uncle Gussy's,$,4.5,421,Greek,40.7576813278964,-73.9732953737526
+10001,New York,NY,Chikarashi,$$,4.0,66,Hawaiian,40.74458,-73.98871
+10003,New York,NY,The PokéSpot,$$,4.0,589,Hawaiian,40.733097076416,-73.9902801513672
+10004,New York,NY,Pokebab,$$,4.5,36,Hawaiian,40.70426,-74.01172
+10004,New York,NY,Poke Green,$$,4.0,39,Hawaiian,40.7049944,-74.0096537
+10007,New York,NY,Poke Green,$$,4.0,158,Hawaiian,40.7057753,-74.0072424
+10009,New York,NY,Noreetuh,$$$,4.0,376,Hawaiian,40.727275,-73.985221
+10009,New York,NY,Poke N Roll,$$,4.0,30,Hawaiian,40.72752,-73.98304
+10012,New York,NY,The PokéSpot,$$,4.0,129,Hawaiian,40.72185,-73.99713
+10013,New York,NY,Chikarashi,$$,4.0,456,Hawaiian,40.71787,-73.99948
+10013,New York,NY,Humble Fish,$$,4.5,132,Hawaiian,40.71996,-74.00354
+10016,New York,NY,Poketeria,$$,4.5,255,Hawaiian,40.7496948,-73.9831894
+10016,New York,NY,Poke Chan,$$,3.5,110,Hawaiian,40.7468664,-73.985155
+10018,New York,NY,Let's Poke,$$,4.0,65,Hawaiian,40.75468,-73.99214
+10018,New York,NY,Bravo Poke,$$,3.5,14,Hawaiian,40.75208,-73.98706
+10019,New York,NY,Poke Bowl,$$,4.5,19,Hawaiian,40.7626,-73.98566
+10022,New York,NY,Hokey Poké,$$,4.0,169,Hawaiian,40.75537,-73.97054
+10025,New York,NY,Makana BBQ & Poke,$$,3.5,185,Hawaiian,40.8003498753624,-73.9650623620337
+10029,New York,NY,Makana Hawaiian & Japanese BBQ,$$,3.5,151,Hawaiian,40.79568,-73.93599
+10031,New York,NY,Makana Hawaiian BBQ & Poke,$$,3.5,7,Hawaiian,40.81843,-73.95282
+10033,New York,NY,Makana,$$,3.0,17,Hawaiian,40.84643,-73.93606
+10036,New York,NY,Poke Signature,$$,4.0,54,Hawaiian,40.7554299,-73.98781
+10038,New York,NY,Sons of Thunder,$$,4.0,42,Hawaiian,40.7073200234724,-74.005784262168
+10168,New York,NY,North Shore Poke Co.,$$,4.5,89,Hawaiian,40.75144,-73.97646
+10001,New York,NY,Bombay Sandwich,$$,4.0,360,Indian,40.7450715521913,-73.990359620218
+10001,New York,NY,Patiala Indian Grill,$,4.0,222,Indian,40.7533149,-73.9960898
+10002,New York,NY,The MasalaWala,$$,4.5,1282,Indian,40.72191,-73.98666
+10002,New York,NY,Mughlai Grill,$$,4.5,252,Indian,40.7210905,-73.9840446
+10003,New York,NY,Brick Lane Curry House,$$,3.5,960,Indian,40.7265407754881,-73.9893999248542
+10003,New York,NY,Malai Marke Indian Cuisine,$$,4.0,516,Indian,40.726934,-73.98758
+10003,New York,NY,Baar Baar,$$$,4.0,346,Indian,40.7244378855031,-73.9915524
+10003,New York,NY,Haveli Restaurant,$$,4.0,331,Indian,40.727119,-73.988349
+10003,New York,NY,Milon,$$,3.5,489,Indian,40.726322,-73.986648
+10005,New York,NY,Biryani House Cart,$,4.0,152,Indian,40.70865,-74.01011
+10006,New York,NY,Ruchi,$$,3.5,323,Indian,40.7096108910337,-74.0127293677959
+10007,New York,NY,Aahar Indian Cuisine,$$,4.0,242,Indian,40.71334,-74.0081
+10007,New York,NY,Benares,$$,4.0,404,Indian,40.7142,-74.00917
+10009,New York,NY,Punjabi Grocery & Deli,$,4.5,364,Indian,40.7227225423661,-73.9866224576721
+10010,New York,NY,Junoon,$$$,3.5,1309,Indian,40.743193,-73.990838
+10010,New York,NY,indikitch,$$,4.0,657,Indian,40.7422142028809,-73.9904403686523
+10010,New York,NY,Mughlai Indian Cuisine,$$,4.0,317,Indian,40.739692,-73.982116
+10010,New York,NY,Inday,$$,4.0,313,Indian,40.7434986,-73.9892206
+10011,New York,NY,Rahi,$$$,4.5,288,Indian,40.7360271,-74.0005436
+10011,New York,NY,Dil-e Punjab Deli,$,4.5,173,Indian,40.74482,-74.00206
+10011,New York,NY,aRoqa,$$$,4.0,189,Indian,40.74609,-74.00138
+10012,New York,NY,The Kati Roll Company,$,4.0,833,Indian,40.729634,-74.000964
+10012,New York,NY,Thelewala,$,4.0,438,Indian,40.72963,-74.00068
+10012,New York,NY,Masala Times,$$,4.0,505,Indian,40.7292728223798,-74.0015978515206
+10012,New York,NY,Mint Masala,$$,4.0,276,Indian,40.72953,-74.00115
+10012,New York,NY,Ahimsa,$$,4.0,227,Indian,40.72878,-73.99924
+10012,New York,NY,Surya,$$,4.0,176,Indian,40.7281,-73.99963
+10013,New York,NY,Tamarind,$$$,4.0,800,Indian,40.71909,-74.00892
+10014,New York,NY,Taco Mahal,$,4.5,423,Indian,40.732337,-74.003303
+10014,New York,NY,NY Dosas,$,4.5,378,Indian,40.7308386079893,-73.99863779767
+10014,New York,NY,Ghandi Cafe,$$,3.5,341,Indian,40.73194,-74.0033
+10016,New York,NY,Dhaba Indian Cuisine,$$,3.5,1434,Indian,40.742364,-73.982813
+10016,New York,NY,Spice Symphony,$$,4.0,531,Indian,40.744722,-73.981202
+10016,New York,NY,Pippali,$$,4.0,643,Indian,40.74233,-73.98331
+10016,New York,NY,Chennai Garden by Tiffin Wallah,$$,4.0,713,Indian,40.74298,-73.98274
+10016,New York,NY,Vatan Indian Vegetarian,$$$,4.0,566,Indian,40.74236,-73.9803699
+10016,New York,NY,Bhatti Indian Grill,$$,3.5,650,Indian,40.74221,-73.98308
+10016,New York,NY,Saravanaa Bhavan,$$,3.5,823,Indian,40.7414,-73.98306
+10016,New York,NY,Nirvana,$$,3.5,459,Indian,40.74998,-73.97729
+10016,New York,NY,Chote Nawab,$$,3.5,494,Indian,40.742462,-73.982322
+10017,New York,NY,Darbar Fine Indian Cuisine,$$,4.0,501,Indian,40.75358,-73.97348
+10017,New York,NY,Bukhara Grill,$$,3.5,519,Indian,40.75501,-73.97028
+10018,New York,NY,The Kati Roll Company,$,4.0,1406,Indian,40.75269,-73.98466
+10018,New York,NY,India Kitchen,$$,4.0,253,Indian,40.7555499,-73.9949174
+10018,New York,NY,Indian Project,$$,4.0,261,Indian,40.75426,-73.99028
+10019,New York,NY,Bengal Tiger Indian Food,$$,4.5,1390,Indian,40.763167,-73.977131
+10019,New York,NY,Indian Accent,$$$$,4.5,447,Indian,40.7643344624229,-73.9787312885132
+10019,New York,NY,indikitch,$$,4.0,393,Indian,40.76573,-73.98338
+10019,New York,NY,Aaheli Indian Cuisine,$$,4.0,353,Indian,40.76603,-73.9867
+10019,New York,NY,Bombay Grill House,$$,4.0,200,Indian,40.76415,-73.98806
+10019,New York,NY,Badshah,$$,4.0,205,Indian,40.76483,-73.98756
+10019,New York,NY,Basera,$$,3.5,416,Indian,40.76384,-73.9891
+10019,New York,NY,Saar Indian Bistro,$$,4.5,80,Indian,40.7626659,-73.9847093
+10021,New York,NY,Rangoli Exquisite Indian Cuisine,$$,4.5,360,Indian,40.7693,-73.95823
+10021,New York,NY,Agra Restaurant,$$,4.0,176,Indian,40.7642247,-73.9665107
+10022,New York,NY,Mysttik Masaala,$,4.5,341,Indian,40.75932,-73.97209
+10022,New York,NY,Chola,$$,4.0,558,Indian,40.76026,-73.96576
+10022,New York,NY,Spice Symphony,$$,4.5,308,Indian,40.7558937072754,-73.9715347290039
+10022,New York,NY,Darbar Grill,$$,4.0,490,Indian,40.759357,-73.968826
+10022,New York,NY,Amma,$$$,4.0,464,Indian,40.75554,-73.96874
+10022,New York,NY,Adyar Ananda Bhavan,$$,4.0,278,Indian,40.759381,-73.962489
+10022,New York,NY,The Kati Roll Company,$,3.5,302,Indian,40.7572680281001,-73.9678144454956
+10024,New York,NY,Ashoka Indian Restaurant,$$,4.5,212,Indian,40.78476,-73.97303
+10024,New York,NY,Swagat,$$,3.5,364,Indian,40.78353,-73.97782
+10024,New York,NY,Alachi Masala,$$,4.0,188,Indian,40.78616,-73.97635
+10025,New York,NY,Doaba Deli,$,4.5,216,Indian,40.7994,-73.9624
+10025,New York,NY,Roti Roll Bombay Frankie,$,4.0,351,Indian,40.8026,-73.96437
+10025,New York,NY,Ayurveda Cafe,$$,4.0,291,Indian,40.79305,-73.97132
+10025,New York,NY,Awadh,$$,3.5,272,Indian,40.79583,-73.970716
+10025,New York,NY,Aangan,$$,3.5,178,Indian,40.799446,-73.968795
+10027,New York,NY,Chapati House,$,4.0,197,Indian,40.814613,-73.95959
+10027,New York,NY,Delhi Masala,$$,4.0,137,Indian,40.8079899,-73.94856
+10027,New York,NY,Chaiwali Harlem,$$,3.5,186,Indian,40.80678,-73.94588
+10028,New York,NY,Om Restaurant,$$,4.0,454,Indian,40.77583,-73.95364
+10031,New York,NY,Mumbai Masala,$$,4.5,147,Indian,40.82695,-73.94676
+10031,New York,NY,Clove Indian Restaurant & Bar,$$,4.0,225,Indian,40.8212624,-73.9506836
+10035,New York,NY,Polash,$$,4.0,198,Indian,40.79965,-73.93855
+10040,New York,NY,Kismat Indian Restaurant,$$,3.5,326,Indian,40.8552891007756,-73.9370184099689
+10065,New York,NY,Moti Mahal Delux,$$,4.0,420,Indian,40.76213,-73.9605
+10065,New York,NY,Imli Urban Indian Food,$$,4.5,144,Indian,40.7616660604253,-73.9601389691234
+10075,New York,NY,Anand Indian Cuisine,$$,4.5,87,Indian,40.77228,-73.95525
+10128,New York,NY,The Drunken Munkey,$$,4.5,824,Indian,40.78098,-73.94751
+10128,New York,NY,Mughlai Indian Cuisine,$$,4.5,374,Indian,40.78002,-73.94978
+10128,New York,NY,Ashoka on 2nd Avenue,$$,4.5,66,Indian,40.7798555,-73.9500904
+10177,New York,NY,Kwik Gourmet,$,4.0,239,Indian,40.75332,-73.97106
+10001,New York,NY,Waldy's Wood Fired Pizza & Penne,$$,4.0,751,Italian,40.7457666039821,-73.9906402533629
+10002,New York,NY,The Meatball Shop,$$,4.0,2699,Italian,40.7214961,-73.9887357
+10002,New York,NY,Gaia Italian Café,$,4.5,923,Italian,40.721653,-73.985346
+10003,New York,NY,Veniero's,$$,4.0,1867,Italian,40.72941,-73.98454
+10003,New York,NY,Luzzos La Pizza Napoletana,$$,4.0,1006,Italian,40.730551,-73.9834846
+10003,New York,NY,San Marzano Pasta Fresca,$,4.0,914,Italian,40.727989,-73.98845
+10003,New York,NY,Otto Enoteca Pizzeria,$$,3.5,2046,Italian,40.7320605431463,-73.996197909787
+10003,New York,NY,Motorino,$$,3.5,1047,Italian,40.73039,-73.98381
+10003,New York,NY,Lil' Frankie's,$$,4.0,963,Italian,40.723625,-73.988555
+10003,New York,NY,Posto,$$,4.0,576,Italian,40.73483,-73.98282
+10004,New York,NY,Adrienne's Pizzabar,$$,4.0,1491,Italian,40.7043362,-74.0101733
+10004,New York,NY,Antica Ristorante,$$$,4.5,424,Italian,40.7039355145338,-74.0121731758117
+10006,New York,NY,Eataly Downtown,$$,3.5,743,Italian,40.709716,-74.011714
+10007,New York,NY,Gran Morsi,$$$,4.5,290,Italian,40.7142052394856,-74.0077535494539
+10009,New York,NY,Giano Restaurant,$$,4.0,525,Italian,40.7262256596862,-73.9840574049125
+10009,New York,NY,Hearth,$$$,4.0,671,Italian,40.730006,-73.983225
+10010,New York,NY,Eataly,$$,4.0,5177,Italian,40.74195877796,-73.989716662832
+10010,New York,NY,Maialino,$$$,4.0,1284,Italian,40.738437,-73.985686
+10010,New York,NY,Giorgio's of Gramercy,$$$,4.0,712,Italian,40.7394209879325,-73.9885425567627
+10011,New York,NY,Babbo,$$$$,4.0,2293,Italian,40.732283,-73.999284
+10011,New York,NY,Del Posto,$$$$,4.0,1356,Italian,40.7434155953035,-74.007533013261
+10011,New York,NY,Crispo,$$$,4.0,904,Italian,40.7392469,-74.0016882
+10011,New York,NY,Basta Pasta,$$,3.5,1337,Italian,40.73881,-73.9940699
+10011,New York,NY,Sotto 13,$$,4.0,790,Italian,40.7372,-73.99919
+10011,New York,NY,The Meatball Shop,$$,4.0,838,Italian,40.736125,-74.000607
+10011,New York,NY,Da Andrea,$$,4.0,695,Italian,40.736218,-73.99597
+10011,New York,NY,The Meatball Shop,$$,4.0,820,Italian,40.7459138,-74.0015369
+10012,New York,NY,Rubirosa,$$,4.0,1778,Italian,40.72275,-73.99622
+10012,New York,NY,Prince Street Pizza,$,4.5,2406,Italian,40.7229087705545,-73.9944863319397
+10012,New York,NY,La Lanterna Di Vittorio,$$,4.0,1370,Italian,40.73069,-74.00015
+10012,New York,NY,Lupa,$$$,4.0,1425,Italian,40.7276,-74.000045
+10012,New York,NY,Carroll Place,$$,4.0,910,Italian,40.7287,-73.99971
+10012,New York,NY,Il Corallo Trattoria,$$,4.0,848,Italian,40.7262073,-74.0018919
+10012,New York,NY,Song E Napule,$$,4.5,355,Italian,40.72813,-74.00188
+10012,New York,NY,Carbone,$$$$,4.0,802,Italian,40.728,-74.0001497
+10012,New York,NY,Senza Gluten,$$,4.0,474,Italian,40.7290911050589,-74.0003699151971
+10012,New York,NY,Il Mulino New York - Downtown,$$$$,4.0,508,Italian,40.729807,-73.999159
+10013,New York,NY,Locanda Verde,$$$,4.0,1508,Italian,40.7198601300801,-74.010039072422
+10013,New York,NY,Pepe Rosso Social,$$,4.0,746,Italian,40.72007,-73.99618
+10013,New York,NY,Aunt Jake's,$$,4.0,1017,Italian,40.7190315,-73.9977161
+10013,New York,NY,Gelso & Grand,$$,4.5,647,Italian,40.7194089547259,-73.9973777877722
+10013,New York,NY,Piacere,$$,4.0,643,Italian,40.7196979,-73.9951175
+10013,New York,NY,Galli,$$,4.0,799,Italian,40.72161,-74.00127
+10013,New York,NY,Saluggi's,$$,4.0,538,Italian,40.720104,-74.003578
+10013,New York,NY,Benito One,$$,4.0,620,Italian,40.7199876084147,-73.9969271421432
+10013,New York,NY,Da Gennaro,$$,4.0,741,Italian,40.71832,-73.99794
+10014,New York,NY,L'Artusi,$$$,4.5,1615,Italian,40.733714,-74.005068
+10014,New York,NY,Bleecker Street Pizza,$,4.0,1960,Italian,40.7320627016512,-74.0036552270137
+10014,New York,NY,Kesté Pizza & Vino,$$,4.0,1309,Italian,40.73154,-74.00293
+10014,New York,NY,Olio e Piú,$$,4.0,1541,Italian,40.733826,-73.999852
+10014,New York,NY,Malatesta Trattoria,$$,4.0,1160,Italian,40.73285,-74.00847
+10014,New York,NY,Faicco's Italian Specialties,$$,4.5,446,Italian,40.73113,-74.00306
+10014,New York,NY,Palma,$$$,4.0,636,Italian,40.73115,-74.00233
+10014,New York,NY,Extra Virgin,$$,3.5,1191,Italian,40.7353962496717,-74.0031888223197
+10014,New York,NY,Baker & Co,$$,4.0,570,Italian,40.7313423,-74.0028996
+10016,New York,NY,Scarpetta,$$$,4.0,1751,Italian,40.744509,-73.9856
+10016,New York,NY,Marta,$$$,4.0,758,Italian,40.7445212750732,-73.9845828515206
+10016,New York,NY,Bistango,$$,4.0,647,Italian,40.7425771,-73.9800892
+10017,New York,NY,Allora Ristorante,$$$,4.5,331,Italian,40.75433,-73.97277
+10017,New York,NY,DiSO's Italian Sandwich Society,$$,4.5,216,Italian,40.7527323302057,-73.9705090608521
+10018,New York,NY,Sergimmo Salumeria,$$,4.5,633,Italian,40.754296,-73.995498
+10018,New York,NY,Non Solo Piada,$,4.5,260,Italian,40.75414,-73.99245
+10018,New York,NY,Ai Fiori,$$$$,4.0,1152,Italian,40.7500752,-73.9837835
+10018,New York,NY,Tavola,$$,4.0,778,Italian,40.755403,-73.994516
+10018,New York,NY,Mercato,$$,4.0,764,Italian,40.75619,-73.9937
+10019,New York,NY,Marea,$$$$,4.0,1837,Italian,40.7674213694566,-73.9810554368179
+10019,New York,NY,B Side Pizza & Wine Bar,$$,4.5,957,Italian,40.76394,-73.9883399
+10019,New York,NY,Don Antonio,$$,4.0,1260,Italian,40.762711,-73.986708
+10019,New York,NY,Briciola,$$,4.0,735,Italian,40.7637997047278,-73.9880919456482
+10019,New York,NY,Basso56,$$$,4.5,566,Italian,40.7655,-73.98267
+10019,New York,NY,Trattoria Dell'Arte,$$$,4.0,889,Italian,40.765295646702,-73.98046281606
+10019,New York,NY,Merilu Pizza Al Metro,$,4.0,474,Italian,40.76527,-73.98805
+10019,New York,NY,Masseria Dei Vini,$$$,4.0,396,Italian,40.7684,-73.98558
+10019,New York,NY,Patsy's Italian Restaurant,$$$,4.0,756,Italian,40.76553,-73.98274
+10019,New York,NY,PizzArte,$$,4.0,953,Italian,40.7629335072372,-73.9776668697596
+10019,New York,NY,Quality Italian,$$$,4.0,923,Italian,40.7644044527436,-73.9767805051616
+10021,New York,NY,Via Quadronno,$$,4.0,478,Italian,40.77277,-73.96514
+10021,New York,NY,Bigoi Venezia,$,4.5,163,Italian,40.770036,-73.9577755
+10022,New York,NY,My Pie Pizzeria Romana,$,4.5,613,Italian,40.7608512,-73.9694809
+10022,New York,NY,Sofia Wine Bar,$$,4.0,596,Italian,40.75502,-73.96913
+10022,New York,NY,Pizza By Certé,$,4.0,387,Italian,40.7603726135173,-73.9701185417372
+10022,New York,NY,Felidia,$$$$,4.0,494,Italian,40.76036,-73.96512
+10023,New York,NY,Lincoln Ristorante,$$$$,4.0,525,Italian,40.773359006218,-73.9835011005249
+10023,New York,NY,Salumeria Rosi,$$$,4.0,432,Italian,40.77932,-73.9809
+10024,New York,NY,Carmine's Italian Restaurant - Upper West Side,$$,4.0,1187,Italian,40.791077,-73.973763
+10024,New York,NY,Osteria Cotta,$$,4.0,732,Italian,40.78554,-73.97263
+10024,New York,NY,Celeste,$$,3.5,850,Italian,40.78666,-73.97599
+10024,New York,NY,Pizzeria Sirenetta,$$,4.0,239,Italian,40.78881,-73.97459
+10025,New York,NY,Arco Cafe,$$,4.0,233,Italian,40.7988462,-73.967065
+10025,New York,NY,Little Italy Pizza,$,4.0,234,Italian,40.7918751922647,-73.9735541478506
+10025,New York,NY,Buchetta Brick Oven Pizza,$$,4.0,201,Italian,40.7987564,-73.9673846
+10025,New York,NY,Sal & Carmine's Pizza,$,3.5,318,Italian,40.7983115,-73.9694405
+10026,New York,NY,Lido,$$,4.0,873,Italian,40.8049797781916,-73.9548260014624
+10026,New York,NY,VINATERÍA,$$,4.0,373,Italian,40.8064392068585,-73.9540110111145
+10027,New York,NY,Pisticci,$$,4.0,771,Italian,40.8141624,-73.960288
+10027,New York,NY,Sottocasa Pizzeria - Harlem,$$,4.5,198,Italian,40.805587,-73.947547
+10027,New York,NY,Babbalucci,$$,4.0,322,Italian,40.80894,-73.94496
+10027,New York,NY,Max Soha,$$,4.0,386,Italian,40.811302,-73.958183
+10028,New York,NY,Grazie,$$,4.0,355,Italian,40.77948,-73.9601
+10029,New York,NY,D'Amore Winebar & Ristorante,$$,4.5,202,Italian,40.7986510380525,-73.9424410834908
+10029,New York,NY,Rao's,$$$$,4.5,134,Italian,40.79392,-73.93427
+10029,New York,NY,Da Capo,$$,4.5,172,Italian,40.7877696714384,-73.9538384601474
+10029,New York,NY,Nocciola Ristorante,$$,4.0,196,Italian,40.7973406168505,-73.9382923766971
+10031,New York,NY,Bono Trattoria,$$,4.0,255,Italian,40.8301996389829,-73.9473449424522
+10031,New York,NY,Anchor Wine Bar,$$,4.0,248,Italian,40.8253616094589,-73.9510338753462
+10031,New York,NY,Fumo Pizza-Bar-Pasta,$$,4.0,289,Italian,40.821442,-73.9506357
+10032,New York,NY,Antika Restaurant & Pizzeria,$$,3.5,313,Italian,40.838606,-73.941041
+10033,New York,NY,Saggio,$$,4.0,550,Italian,40.8514099281625,-73.9395604556239
+10034,New York,NY,Anchor Heights,$$,4.0,138,Italian,40.86666,-73.92037
+10034,New York,NY,Grandpa's Brick Oven Pizza,$,3.5,166,Italian,40.8683177,-73.9195183
+10035,New York,NY,Patsy's Pizzeria,$$,4.0,745,Italian,40.79713,-73.93481
+10036,New York,NY,Carmine's Italian Restaurant - Times Square,$$,4.0,3214,Italian,40.75749,-73.98662
+10036,New York,NY,Tony's Di Napoli,$$,4.0,1831,Italian,40.75641,-73.98547
+10036,New York,NY,Trattoria Trecolori,$$,4.0,1951,Italian,40.75998,-73.98671
+10036,New York,NY,Becco,$$$,3.5,2594,Italian,40.76083,-73.98981
+10036,New York,NY,Patzeria Family & Friends,$$,4.5,896,Italian,40.7615,-73.98754
+10036,New York,NY,Nino's 46,$$,4.0,1031,Italian,40.7569159,-73.980516
+10036,New York,NY,B Squared,$$,4.5,349,Italian,40.7615509,-73.9906616
+10036,New York,NY,La Masseria,$$$,4.0,532,Italian,40.760868632784,-73.986348802868
+10038,New York,NY,Pisillo Italian Panini,$$,4.5,505,Italian,40.710558,-74.007594
+10038,New York,NY,Da Claudio,$$,4.5,371,Italian,40.71087,-74.00753
+10065,New York,NY,Tony's Di Napoli,$$,4.0,578,Italian,40.76435,-73.96408
+10075,New York,NY,Uva,$$,4.0,2121,Italian,40.7722,-73.95566
+10075,New York,NY,The Meatball Shop,$$,3.5,631,Italian,40.771569,-73.9559804
+10128,New York,NY,Nick's Pizza,$$,4.0,483,Italian,40.78272,-73.94781
+10128,New York,NY,1742 Wine Bar,$$,3.5,791,Italian,40.780723,-73.949302
+10128,New York,NY,Pinocchio Restaurant,$$$,4.0,197,Italian,40.77965,-73.94695
+10001,New York,NY,KazuNori  | The Original Hand Roll Bar,$$,4.5,615,Japanese,40.74519,-73.98824
+10002,New York,NY,Zest Sushi,$$,4.0,748,Japanese,40.7178344726563,-73.9899597167969
+10002,New York,NY,Cocoron,$$,4.0,935,Japanese,40.72031,-73.99305
+10002,New York,NY,Yaya Tea Garden,$,4.0,450,Japanese,40.7162999,-73.99496
+10002,New York,NY,SakaMai,$$$,4.0,570,Japanese,40.7209536656701,-73.9881407239426
+10003,New York,NY,Cha-An,$$,4.0,1634,Japanese,40.72947,-73.98813
+10003,New York,NY,Gyu-Kaku Japanese BBQ,$$$,4.0,1578,Japanese,40.72822,-73.99142
+10003,New York,NY,Raku,$$,4.5,797,Japanese,40.7264988089246,-73.9866526052356
+10003,New York,NY,Tsurutontan Udon Noodle Brasserie,$$,4.0,1445,Japanese,40.73678,-73.9910699
+10003,New York,NY,Soba-ya,$$,4.0,1379,Japanese,40.7296485900879,-73.9878845214844
+10003,New York,NY,Kenka,$$,3.5,1472,Japanese,40.72913,-73.988465
+10003,New York,NY,Sake Bar Decibel,$$,4.0,922,Japanese,40.729263,-73.987792
+10003,New York,NY,Ise Restaurant,$$,4.5,332,Japanese,40.7291024,-73.9900618
+10003,New York,NY,Curry-Ya,$$,4.0,685,Japanese,40.72922,-73.98604
+10003,New York,NY,Benemon,$$,4.5,445,Japanese,40.72551,-73.98838
+10003,New York,NY,Ikinari Steak East Village,$$,4.0,686,Japanese,40.73088,-73.98968
+10003,New York,NY,Hi-Collar,$$,4.0,453,Japanese,40.7293077268171,-73.9859368048935
+10007,New York,NY,Takahachi Bakery,$$,4.0,799,Japanese,40.71393,-74.00822
+10009,New York,NY,Kura,$$$$,4.5,414,Japanese,40.726709,-73.9835794
+10009,New York,NY,Kyo Ya,$$$$,4.5,437,Japanese,40.7267,-73.9853399
+10011,New York,NY,Morimoto,$$$$,4.0,2877,Japanese,40.74332,-74.00713
+10011,New York,NY,Ootoya Chelsea,$$,4.0,1243,Japanese,40.738767,-73.992778
+10011,New York,NY,Asuka Sushi,$$,4.0,817,Japanese,40.74529,-73.99888
+10011,New York,NY,Momoya,$$$,4.0,534,Japanese,40.7426255196333,-73.9966481924057
+10012,New York,NY,Bohemian Restaurant,$$$,4.5,695,Japanese,40.72639,-73.99236
+10012,New York,NY,Domodomo,$$$,4.5,742,Japanese,40.72803,-74.00167
+10012,New York,NY,Blue Ribbon Sushi,$$$,4.0,1034,Japanese,40.72612,-74.0025299
+10012,New York,NY,BondSt,$$$,4.0,904,Japanese,40.726934,-73.994404
+10013,New York,NY,Chikarashi,$$,4.0,456,Japanese,40.71787,-73.99948
+10013,New York,NY,Ninja New York,$$$,3.5,1607,Japanese,40.71673,-74.0093
+10013,New York,NY,Sushi Azabu,$$$$,4.0,409,Japanese,40.7222930324682,-74.0098838048935
+10014,New York,NY,Sushi Nakazawa,$$$$,4.5,1207,Japanese,40.7317465228689,-74.0045493828034
+10014,New York,NY,Takashi,$$$,4.0,918,Japanese,40.7313524,-74.0065048
+10014,New York,NY,EN Japanese Brasserie,$$$,4.0,1193,Japanese,40.7306,-74.00698
+10014,New York,NY,Hakata Tonton,$$,4.0,949,Japanese,40.73333,-74.00331
+10017,New York,NY,Sushi Yasuda,$$$$,4.0,2016,Japanese,40.75113,-73.97347
+10017,New York,NY,Sakagura,$$$,4.0,1685,Japanese,40.7516467024541,-73.9729489318165
+10017,New York,NY,Hatsuhana Sushi Restaurant,$$$,4.0,1151,Japanese,40.75703,-73.97692
+10017,New York,NY,Café Zaiya,$,4.0,1130,Japanese,40.7523,-73.98043
+10017,New York,NY,Katsu-Hama,$$,4.0,1129,Japanese,40.75638,-73.97759
+10017,New York,NY,Soba Totto,$$,4.0,807,Japanese,40.75122,-73.97317
+10017,New York,NY,Udon West Midtown,$$,4.0,916,Japanese,40.7535446865563,-73.9735724478504
+10018,New York,NY,Chef's Table at Brooklyn Fare,$$$$,4.5,461,Japanese,40.7561930774282,-73.9966090932068
+10019,New York,NY,Yakitori Totto,$$$,4.0,1224,Japanese,40.765375,-73.983114
+10019,New York,NY,Blue Ribbon Sushi Bar & Grill - New York,$$$,4.0,703,Japanese,40.7674948014194,-73.9831978922043
+10019,New York,NY,Natsumi,$$$,4.0,749,Japanese,40.76174,-73.98503
+10019,New York,NY,Nobu Fifty Seven,$$$$,4.0,1069,Japanese,40.7636210840864,-73.9765048613641
+10021,New York,NY,Tanoshi Sushi Sake Bar,$$$$,4.5,563,Japanese,40.767568,-73.952815
+10021,New York,NY,Sushi Seki,$$$,4.0,446,Japanese,40.761982,-73.960617
+10022,New York,NY,Gyu-Kaku Japanese BBQ,$$$,4.0,1069,Japanese,40.75537,-73.97054
+10022,New York,NY,Tomi Jazz,$$,4.0,342,Japanese,40.75725,-73.96774
+10023,New York,NY,Sushi Yasaka,$$,4.0,1595,Japanese,40.779583,-73.983482
+10023,New York,NY,Sushi Kaito,$$$$,4.5,128,Japanese,40.77916,-73.98367
+10024,New York,NY,Momoya,$$$,4.0,395,Japanese,40.784043,-73.977391
+10027,New York,NY,Sushi Inoue,$$$$,4.0,104,Japanese,40.8104436,-73.943642
+10027,New York,NY,Yuzu,$$,4.0,176,Japanese,40.8093070983887,-73.9438552856445
+10028,New York,NY,Poke,$$,4.0,435,Japanese,40.7766,-73.95057
+10028,New York,NY,Amura Japanese,$$,4.0,272,Japanese,40.775001,-73.9542
+10028,New York,NY,Kobeyaki,$$,4.0,183,Japanese,40.77861,-73.9530599
+10031,New York,NY,Geisha Sushi,$$,4.0,332,Japanese,40.8241613,-73.9519775
+10033,New York,NY,Sushi Yu 2,$$,3.5,225,Japanese,40.8513870239258,-73.9398880004883
+10034,New York,NY,Mama Sushi,$$,3.0,614,Japanese,40.8661259,-73.9277212
+10036,New York,NY,Gyu-Kaku Japanese BBQ,$$,4.0,1089,Japanese,40.75908,-73.98989
+10036,New York,NY,Sushi by Bou,$$$,4.5,292,Japanese,40.75851,-73.98322
+10036,New York,NY,Ootoya Times Square,$$,4.0,781,Japanese,40.75487,-73.98599
+10036,New York,NY,Sushi of Gari 46,$$$$,4.0,635,Japanese,40.76072,-73.98957
+10038,New York,NY,Suteishi,$$$,4.0,433,Japanese,40.70788,-74.00194
+10075,New York,NY,Sushi Of Gari,$$$$,4.0,593,Japanese,40.77137,-73.95275
+10128,New York,NY,New Ichiro Restaurant,$$,4.0,425,Japanese,40.7788709,-73.9508071
+10001,New York,NY,Woorijip Authentic Korean Food,$,4.0,2481,Korean,40.74747,-73.98648
+10001,New York,NY,Barn Joo 35,$$,4.5,1276,Korean,40.74964,-73.98582
+10001,New York,NY,Jongro BBQ,$$,4.0,1439,Korean,40.7475339,-73.9869275
+10001,New York,NY,BCD Tofu House,$$,4.0,1774,Korean,40.747503631444,-73.9862447208321
+10001,New York,NY,Turntable Chicken Jazz,$$,4.0,1827,Korean,40.74828,-73.98649
+10001,New York,NY,Five Senses,$$,4.0,1148,Korean,40.747573158626,-73.9863122632311
+10001,New York,NY,Cho Dang Gol Korean Restaurant,$$,4.0,940,Korean,40.7502365112305,-73.986198425293
+10001,New York,NY,Pocha 32,$$,3.5,1376,Korean,40.747524574399,-73.9862626791
+10001,New York,NY,Miss KOREA BBQ,$$,3.5,1543,Korean,40.747452,-73.986336
+10001,New York,NY,New Wonjo Restaurant,$$,3.5,1190,Korean,40.74788,-73.98665
+10001,New York,NY,Gaonnuri,$$$,3.5,718,Korean,40.74757,-73.98802
+10002,New York,NY,To Two Boonsik,$$,4.0,115,Korean,40.7155194,-73.9939288
+10003,New York,NY,Barn Joo,$$,4.0,1352,Korean,40.73684,-73.99069
+10003,New York,NY,Boka,$$,3.5,1423,Korean,40.729519,-73.989104
+10003,New York,NY,Oiji,$$$,4.5,448,Korean,40.72727,-73.98585
+10003,New York,NY,K'OOK,$$,4.0,379,Korean,40.7267,-73.98746
+10003,New York,NY,Mono Mono,$$,4.0,349,Korean,40.72549,-73.98803
+10007,New York,NY,GunBae,$$$,4.0,210,Korean,40.714683,-74.010223
+10009,New York,NY,Thursday Kitchen,$$,4.5,1076,Korean,40.7275,-73.9838
+10009,New York,NY,Fat Buddha,$$,3.5,599,Korean,40.7298105,-73.9805949
+10009,New York,NY,Gomi Korean Wine Bar,$$,4.5,103,Korean,40.72886,-73.9813
+10010,New York,NY,Cote,$$$,4.0,566,Korean,40.7412996949476,-73.9912893251312
+10011,New York,NY,mokbar,$$,3.5,526,Korean,40.74222,-74.00466
+10013,New York,NY,Jungsik,$$$$,4.5,512,Korean,40.7185910158738,-74.0088844299316
+10013,New York,NY, Tofu Tofu,$$,4.5,238,Korean,40.7176299520983,-73.9954301342368
+10014,New York,NY,Takashi,$$$,4.0,918,Korean,40.7313524,-74.0065048
+10014,New York,NY,JeJu Noodle Bar,$$,4.5,277,Korean,40.73304,-74.00734
+10016,New York,NY,Her Name Is Han,$$,4.0,965,Korean,40.74626,-73.98473
+10016,New York,NY,Hangawi,$$$,4.0,1057,Korean,40.746737,-73.984662
+10016,New York,NY,Kang Ho Dong Baekjeong,$$$,4.0,1073,Korean,40.747173576622,-73.9852144232788
+10016,New York,NY,Dons Bogam BBQ & Wine Bar,$$$,4.0,936,Korean,40.74678,-73.98437
+10016,New York,NY,Franchia Vegan Cafe,$$,4.0,829,Korean,40.7474712051298,-73.9812423408763
+10016,New York,NY,Take31,$$,4.0,487,Korean,40.7463,-73.984809
+10016,New York,NY,Soju Haus,$$,4.0,484,Korean,40.7468603,-73.9851724
+10016,New York,NY,Cup & Cup,$,4.0,320,Korean,40.74629,-73.9848
+10016,New York,NY,Atoboy,$$$,4.5,253,Korean,40.74364,-73.98456
+10016,New York,NY,Bonchon - NYC 5th Ave,$$,3.5,979,Korean,40.747436,-73.985027
+10018,New York,NY,Bonchon - NYC 38th St,$$,3.5,977,Korean,40.7537928,-73.9891703
+10019,New York,NY,Danji,$$$,4.0,914,Korean,40.764,-73.98686
+10019,New York,NY,Korilla BBQ,$,4.0,494,Korean,40.7647655944894,-73.9822647110451
+10019,New York,NY,Bann Restaurant,$$$,3.5,590,Korean,40.7628273031386,-73.9878592313522
+10025,New York,NY,Koko Wings,$$,3.5,272,Korean,40.80096,-73.96734
+10025,New York,NY,Mokja,$$,4.0,123,Korean,40.797744938993,-73.9678908884525
+10028,New York,NY,Mokja,$$,4.0,110,Korean,40.7774361,-73.9492703
+10032,New York,NY,GoGo-Gi,$$,4.0,160,Korean,40.83794,-73.94171
+10036,New York,NY,Red Poke,$$,4.5,461,Korean,40.7588993,-73.991915
+10036,New York,NY,Hell's Chicken,$$,4.0,298,Korean,40.7618612989506,-73.9940421852417
+10128,New York,NY,Maroo,$$,4.0,120,Korean,40.7824759,-73.9513328
+10002,New York,NY,Kopitiam,$,4.0,398,Malaysian,40.71387,-73.99091
+10002,New York,NY,Perfect Taste,$$,5.0,18,Malaysian,40.71508,-73.99157
+10003,New York,NY,LoveMama,$$,4.0,3881,Malaysian,40.7303859,-73.9860613
+10003,New York,NY,Laut,$$,3.5,1074,Malaysian,40.73763,-73.99105
+10003,New York,NY,Bali Kitchen,$$,4.5,95,Malaysian,40.725371,-73.987617
+10003,New York,NY,Malaysian Kitchen Food Truck,$,3.0,4,Malaysian,40.7364944535093,-73.9911496639252
+10011,New York,NY,Rasa,$$,4.0,588,Malaysian,40.7327654,-73.9975674
+10013,New York,NY,Nyonya,$$,4.0,1907,Malaysian,40.7190148,-73.9968228
+10013,New York,NY,Wok Wok,$$,4.0,668,Malaysian,40.71406,-73.99883
+10013,New York,NY,New Malaysia,$$,3.5,651,Malaysian,40.7158109,-73.9964924
+10013,New York,NY,Aux Epices,$$,4.0,287,Malaysian,40.7181073647053,-73.9991025383579
+10013,New York,NY,Asian Spicy Curry Pop-up,$,4.5,125,Malaysian,40.715031,-73.99931
+10013,New York,NY,Sanuria,$,3.5,217,Malaysian,40.7147,-73.9980099
+10013,New York,NY,Jaya 888,$$,3.0,274,Malaysian,40.7169062,-73.9998838
+10013,New York,NY,Let's Makan,$,4.0,49,Malaysian,40.7155537443928,-73.9980341973023
+10024,New York,NY,Malaysia Grill,$$,4.0,261,Malaysian,40.79948,-73.96775
+10002,New York,NY,Jajaja,$$,4.5,556,Mexican,40.7141530317142,-73.9904247969389
+10002,New York,NY,La Contenta,$$,4.5,653,Mexican,40.71873,-73.98691
+10002,New York,NY,Barrio Chino,$$,4.0,1060,Mexican,40.718022,-73.990026
+10003,New York,NY,Miscelanea NY,$,5.0,305,Mexican,40.72686,-73.99075
+10003,New York,NY,Dos Toros Taqueria,$,4.0,1292,Mexican,40.7336815475083,-73.9897049423153
+10003,New York,NY,Taqueria Diana,$,4.0,681,Mexican,40.7284337609976,-73.9879844318771
+10003,New York,NY,Mayahuel Mariposa,$$,4.0,583,Mexican,40.72711,-73.98817
+10003,New York,NY,DORADO Tacos & Quesadillas,$,4.0,580,Mexican,40.73396,-73.99312
+10003,New York,NY,Rosie's,$$,4.0,590,Mexican,40.72492,-73.99079
+10003,New York,NY,Taqueria St. Marks Place,$$,4.0,370,Mexican,40.7278587780221,-73.9856138085992
+10003,New York,NY,The Black Ant,$$,4.0,467,Mexican,40.72578,-73.98952
+10003,New York,NY,Rosa Mexicano,$$$,3.5,1374,Mexican,40.7382,-73.99083
+10003,New York,NY,La Palapa,$$,3.5,644,Mexican,40.727969,-73.985604
+10004,New York,NY,Mad Dog & Beans Mexican Cantina,$$,3.5,786,Mexican,40.704168,-74.010261
+10009,New York,NY,Fonda East Village,$$,4.0,682,Mexican,40.722852,-73.98286
+10009,New York,NY,El Camion,$$,4.0,630,Mexican,40.7291,-73.98105
+10009,New York,NY,Zaragoza Mexican Deli & Grocery,$,4.0,290,Mexican,40.730102,-73.980949
+10010,New York,NY,Cosme,$$$,3.5,804,Mexican,40.739691,-73.988428
+10010,New York,NY,Tacombi - Flatiron,$$,3.5,552,Mexican,40.7428563,-73.9911656
+10011,New York,NY,Agave,$$,3.5,1182,Mexican,40.734767,-74.002415
+10011,New York,NY,Bodega Negra,$$$,3.5,576,Mexican,40.7421414364183,-74.0035781860352
+10012,New York,NY,Cafe Habana,$$,4.0,3072,Mexican,40.722998,-73.994171
+10012,New York,NY,Tacombi - Nolita,$$,3.5,1022,Mexican,40.7240304,-73.9939028
+10012,New York,NY,La Esquina,$$,3.5,1896,Mexican,40.721372,-73.997529
+10012,New York,NY,Toloache 50,$$$,4.0,1692,Mexican,40.762325,-73.9855741
+10012,New York,NY,Dos Caminos,$$,3.5,987,Mexican,40.7266571025704,-73.9998936653137
+10012,New York,NY,Toloache Thompson,$$,4.0,408,Mexican,40.7286749,-73.9996277
+10014,New York,NY,Flip Sigi,$$,4.0,599,Mexican,40.73405,-74.00642
+10014,New York,NY,Ofrenda,$$,4.0,889,Mexican,40.73391,-74.00242
+10014,New York,NY,La Loteria,$$,4.0,277,Mexican,40.7307865530978,-74.004135953373
+10014,New York,NY,Benny's Burritos,$$,3.5,704,Mexican,40.7380740387279,-74.002123778491
+10014,New York,NY,Empellón - Taqueria,$$$,3.5,648,Mexican,40.7341219,-74.0030294
+10016,New York,NY,Baby Bo's Cantina,$$,3.5,573,Mexican,40.74514,-73.97598
+10016,New York,NY,Dos Caminos,$$,3.5,1089,Mexican,40.7421567897168,-73.9845427163755
+10016,New York,NY,El Parador Cafe,$$,4.0,404,Mexican,40.7444599,-73.97472
+10016,New York,NY,El Rio Grande,$$,3.5,573,Mexican,40.748074661455,-73.976690081965
+10017,New York,NY,Sinigual,$$,3.5,747,Mexican,40.7503161990978,-73.9750733399726
+10017,New York,NY,Pampano,$$$,4.0,538,Mexican,40.75503,-73.97054
+10017,New York,NY,Tacos Grand Central,$,4.0,185,Mexican,40.75164,-73.97418
+10018,New York,NY,Blue Maiz,$,4.0,197,Mexican,40.75543,-73.99071
+10019,New York,NY,Vida Verde,$$,4.5,699,Mexican,40.7650089,-73.983215
+10019,New York,NY,The Burrito Box,$,4.0,815,Mexican,40.76831,-73.98565
+10019,New York,NY,Mamasita Bar & Grill,$$,4.0,817,Mexican,40.76733,-73.98945
+10019,New York,NY,El Centro,$$,4.0,784,Mexican,40.76602,-73.98688
+10019,New York,NY,Ponche Taqueria & Cantina,$$,4.0,464,Mexican,40.763157,-73.99047
+10019,New York,NY,Tacuba Hell's Kitchen,$$,4.0,528,Mexican,40.76542,-73.98719
+10019,New York,NY,Hell's Kitchen,$$,4.0,343,Mexican,40.7638823425707,-73.9884334000586
+10019,New York,NY,Blockheads,$$,3.5,727,Mexican,40.7627155294445,-73.9876316100625
+10019,New York,NY,Mother Burger,$$,3.5,507,Mexican,40.7624274029009,-73.9882471745951
+10021,New York,NY,Two Lizards Mexican Bar & Grill,$$,3.5,424,Mexican,40.768857,-73.955524
+10022,New York,NY,Dos Caminos,$$,3.0,1449,Mexican,40.755878,-73.970383
+10022,New York,NY,Rosa Mexicano,$$$,3.5,488,Mexican,40.75895,-73.96268
+10022,New York,NY,Empellón,$$$,4.0,260,Mexican,40.75971,-73.97473
+10023,New York,NY,Rosa Mexicano,$$$,3.5,1093,Mexican,40.77118,-73.98311
+10023,New York,NY,Playa Betty's,$$,3.5,582,Mexican,40.78075,-73.98032
+10023,New York,NY,El Mitote,$$,3.5,413,Mexican,40.77578,-73.98021
+10024,New York,NY,Oaxaca Taqueria,$,3.5,358,Mexican,40.7841453552246,-73.9778137207031
+10024,New York,NY,Cilantro,$$,3.5,386,Mexican,40.784629,-73.973121
+10025,New York,NY,Taqueria Y Fonda,$,3.5,471,Mexican,40.8016168,-73.965212
+10025,New York,NY,Casa Mexicana,$$,4.0,176,Mexican,40.7989892,-73.966955
+10025,New York,NY,Cascabel Taqueria,$$,3.5,372,Mexican,40.8029136693265,-73.9679586979658
+10026,New York,NY,Cantina Taqueria & Tequila Bar,$$,4.0,421,Mexican,40.8003063353508,-73.9549569049235
+10026,New York,NY,L Encanto D Lola,$$,3.5,247,Mexican,40.8001464434346,-73.9511863565111
+10028,New York,NY,Toloache 82nd,$$$,4.0,361,Mexican,40.77648,-73.95669
+10028,New York,NY,Cascabel Taqueria,$$,3.5,354,Mexican,40.7743636,-73.9539916
+10029,New York,NY,Cascalote Latin Bistro,$$,4.5,311,Mexican,40.79271,-73.94069
+10029,New York,NY,Cafe Ollin,$$,4.0,370,Mexican,40.7912288,-73.9395386
+10029,New York,NY,Taco Mix,$,4.0,333,Mexican,40.797098,-73.938785
+10029,New York,NY,Burritos y Mas NY Tex-Mex,$,4.5,128,Mexican,40.7887686998247,-73.9486259859039
+10029,New York,NY,Sidewalk Tacos,$,4.5,55,Mexican,40.79409,-73.94026
+10029,New York,NY,El Aguila,$,4.0,173,Mexican,40.790573,-73.947715
+10029,New York,NY,La Chula,$$,4.0,115,Mexican,40.79882,-73.94168
+10031,New York,NY,Oso,$$,4.0,221,Mexican,40.82195,-73.9502399
+10031,New York,NY,Frijolito's,$,4.5,106,Mexican,40.8234652876854,-73.9524172246456
+10031,New York,NY,Yolanda's Tamales,$,5.0,39,Mexican,40.8213076768784,-73.9539987592992
+10031,New York,NY,Taqueria San Pedro,$,4.0,115,Mexican,40.8303299,-73.94728
+10031,New York,NY,Picante,$$,3.0,284,Mexican,40.8228372881426,-73.9527709564668
+10032,New York,NY,Sweet Life Pastry,$,4.5,98,Mexican,40.8375109438682,-73.9426190258619
+10032,New York,NY,Las Palmas Restaurant,$,4.0,139,Mexican,40.8377037,-73.9425248
+10032,New York,NY,La Fiesta,$,4.0,88,Mexican,40.8344,-73.94496
+10033,New York,NY,Refried Beans Mexican Grill,$$,3.5,234,Mexican,40.8549599636967,-73.9370997259323
+10033,New York,NY,Rincon Mexicano,$$,4.0,63,Mexican,40.84699,-73.93788
+10034,New York,NY,Guadalupe Restaurant,$$,4.0,574,Mexican,40.86739,-73.92083
+10034,New York,NY,G's Coffee Shop,$,4.5,58,Mexican,40.8681434,-73.9216979
+10034,New York,NY,Papasito Mexican Grill & Agave Bar,$$,3.0,384,Mexican,40.8658205,-73.9273649
+10034,New York,NY,Taqueria Emilio,$,4.5,29,Mexican,40.8662220265057,-73.9201356056336
+10034,New York,NY,Guacamole Taqueria,$$,3.5,106,Mexican,40.86952,-73.91674
+10034,New York,NY,7 Tacos Authentic Mexican,$$,3.5,73,Mexican,40.86366,-73.92533
+10035,New York,NY,El Kallejon,$$,4.5,239,Mexican,40.798538,-73.938805
+10036,New York,NY,Réunion,$$,4.0,649,Mexican,40.75964943513,-73.991308284398
+10036,New York,NY,Casa Agave,$$,4.0,393,Mexican,40.7621289160565,-73.990313728836
+10036,New York,NY,Anejo,$$,3.5,595,Mexican,40.762577,-73.992919
+10040,New York,NY,Grito Mexican Grill,$$,4.0,146,Mexican,40.8537194,-73.9305393
+10040,New York,NY,Tacos El Paisa,$,3.5,80,Mexican,40.8533143,-73.9306442
+10040,New York,NY,Cañave,$$,4.5,38,Mexican,40.864528,-73.9289005151705
+10065,New York,NY,Maya,$$$,3.5,824,Mexican,40.7632055528185,-73.9596225112209
+10075,New York,NY,Calexico,$$,4.0,526,Mexican,40.77259,-73.95588
+10075,New York,NY,Dos Toros Taqueria,$,3.5,345,Mexican,40.7739509,-73.9594762
+10128,New York,NY,Noche De Margaritas,$$,4.0,297,Mexican,40.7801018,-73.9497833
+10128,New York,NY,Selena Rosa,$$,3.5,259,Mexican,40.779514,-73.950149
+10282,New York,NY,El Vez,$$,3.5,569,Mexican,40.7147356376792,-74.015635
+10003,New York,NY,Little Poland,$$,4.0,269,Polish,40.73119,-73.9855199
+10003,New York,NY,Klimat Lounge,$$,4.0,133,Polish,40.7274436950684,-73.9862976074219
+10020,New York,NY,Old Traditional Polish Cuisine,$,4.5,58,Polish,40.7647053435302,-73.9821391124684
+10002,New York,NY,Joey Bats Café,$,5.0,102,Portuguese,40.72006,-73.99037
+10009,New York,NY,Taberna 97,$$$,4.0,52,Portuguese,40.7275018841028,-73.9849530905485
+10011,New York,NY,Aldea,$$$,4.0,582,Portuguese,40.738754,-73.993867
+10013,New York,NY,Macao trading Co,$$$,4.0,695,Portuguese,40.71962,-74.00391
+10028,New York,NY,PortuGrill NYC,$$,5.0,4,Portuguese,40.77706,-73.9572
+10036,New York,NY,Ipanema Restaurant,$$,4.0,1126,Portuguese,40.757072217349,-73.9807795529175
+10003,New York,NY,Mari Vanna,$$$,4.0,595,Russian,40.73878,-73.98858
+10003,New York,NY,Anyway Cafe,$$,4.0,201,Russian,40.7250017,-73.9906009
+10014,New York,NY,Babushkas Russian Dumplings,$$,3.0,2,Russian,40.7316289174502,-74.0010534719223
+10018,New York,NY,Farida Central Asian Cuisine & Grill,$$,4.5,107,Russian,40.75568,-73.99441
+10019,New York,NY,Russian Vodka Room,$$,4.0,517,Russian,40.76349,-73.9848
+10019,New York,NY,Russian Samovar Restaurant and Piano Bar,$$,4.0,369,Russian,40.7632,-73.98469
+10019,New York,NY,Daa! Dumplings,$$,4.5,81,Russian,40.7644799719167,-73.9844849330807
+10019,New York,NY,The Russian Tea Room,$$$$,3.0,888,Russian,40.764958,-73.9794337
+10019,New York,NY,Uncle Vanya Cafe,$$,3.0,111,Russian,40.765392,-73.985099
+10038,New York,NY,Matryoshka,$$,4.0,20,Russian,40.7092569,-74.0058865
+10001,New York,NY,Chop Shop,$$,3.5,220,Thai,40.7486687,-74.0031128
+10002,New York,NY,Zest Sushi,$$,4.0,748,Thai,40.7178344726563,-73.9899597167969
+10002,New York,NY,Pig and Khao,$$,4.0,1384,Thai,40.71926,-73.98475
+10002,New York,NY,Sticky Rice,$$,3.5,343,Thai,40.71798,-73.99042
+10002,New York,NY,Ginger and Lemongrass,$$,4.5,224,Thai,40.71912,-73.98567
+10003,New York,NY,LoveMama,$$,4.0,3881,Thai,40.7303859,-73.9860613
+10003,New York,NY,Thai Villa,$$,4.5,2249,Thai,40.73902,-73.99065
+10003,New York,NY,Thaimee Table,$$,3.5,1231,Thai,40.7323,-73.98769
+10003,New York,NY,Klong,$$,3.5,1021,Thai,40.729507,-73.989181
+10003,New York,NY,Spice,$$,3.5,1449,Thai,40.7345,-73.9919
+10003,New York,NY,Laut,$$,3.5,1074,Thai,40.73763,-73.99105
+10003,New York,NY,Thai Terminal,$$,3.5,542,Thai,40.73039,-73.98381
+10003,New York,NY,Lui's Thai Food,$$,4.0,228,Thai,40.7252464294434,-73.9875869750977
+10003,New York,NY,Thailand Cafe,$$,3.5,314,Thai,40.72726,-73.989059
+10003,New York,NY,Kiin Thai Eatery,$$,3.5,277,Thai,40.7312881636412,-73.9943569108961
+10003,New York,NY,Kati Thai Cuisine,$$,4.0,228,Thai,40.7318077087402,-73.98291015625
+10005,New York,NY,Luckyim Thai,$,4.0,148,Thai,40.7045699,-74.00886
+10009,New York,NY,Somtum Der,$$,4.0,626,Thai,40.7252151982238,-73.9842741682317
+10010,New York,NY,Little Basil,$$,4.0,440,Thai,40.741014,-73.982259
+10010,New York,NY,Proong Noodle Bar,$$,4.5,95,Thai,40.73528,-73.98003
+10011,New York,NY,Asuka Sushi,$$,4.0,817,Thai,40.74529,-73.99888
+10011,New York,NY,Rasa,$$,4.0,588,Thai,40.7327654,-73.9975674
+10011,New York,NY,Pinto Garden,$$,4.5,170,Thai,40.734882,-73.9994844
+10011,New York,NY,Rin Thai,$$,3.5,337,Thai,40.74524,-73.99764
+10012,New York,NY,Top Thai Greenwich,$$,4.5,935,Thai,40.72977,-73.99939
+10012,New York,NY,Fish Cheeks,$$,4.0,300,Thai,40.7258,-73.9927
+10012,New York,NY,Uncle Boons,$$$,4.0,762,Thai,40.7211328622237,-73.9943286309159
+10012,New York,NY,Galanga,$$,3.5,456,Thai,40.7316,-74.00049
+10013,New York,NY,Wok Wok,$$,4.0,668,Thai,40.71406,-73.99883
+10013,New York,NY,Thailicious,$$,4.0,236,Thai,40.7162609,-73.9999063
+10013,New York,NY,Thai Jasmine Resturant,$$,3.5,359,Thai,40.7162099,-73.9999
+10014,New York,NY,Tue Thai Restaurant,$$,3.5,316,Thai,40.73387,-73.9997999
+10014,New York,NY,Potjanee Thai Restaurant,$$,3.5,286,Thai,40.73005,-74.003417
+10016,New York,NY,VIV Regional Thai Cuisine,$$,3.5,378,Thai,40.74601,-73.9795
+10016,New York,NY,Jaiya,$$,3.5,784,Thai,40.742179,-73.980915
+10016,New York,NY,Lan Larb,$$,4.0,241,Thai,40.745373,-73.975807
+10016,New York,NY,Sabai Thai Restaurant,$$,4.5,131,Thai,40.74422,-73.98365
+10018,New York,NY,Thai Select,$$,3.5,504,Thai,40.754764,-73.994903
+10019,New York,NY,Pure Thai Cookhouse,$$,4.0,2308,Thai,40.764291,-73.988159
+10019,New York,NY,Wondee Siam,$$,4.0,915,Thai,40.76495,-73.98747
+10019,New York,NY,VIV,$$,4.0,618,Thai,40.76277,-73.98969
+10019,New York,NY,Noodies,$$,4.0,444,Thai,40.7662850538302,-73.9866788007826
+10019,New York,NY,Topaz Noodle Bar,$$,4.0,490,Thai,40.7644424438477,-73.9789733886719
+10019,New York,NY,Pam Real Thai Food,$$,3.5,601,Thai,40.762978,-73.98993
+10019,New York,NY,Esanation,$$,3.5,270,Thai,40.7637,-73.98839
+10019,New York,NY,Chai Thai Kitchen - Midtown,$$,3.5,514,Thai,40.76541,-73.98352
+10019,New York,NY,Der Krung Thai Cuisine,$$,4.0,186,Thai,40.7670715,-73.9861371779099
+10019,New York,NY,Topaz Thai Authentic,$$,3.5,755,Thai,40.7644157409668,-73.9789047241211
+10021,New York,NY,Up Thai,$$,4.5,1885,Thai,40.7698275926665,-73.9576330868512
+10021,New York,NY,THEP Thai Restaurant,$$,4.5,298,Thai,40.77078,-73.95727
+10022,New York,NY,Sukhumvit 51,$$,4.0,660,Thai,40.7559139831703,-73.9693867939228
+10022,New York,NY,OBAO,$$,3.5,750,Thai,40.757122,-73.968566
+10022,New York,NY,Kati Shop,$$,5.0,66,Thai,40.75899,-73.96883
+10022,New York,NY,Pa Pa Thai Cuisine,$,4.5,144,Thai,40.7593778206059,-73.9624154842934
+10023,New York,NY,SalaThai Restaurant,$$,4.5,130,Thai,40.7801199,-73.98032
+10023,New York,NY,Thai72,$$,4.0,160,Thai,40.77763,-73.98003
+10024,New York,NY,Land,$$,4.0,1012,Thai,40.78497,-73.9772182
+10024,New York,NY,Senn Thai Comfort Food,$$,4.0,240,Thai,40.7849945637664,-73.9770103128512
+10025,New York,NY,Thai Market,$$,4.0,908,Thai,40.80132,-73.96529
+10025,New York,NY,Opai Thai,$$,3.5,318,Thai,40.793666,-73.971031
+10027,New York,NY,Nikko,$$,3.5,329,Thai,40.81156,-73.95781
+10028,New York,NY,Bangkok Cuisine Upper East Side,$$,4.0,251,Thai,40.77537,-73.95335
+10028,New York,NY,PuTawn Local Thai Kitchen,$$,4.5,171,Thai,40.77446,-73.95077
+10029,New York,NY,Malii,$$,4.5,204,Thai,40.789432,-73.942962
+10029,New York,NY,Bangklyn East Harlem,$,4.5,81,Thai,40.7903,-73.94307
+10029,New York,NY,Pro Thai,$$,4.0,160,Thai,40.78888,-73.94857
+10032,New York,NY,Tung Thong Thai Restaurant,$$,3.5,252,Thai,40.8414062274416,-73.9386532729438
+10032,New York,NY,Rain II,$$,3.5,146,Thai,40.8386021168729,-73.9402397792596
+10033,New York,NY,Tung Thong 181,$$,4.0,58,Thai,40.8508415222168,-73.9390716552734
+10034,New York,NY,Yummy Thai,$$,3.0,361,Thai,40.86808,-73.9205
+10035,New York,NY,Thai Soup,$$,3.5,149,Thai,40.799678867234,-73.9397361020726
+10036,New York,NY,OBAO,$$,4.0,2019,Thai,40.7606544,-73.991332
+10036,New York,NY,Room Service,$$,3.5,1755,Thai,40.76176,-73.9898
+10036,New York,NY,Qi,$$,3.5,1147,Thai,40.762,-73.98961
+10036,New York,NY,At Nine Restaurant & Bar,$$,4.0,403,Thai,40.758697,-73.992064
+10036,New York,NY,Pongsri Thai Restaurant,$$,3.5,471,Thai,40.76071,-73.98652
+10128,New York,NY,Pye Boat Noodle,$$,4.0,375,Thai,40.779697,-73.950767
+10128,New York,NY,Thais New York,$$,4.0,117,Thai,40.7812989957846,-73.9494738355279
+10128,New York,NY,Thai Peppercorn,$$,3.5,181,Thai,40.7797089,-73.946907
+10001,New York,NY,Hyo Dong Gak,$$,3.5,383,Vietnamese,40.7501219,-73.9862269
+10002,New York,NY,Pho Grand,$,3.5,726,Vietnamese,40.717713,-73.992773
+10002,New York,NY,Pho Vietnam,$,4.0,409,Vietnamese,40.717587,-73.9944029
+10002,New York,NY,Ginger and Lemongrass,$$,4.5,224,Vietnamese,40.71912,-73.98567
+10002,New York,NY,Bep Ga,$$,4.5,121,Vietnamese,40.71701,-73.99324
+10002,New York,NY,An Choi,$$,3.5,477,Vietnamese,40.71798,-73.99042
+10002,New York,NY,Cong Ly Restaurant,$,3.5,258,Vietnamese,40.71697,-73.99471
+10002,New York,NY,Nam Son Vietnamese Restaurant,$,3.5,480,Vietnamese,40.71818,-73.994333
+10003,New York,NY,LoveMama,$$,4.0,3881,Vietnamese,40.7303859,-73.9860613
+10003,New York,NY,Madame Vo,$$,4.0,598,Vietnamese,40.72925,-73.98612
+10003,New York,NY,V-Nam Cafe,$,4.0,430,Vietnamese,40.7233696141088,-73.9881201811982
+10003,New York,NY,Saigon Market,$$,3.5,823,Vietnamese,40.7335422,-73.9928992
+10003,New York,NY,Sao Mai,$$,4.0,494,Vietnamese,40.730362,-73.98362
+10003,New York,NY,Indochine,$$$,3.5,341,Vietnamese,40.72917,-73.99227
+10009,New York,NY,Xe May Sandwich Shop,$,4.5,575,Vietnamese,40.7272,-73.98493
+10009,New York,NY,Hanoi House,$$,4.0,387,Vietnamese,40.72698,-73.98357
+10009,New York,NY,Banh Mi Zon,$,4.5,295,Vietnamese,40.7256861,-73.9842575
+10010,New York,NY,Luu's Baguette,$,4.0,474,Vietnamese,40.7411231994629,-73.9830856323242
+10011,New York,NY,Omai,$$,4.0,239,Vietnamese,40.74434,-74.00268
+10012,New York,NY,BoCaphe,$$,4.0,1004,Vietnamese,40.7220786,-73.9975506
+10012,New York,NY,Hello Saigon,$$,4.0,211,Vietnamese,40.7289399955423,-74.0009501203895
+10013,New York,NY,Banh Mi Saigon,$,4.0,1375,Vietnamese,40.71936,-73.99667
+10013,New York,NY,Saigon Vietnamese Sandwich Deli,$,4.0,581,Vietnamese,40.7199582,-73.9958631
+10013,New York,NY,Thái Son,$,3.5,791,Vietnamese,40.71677,-73.9995
+10013,New York,NY,Nha Trang One,$,3.5,704,Vietnamese,40.71671,-73.9995299
+10013,New York,NY,Bo Ky Restaurant,$,3.5,675,Vietnamese,40.71579,-73.99867
+10013,New York,NY,Mooncake Foods,$$,4.0,501,Vietnamese,40.723596182527,-74.00409635108
+10013,New York,NY,Pho Bang Restaurant,$,4.0,489,Vietnamese,40.71952,-73.99657
+10013,New York,NY,Sau Voi,$,4.0,235,Vietnamese,40.717712,-74.000885
+10013,New York,NY,Tu Do Restaurant,$,4.0,289,Vietnamese,40.7178239198064,-73.9953305925527
+10013,New York,NY,Pasteur Grill and Noodles,$$,3.5,248,Vietnamese,40.71667,-73.99974
+10019,New York,NY,Cha Pa's Noodles And Grill,$$,3.5,520,Vietnamese,40.7637,-73.98615
+10022,New York,NY,OBAO,$$,3.5,750,Vietnamese,40.757122,-73.968566
+10022,New York,NY,Le Colonial,$$$,3.5,254,Vietnamese,40.7609,-73.96833
+10025,New York,NY,Saiguette,$$,4.5,525,Vietnamese,40.79902,-73.96281
+10036,New York,NY,OBAO,$$,4.0,2019,Vietnamese,40.7606544,-73.991332
+10036,New York,NY,An'Nam,$$,4.0,235,Vietnamese,40.7605285644531,-73.9863891601562
+10065,New York,NY,Spice Saigon,$$,3.5,166,Vietnamese,40.7645621771246,-73.9585727685255
+10128,New York,NY,Vietnaam,$$,4.0,673,Vietnamese,40.7791481018066,-73.9504165649414
+10128,New York,NY,Pho Shop,$$,4.0,221,Vietnamese,40.77854288396,-73.9477937668562
+10128,New York,NY,Le Viet Cafe,$$,3.5,108,Vietnamese,40.78116,-73.94913
+10001,New York,NY,Lasani Restaurant,$,3.5,43,Pakistani,40.74588,-73.98792
+10001,New York,NY,Salt & Pepper,$,2.5,85,Pakistani,40.7498789,-73.9900547
+10002,New York,NY,The MasalaWala,$$,4.5,1282,Pakistani,40.72191,-73.98666
+10007,New York,NY,Sheezan Restaurant,$,3.5,26,Pakistani,40.71566,-74.00717
+10011,New York,NY,Dil-e Punjab Deli,$,4.5,173,Pakistani,40.74482,-74.00206
+10012,New York,NY,Masala Times,$$,4.0,505,Pakistani,40.7292728223798,-74.0015978515206
+10012,New York,NY,Lahore Deli,$,4.0,155,Pakistani,40.72478,-73.99632
+10013,New York,NY,Burger N Grill,$$,4.0,4,Pakistani,40.71561,-74.00762
+10016,New York,NY,Curry Express,$,3.5,215,Pakistani,40.74305,-73.98175
+10016,New York,NY,Curry In A Hurry,$$,3.0,441,Pakistani,40.74268,-73.9822499
+10016,New York,NY,Haandi,$,3.5,283,Pakistani,40.7424,-73.98237
+10016,New York,NY,Kustory Kabab,$,3.0,16,Pakistani,40.742961,-73.9824728
+10016,New York,NY,Lahori Tikka Masala,$$,2.5,5,Pakistani,40.7417946,-73.9827194
+10017,New York,NY,Halal Cart,$,4.5,13,Pakistani,40.7519506788492,-73.980059211846
+10017,New York,NY,Cafe Spice Express,$$,3.0,67,Pakistani,40.7493320505453,-73.9749096455078
+10018,New York,NY,Kashmir 9 - Cuisine of Pakistan,$,3.5,167,Pakistani,40.7549782340085,-73.9948511123657
+10019,New York,NY,Bombay Grill House,$$,4.0,200,Pakistani,40.76415,-73.98806
+10019,New York,NY,Desi Junction,$,3.5,4,Pakistani,40.763465,-73.992317
+10025,New York,NY,Ayurveda Cafe,$$,4.0,291,Pakistani,40.79305,-73.97132
+10025,New York,NY,Curry King,$,3.0,42,Pakistani,40.799566279368,-73.9629824840441
+10029,New York,NY,Indo Pak Halal Restaurant,$,3.0,43,Pakistani,40.7934736702072,-73.9403164386749
+10036,New York,NY,Trini Paki Boys Cart,$,4.0,72,Pakistani,40.755287066207,-73.983371257782
+10036,New York,NY,My Biryani,$$,4.5,7,Pakistani,40.75605,-73.98386
