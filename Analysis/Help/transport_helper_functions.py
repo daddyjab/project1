@@ -13,7 +13,9 @@ import math
 from scipy import stats
 from pprint import pprint
 
-
+# Functions to find the distance between 2 lat/long coordinates
+# Description: https://pypi.org/project/geopy/1.9.1/
+# from geopy.distance import (distance, great_circle)
 
 # Function to find the a (lat, long) coord that is closest to a reference point
 #  and then return the index of the coord in the provided list of coords
@@ -23,14 +25,14 @@ from pprint import pprint
 # stop_coords: a list of tuples with ('stop_lat', 'stop_lon')
 #               generated from the dataframe containing CTA stops
 
-def closest_coord(coords, r):
+#def closest_coord(coords, r):
     # Find the lat/long tuple closest to the reference point provided
-    close_point = min( coords, key=lambda z: distance( z, r ).feet )
+    # close_point = min( coords, key=lambda z: distance( z, r ).feet )
     
     # Get the index of this closest point in the list of coordinates
     # (Note, if there are dups in the list just return the first index)
-    retval = coords.index( close_point )
-    return retval
+    # retval = coords.index( close_point )
+    # return retval
 
 
 # Function to generate a linear regression and a set of data points for the trend line
@@ -169,7 +171,14 @@ def gen_scatter_plot(a_plot_dict):
             continue
 
         # Select marker color and add it to the list
-        marker_colors.append( color_list[ np.digitize(c_plotvalue, color_threshold_list) ] )
+        try:
+            marker_colors.append( color_list[ np.digitize(c_plotvalue, color_threshold_list) ] )
+        except IndexError:
+            # If the thresholds were defined improperly and
+            #  the c_plotvalue is higher than the highest threshold value,
+            # Then just set the color to be high highest color in the list
+            marker_colors.append( color_list[ -1 ] )
+            #print(f"IndexError: ci:{ci}: c_plotvalue:{c_plotvalue} => index for color_list:{np.digitize(c_plotvalue, color_threshold_list)}")
 
     # Plot a scatter plot
     plt.scatter(a_data_df[c_x_column], a_data_df[c_plotcolumn], c=marker_colors, alpha=0.5)
@@ -392,9 +401,15 @@ def gen_bar_plot(a_plot_dict):
         # Set the error bars using the standard deviation of the mean (sem)
         c_sem = a_data_sem_df.loc[ci,a_y_column]
 
-        # Select marker color and add it to the list
-        c_color = color_list[ np.digitize(c_plotvalue, color_threshold_list) ]
-
+        # Select bar color 
+        try:
+            c_color = color_list[ np.digitize(c_plotvalue, color_threshold_list) ]
+        except IndexError:
+            # If the thresholds were defined improperly and
+            #  the c_plotvalue is higher than the highest threshold value,
+            # Then just set the color to be high highest color in the list
+            c_color = color_list[ -1 ]
+     
         # Set the placement location for the value text
         text_offset = 0
         c_textloc = c_plotvalue + text_offset
