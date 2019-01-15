@@ -21,7 +21,7 @@ from pprint import pprint
 #  and then return the index of the coord in the provided list of coords
 # Note: If the coordinates are duplicated in the list of coordinates,
 #        then the index of the first coordinate is returned
-# r: reference point as a tuple (lat, long)
+# reference point as a tuple (lat, long)
 # stop_coords: a list of tuples with ('stop_lat', 'stop_lon')
 #               generated from the dataframe containing CTA stops
 
@@ -34,6 +34,18 @@ from pprint import pprint
     # retval = coords.index( close_point )
     # return retval
 
+    # Perform a reverse geocode loopup to find the zipcode associated with this lat/long coord
+    g_response = requests.get(full_url)
+    g_json = g_response.json()
+    
+    # Traverse the results to find a zipcode for this address
+    zipcode = None
+    for a in r_json['results'][0]['address_components']:
+        if 'postal_code' in a['types']:
+            zipcode = a['long_name']
+            
+    # Return the zipcode that was found
+    return zipcode
 
 # Function to generate a linear regression and a set of data points for the trend line
 def gen_linear_trend( a_x, a_y , a_start=None, a_stop=None ):    
