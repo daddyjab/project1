@@ -15,23 +15,23 @@ from pprint import pprint
 
 # Functions to find the distance between 2 lat/long coordinates
 # Description: https://pypi.org/project/geopy/1.9.1/
-from geopy.distance import (distance, great_circle)
+#from geopy.distance import (distance, great_circle)
 
 # Function to find the a (lat, long) coord that is closest to a reference point
 #  and then return the index of the coord in the provided list of coords
 # Note: If the coordinates are duplicated in the list of coordinates,
 #        then the index of the first coordinate is returned
-# r: reference point as a tuple (lat, long)
+# reference point as a tuple (lat, long)
 # stop_coords: a list of tuples with ('stop_lat', 'stop_lon')
 #               generated from the dataframe containing CTA stops
-def closest_coord(coords, r):
+#def closest_coord(coords, r):
     # Find the lat/long tuple closest to the reference point provided
-    close_point = min( coords, key=lambda z: distance( z, r ).feet )
+ #   close_point = min( coords, key=lambda z: distance( z, r ).feet )
     
     # Get the index of this closest point in the list of coordinates
     # (Note, if there are dups in the list just return the first index)
-    retval = coords.index( close_point )
-    return retval
+ #   retval = coords.index( close_point )
+ #   return retval
 
 # FYI: Function zipcode_from_latlong()
 # A function to use reverse geocode lookup to find a
