@@ -13,7 +13,9 @@ import math
 from scipy import stats
 from pprint import pprint
 
-
+# Functions to find the distance between 2 lat/long coordinates
+# Description: https://pypi.org/project/geopy/1.9.1/
+from geopy.distance import (distance, great_circle)
 
 # Function to find the a (lat, long) coord that is closest to a reference point
 #  and then return the index of the coord in the provided list of coords
@@ -22,7 +24,6 @@ from pprint import pprint
 # r: reference point as a tuple (lat, long)
 # stop_coords: a list of tuples with ('stop_lat', 'stop_lon')
 #               generated from the dataframe containing CTA stops
-
 def closest_coord(coords, r):
     # Find the lat/long tuple closest to the reference point provided
     close_point = min( coords, key=lambda z: distance( z, r ).feet )
@@ -32,6 +33,28 @@ def closest_coord(coords, r):
     retval = coords.index( close_point )
     return retval
 
+# FYI: Function zipcode_from_latlong()
+# A function to use reverse geocode lookup to find a
+#  postal_code (zipcode) associated with a lat/long coord
+def zipcode_from_latlong( a_lat, a_long ):
+    baseurl = "https://maps.googleapis.com/maps/api/geocode/json?"
+    latlong = f"latlng={a_lat},{a_long}"
+    api_key = f"&key={key_gmaps}"
+    
+    full_url = baseurl + latlong + api_key
+
+    # Perform a reverse geocode loopup to find the zipcode associated with this lat/long coord
+    g_response = requests.get(full_url)
+    g_json = g_response.json()
+    
+    # Traverse the results to find a zipcode for this address
+    zipcode = None
+    for a in r_json['results'][0]['address_components']:
+        if 'postal_code' in a['types']:
+            zipcode = a['long_name']
+            
+    # Return the zipcode that was found
+    return zipcode
 
 # Function to generate a linear regression and a set of data points for the trend line
 def gen_linear_trend( a_x, a_y , a_start=None, a_stop=None ):    
